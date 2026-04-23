@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>烘鞋器 Q2 经营仪表盘 - 只读分享版</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <script>
+      window.__READONLY__ = true;
+      window.__SHARE_DATA_URL__ = "./dashboard-data.json";
+    </script>
+    <div class="app-shell">
+      <aside class="control-panel">
+        <div class="brand-block">
+          <p class="eyebrow">Shared Viewer</p>
+          <h1>烘鞋器 Q2 经营仪表盘</h1>
+          <p class="muted">这是只读分享版，同事可以查看、筛选和排序，但不能修改数据源。</p>
+        </div>
+
+        <section class="panel-card">
+          <div class="section-head">
+            <h2>分享说明</h2>
+            <span id="sourceStatus" class="badge badge-idle">只读模式</span>
+          </div>
+          <p class="hint">数据由发布者从飞书或 Excel 同步后生成快照，你看到的是最近一次发布内容。</p>
+        </section>
+
+        <section class="panel-card">
+          <div class="section-head">
+            <h2>日期设置</h2>
+          </div>
+          <label class="input-label" for="manualDate">手动示例日期</label>
+          <input id="manualDate" type="date" />
+          <div class="button-row">
+            <button id="applyDateBtn" class="secondary-btn" type="button">应用日期</button>
+            <button id="resetDateBtn" class="ghost-btn" type="button">恢复自动</button>
+          </div>
+          <p class="hint">可在历史日期之间切换查看，不影响源数据。</p>
+        </section>
+
+        <section class="panel-card">
+          <div class="section-head">
+            <h2>重点预警</h2>
+            <span id="readonlyWarningCount" class="badge badge-info">0 条</span>
+          </div>
+          <div id="readonlyWarningSidebar" class="highlight-stack empty-state">
+            加载后会在这里展示最值得关注的 SKU
+          </div>
+        </section>
+      </aside>
+
+      <main class="dashboard-main">
+        <header class="hero-card">
+          <div>
+            <p class="eyebrow">Shared Operations View</p>
+            <h2>每日利润总览</h2>
+            <p id="heroMeta" class="muted">等待数据加载</p>
+          </div>
+          <div id="heroPill" class="hero-pill">Read Only</div>
+        </header>
+
+        <section class="kpi-grid" id="kpiGrid">
+          <article class="kpi-card">
+            <span class="kpi-label">最新日期</span>
+            <strong class="kpi-value">-</strong>
+            <span class="kpi-subvalue">-</span>
+          </article>
+          <article class="kpi-card">
+            <span class="kpi-label">对比日期</span>
+            <strong class="kpi-value">-</strong>
+            <span class="kpi-subvalue">-</span>
+          </article>
+          <article class="kpi-card">
+            <span class="kpi-label">较前日变化</span>
+            <strong class="kpi-value">-</strong>
+            <span class="kpi-subvalue">-</span>
+          </article>
+          <article class="kpi-card kpi-card--range">
+            <span class="kpi-label">当前周区间</span>
+            <strong class="kpi-value">-</strong>
+            <span class="kpi-subvalue">-</span>
+          </article>
+          <article class="kpi-card">
+            <span class="kpi-label">当前周完成率</span>
+            <strong class="kpi-value">-</strong>
+            <span class="kpi-subvalue">-</span>
+          </article>
+          <article class="kpi-card">
+            <span class="kpi-label">当前月完成率</span>
+            <strong class="kpi-value">-</strong>
+            <span class="kpi-subvalue">-</span>
+          </article>
+        </section>
+
+        <section class="dashboard-grid">
+          <article class="content-card wide">
+            <div class="section-head">
+              <h3>站点总览</h3>
+              <span id="summaryCount" class="badge badge-info">0 个站点</span>
+            </div>
+            <div id="countryBars" class="country-bars empty-state">加载后会展示各站点最新毛利与周完成率</div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>国家</th>
+                    <th data-sort-table="country" data-sort-key="latest" class="sortable">最新毛利RMB</th>
+                    <th data-sort-table="country" data-sort-key="previous" class="sortable">前日毛利RMB</th>
+                    <th data-sort-table="country" data-sort-key="diff" class="sortable">日环比</th>
+                    <th data-sort-table="country" data-sort-key="diffPct" class="sortable">日环比%</th>
+                    <th data-sort-table="country" data-sort-key="weeklyPlan" class="sortable">本周预期RMB</th>
+                    <th data-sort-table="country" data-sort-key="weeklyActual" class="sortable">本周实际RMB</th>
+                    <th data-sort-table="country" data-sort-key="completion" class="sortable">本周完成率</th>
+                  </tr>
+                </thead>
+                <tbody id="countryTableBody">
+                  <tr><td colspan="8" class="table-placeholder">等待数据加载</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </article>
+
+          <article class="content-card side">
+            <div class="section-head">
+              <h3>今日预警SKU</h3>
+              <span id="warningCount" class="badge badge-info">0 条</span>
+            </div>
+            <div class="warning-explainer">
+              <strong>预警逻辑说明</strong>
+              <p>重点抓取：环比下滑、低于预期、负毛利、连续下滑、高预期低达成、异常波动。风险等级越高，越建议优先由负责人处理。</p>
+            </div>
+            <div id="warningTopCards" class="highlight-stack empty-state">加载后会显示最值得优先处理的 SKU</div>
+          </article>
+        </section>
+
+        <section class="content-card">
+          <div class="section-head">
+            <h3>AI建议明细</h3>
+            <span id="warningTableCount" class="badge badge-info">0 条</span>
+          </div>
+          <div class="table-toolbar">
+            <select id="warningRiskFilter"><option value="">全部风险等级</option></select>
+            <select id="warningMarketFilter"><option value="">全部市场等级</option></select>
+            <select id="warningCountryFilter"><option value="">全部国家</option></select>
+            <select id="warningAsinFilter"><option value="">全部 ASIN</option></select>
+            <select id="warningProductFilter"><option value="">全部品名</option></select>
+            <select id="warningOwnerFilter"><option value="">全部负责人</option></select>
+          </div>
+          <div class="table-wrap">
+            <table class="warning-table">
+              <thead>
+                <tr>
+                  <th data-sort-table="warning" data-sort-key="riskScore" class="sortable">风险等级</th>
+                  <th>国家</th>
+                  <th>ASIN</th>
+                  <th>品名</th>
+                  <th>市场等级</th>
+                  <th>链接分级</th>
+                  <th>负责人</th>
+                  <th data-sort-table="warning" data-sort-key="latest" class="sortable">今日毛利RMB</th>
+                  <th data-sort-table="warning" data-sort-key="diff" class="sortable">环比变化</th>
+                  <th data-sort-table="warning" data-sort-key="vsPlan" class="sortable">vs预期</th>
+                  <th data-sort-table="warning" data-sort-key="weeklyCompletion" class="sortable">本周完成率</th>
+                  <th>问题类型</th>
+                  <th>AI建议</th>
+                  <th>动作优先级</th>
+                  <th>建议跟进人</th>
+                </tr>
+              </thead>
+              <tbody id="warningTableBody">
+                <tr><td colspan="15" class="table-placeholder">等待数据加载</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="content-card">
+          <div class="section-head">
+            <h3>ASIN 单日毛利明细</h3>
+            <span id="detailCount" class="badge badge-info">0 条</span>
+          </div>
+          <div class="table-toolbar">
+            <select id="detailMarketFilter"><option value="">全部市场等级</option></select>
+            <select id="detailCountryFilter"><option value="">全部国家</option></select>
+            <select id="detailAsinFilter"><option value="">全部 ASIN</option></select>
+            <select id="detailProductFilter"><option value="">全部品名</option></select>
+            <select id="detailOwnerFilter"><option value="">全部负责人</option></select>
+          </div>
+          <div class="table-wrap tall">
+            <table>
+              <thead>
+                <tr>
+                  <th>国家</th><th>ASIN</th><th>品名</th><th>市场等级</th><th>链接分级</th><th>负责人</th>
+                  <th data-sort-table="detail" data-sort-key="latest" class="sortable">最新毛利RMB</th>
+                  <th data-sort-table="detail" data-sort-key="previous" class="sortable">前日毛利RMB</th>
+                  <th data-sort-table="detail" data-sort-key="diff" class="sortable">环比变化</th>
+                  <th data-sort-table="detail" data-sort-key="diffPct" class="sortable">环比%</th>
+                  <th data-sort-table="detail" data-sort-key="dailyPlan" class="sortable">单日预期RMB</th>
+                  <th data-sort-table="detail" data-sort-key="vsPlan" class="sortable">vs预期</th>
+                  <th>状态</th>
+                </tr>
+              </thead>
+              <tbody id="detailTableBody"><tr><td colspan="13" class="table-placeholder">等待数据加载</td></tr></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="content-card">
+          <div class="section-head">
+            <h3>Q2 周毛利进度</h3>
+            <span id="weeklyCount" class="badge badge-info">0 条</span>
+          </div>
+          <div class="table-toolbar">
+            <select id="weeklyMarketFilter"><option value="">全部市场等级</option></select>
+            <select id="weeklyCountryFilter"><option value="">全部国家</option></select>
+            <select id="weeklyAsinFilter"><option value="">全部 ASIN</option></select>
+            <select id="weeklyProductFilter"><option value="">全部品名</option></select>
+            <select id="weeklyOwnerFilter"><option value="">全部负责人</option></select>
+          </div>
+          <div class="table-wrap tall">
+            <table>
+              <thead>
+                <tr>
+                  <th>国家</th><th>ASIN</th><th>品名</th><th>市场等级</th><th>链接分级</th><th>负责人</th>
+                  <th data-sort-table="weekly" data-sort-key="weeklyPlan" class="sortable">周毛利预期RMB</th>
+                  <th data-sort-table="weekly" data-sort-key="weeklyActual" class="sortable">周毛利实际RMB</th>
+                  <th data-sort-table="weekly" data-sort-key="completion" class="sortable">完成率</th>
+                  <th data-sort-table="weekly" data-sort-key="gap" class="sortable">差异</th>
+                </tr>
+              </thead>
+              <tbody id="weeklyTableBody"><tr><td colspan="10" class="table-placeholder">等待数据加载</td></tr></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="content-card">
+          <div class="section-head">
+            <h3>Q2 月毛利进度</h3>
+            <span id="monthlyCount" class="badge badge-info">0 条</span>
+          </div>
+          <div class="table-toolbar">
+            <select id="monthlyMonthFilter"><option value="">全部月份</option></select>
+            <select id="monthlyMarketFilter"><option value="">全部市场等级</option></select>
+            <select id="monthlyCountryFilter"><option value="">全部国家</option></select>
+            <select id="monthlyAsinFilter"><option value="">全部 ASIN</option></select>
+            <select id="monthlyOwnerFilter"><option value="">全部负责人</option></select>
+          </div>
+          <div class="table-wrap tall">
+            <table>
+              <thead>
+                <tr>
+                  <th>月份</th><th>国家</th><th>ASIN</th><th>品名</th><th>市场等级</th><th>链接分级</th><th>负责人</th>
+                  <th data-sort-table="monthly" data-sort-key="monthlyPlan" class="sortable">月毛利预期RMB</th>
+                  <th data-sort-table="monthly" data-sort-key="monthlyActual" class="sortable">月毛利实际RMB</th>
+                  <th data-sort-table="monthly" data-sort-key="completion" class="sortable">完成率</th>
+                  <th data-sort-table="monthly" data-sort-key="gap" class="sortable">差异</th>
+                </tr>
+              </thead>
+              <tbody id="monthlyTableBody"><tr><td colspan="11" class="table-placeholder">等待数据加载</td></tr></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div id="toast" class="toast hidden"></div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
