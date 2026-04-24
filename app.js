@@ -14,7 +14,7 @@ const state = {
   detailFilters: { market: "", country: "", asin: "", product: "", owner: "" },
   weeklyFilters: { market: "", country: "", asin: "", product: "", owner: "" },
   monthlyFilters: { month: "", market: "", country: "", asin: "", owner: "" },
-  warningFilters: { risk: "", market: "", country: "", asin: "", product: "", owner: "" },
+  warningFilters: { risk: "", market: "", country: "", asin: "", owner: "" },
   countrySort: { key: "latest", direction: "desc" },
   warningSort: { key: "riskScore", direction: "desc" },
   detailSort: { key: "latest", direction: "desc" },
@@ -38,6 +38,8 @@ const refs = {
   applyDateBtn: document.getElementById("applyDateBtn"),
   resetDateBtn: document.getElementById("resetDateBtn"),
   publishShareBtn: document.getElementById("publishShareBtn"),
+  saveGithubTokenBtn: document.getElementById("saveGithubTokenBtn"),
+  githubToken: document.getElementById("githubToken"),
   shareStatus: document.getElementById("shareStatus"),
   shareLink: document.getElementById("shareLink"),
   heroMeta: document.getElementById("heroMeta"),
@@ -50,7 +52,6 @@ const refs = {
   warningMarketFilter: document.getElementById("warningMarketFilter"),
   warningCountryFilter: document.getElementById("warningCountryFilter"),
   warningAsinFilter: document.getElementById("warningAsinFilter"),
-  warningProductFilter: document.getElementById("warningProductFilter"),
   warningOwnerFilter: document.getElementById("warningOwnerFilter"),
   detailCount: document.getElementById("detailCount"),
   weeklyCount: document.getElementById("weeklyCount"),
@@ -58,8 +59,7 @@ const refs = {
   countryBars: document.getElementById("countryBars"),
   countryTableBody: document.getElementById("countryTableBody"),
   warningTopCards: document.getElementById("warningTopCards"),
-  readonlyWarningCount: document.getElementById("readonlyWarningCount"),
-  readonlyWarningSidebar: document.getElementById("readonlyWarningSidebar"),
+  readonlyInfoPanel: document.getElementById("readonlyInfoPanel"),
   warningTableBody: document.getElementById("warningTableBody"),
   detailMarketFilter: document.getElementById("detailMarketFilter"),
   detailCountryFilter: document.getElementById("detailCountryFilter"),
@@ -92,7 +92,6 @@ const refs = {
   ["warningMarketFilter", "warningFilters", "market"],
   ["warningCountryFilter", "warningFilters", "country"],
   ["warningAsinFilter", "warningFilters", "asin"],
-  ["warningProductFilter", "warningFilters", "product"],
   ["warningOwnerFilter", "warningFilters", "owner"],
   ["weeklyMarketFilter", "weeklyFilters", "market"],
   ["weeklyCountryFilter", "weeklyFilters", "country"],
@@ -243,6 +242,32 @@ if (refs.resetDateBtn) refs.resetDateBtn.addEventListener("click", () => {
   renderDashboard();
 });
 
+if (refs.saveGithubTokenBtn) {
+  refs.saveGithubTokenBtn.addEventListener("click", async () => {
+    const token = refs.githubToken?.value?.trim();
+    if (!token) {
+      showToast("请先填写 GitHub token");
+      return;
+    }
+    try {
+      const response = await fetch("/api/share/configure", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ githubToken: token }),
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || "保存 GitHub 配置失败");
+      refs.shareStatus.textContent = "已配置";
+      refs.shareStatus.className = "badge badge-success";
+      if (refs.shareLink && result.publicUrl) refs.shareLink.value = result.publicUrl;
+      showToast("GitHub 自动发布配置已保存");
+    } catch (error) {
+      console.error(error);
+      showToast(error.message);
+    }
+  });
+}
+
 if (refs.publishShareBtn) {
   refs.publishShareBtn.addEventListener("click", async () => {
     if (!state.dataset) {
@@ -266,7 +291,7 @@ if (refs.publishShareBtn) {
       }
       refs.shareStatus.textContent = "已发布";
       refs.shareStatus.className = "badge badge-success";
-      refs.shareLink.value = result.localUrl || "";
+      refs.shareLink.value = result.publicUrl || result.localUrl || "";
       showToast("分享版已生成，可复制只读链接或上传 share_bundle 目录");
     } catch (error) {
       console.error(error);
@@ -516,6 +541,7 @@ function renderDashboard() {
   renderCountryTable(model.countrySummary);
   hydrateFilters(model);
   renderWarnings(model.filteredWarningRows);
+  renderReadonlyInfo(model);
   renderDetailTable(model.filteredDetailRows, model.detailSummary);
   renderWeeklyTable(model.filteredWeeklyRows, model.weeklySummary);
   renderMonthlyTable(model.filteredMonthlyRows, model.monthlySummary);
@@ -769,7 +795,6 @@ function buildDashboardModel(dataset, manualDate) {
     if (state.warningFilters.market && row.marketLevel !== state.warningFilters.market) return false;
     if (state.warningFilters.country && row.country !== state.warningFilters.country) return false;
     if (state.warningFilters.asin && row.asin !== state.warningFilters.asin) return false;
-    if (state.warningFilters.product && row.product !== state.warningFilters.product) return false;
     if (state.warningFilters.owner && (row.owner || "") !== state.warningFilters.owner) return false;
     return true;
   });
@@ -919,16 +944,11 @@ function renderCountryTable(rows) {
 function renderWarnings(rows) {
   refs.warningCount.textContent = `${rows.length} 条`;
   refs.warningTableCount.textContent = `${rows.length} 条`;
-  if (refs.readonlyWarningCount) refs.readonlyWarningCount.textContent = `${rows.length} 条`;
   if (!rows.length) {
     refs.warningTopCards.innerHTML = "当前没有需要重点处理的预警 SKU";
     refs.warningTopCards.classList.add("empty-state");
-    if (refs.readonlyWarningSidebar) {
-      refs.readonlyWarningSidebar.innerHTML = "当前没有需要重点处理的预警 SKU";
-      refs.readonlyWarningSidebar.classList.add("empty-state");
-    }
     refs.warningTableBody.innerHTML =
-      '<tr><td colspan="15" class="table-placeholder">当前没有需要重点处理的预警 SKU</td></tr>';
+      '<tr><td colspan="14" class="table-placeholder">当前没有需要重点处理的预警 SKU</td></tr>';
     return;
   }
 
@@ -948,23 +968,6 @@ function renderWarnings(rows) {
     )
     .join("");
 
-  if (refs.readonlyWarningSidebar) {
-    refs.readonlyWarningSidebar.classList.remove("empty-state");
-    refs.readonlyWarningSidebar.innerHTML = rows
-      .slice(0, 4)
-      .map(
-        (row) => `
-        <article class="highlight-card ${row.riskLevelClass}">
-          <h4>${row.riskLevelLabel} | ${row.country}</h4>
-          <strong>${row.asin}</strong>
-          <span>${row.product}</span>
-          <span>${row.owner || "未分配"} ｜ ${formatCurrency(row.latest)}</span>
-        </article>
-      `
-      )
-      .join("");
-  }
-
   refs.warningTableBody.innerHTML = rows
     .map(
       (row) => `
@@ -983,11 +986,33 @@ function renderWarnings(rows) {
         <td>${row.issueTypes.join(" / ")}</td>
         <td>${row.aiAdvice}</td>
         <td>${row.priority}</td>
-        <td>${row.followOwner}</td>
       </tr>
     `
     )
     .join("");
+}
+
+function renderReadonlyInfo(model) {
+  if (!refs.readonlyInfoPanel) return;
+  refs.readonlyInfoPanel.classList.remove("empty-state");
+  const updatedAt = model.sourceMeta?.updatedAt
+    ? new Date(model.sourceMeta.updatedAt).toLocaleString("zh-CN", { hour12: false })
+    : "未知";
+  refs.readonlyInfoPanel.innerHTML = `
+    <article class="highlight-card blue">
+      <h4>数据更新时间</h4>
+      <strong>${updatedAt}</strong>
+      <span>当前页面展示的是最近一次发布的只读快照</span>
+    </article>
+    <article class="highlight-card accent">
+      <h4>页面说明</h4>
+      <span>该链接只支持查看、筛选和排序，不支持飞书同步与上传 Excel。</span>
+    </article>
+    <article class="highlight-card good">
+      <h4>筛选提示</h4>
+      <span>可按风险等级、市场等级、国家、ASIN、品名、负责人筛选，并点击表头对关键数值排序。</span>
+    </article>
+  `;
 }
 
 function renderDetailTable(rows, summary) {
@@ -1333,7 +1358,6 @@ function hydrateFilters(model) {
   populateFilter(refs.warningMarketFilter, uniqueValues(model.warningRows, "marketLevel"), "全部市场等级", state.warningFilters.market);
   populateFilter(refs.warningCountryFilter, uniqueValues(model.warningRows, "country"), "全部国家", state.warningFilters.country);
   populateFilter(refs.warningAsinFilter, uniqueValues(model.warningRows, "asin"), "全部 ASIN", state.warningFilters.asin);
-  populateFilter(refs.warningProductFilter, uniqueValues(model.warningRows, "product"), "全部品名", state.warningFilters.product);
   populateFilter(refs.warningOwnerFilter, uniqueValues(model.warningRows, "owner"), "全部负责人", state.warningFilters.owner);
 
   populateFilter(refs.detailMarketFilter, uniqueValues(model.detailRows, "marketLevel"), "全部市场等级", state.detailFilters.market);

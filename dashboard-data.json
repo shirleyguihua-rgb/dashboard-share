@@ -9,13 +9,6 @@
         "grossProfitRmb": 160.0654
       },
       {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0CYBZHMKT",
-        "product": "手持风扇-引擎mini-灰",
-        "grossProfitRmb": -0.27280000000000004
-      },
-      {
         "date": "2026-03-25",
         "country": "美国",
         "asin": "B0CYBZHMKT",
@@ -37,21 +30,7 @@
         "grossProfitRmb": -0.14404999999999998
       },
       {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0CYCF15N7",
-        "product": "风扇-引擎带屏-白-X",
-        "grossProfitRmb": -0.14404999999999998
-      },
-      {
         "date": "2026-03-25",
-        "country": "日本",
-        "asin": "B0CYCH5DRX",
-        "product": "风扇-引擎SE带屏-白-X",
-        "grossProfitRmb": -0.14447999999999997
-      },
-      {
-        "date": "2026-03-23",
         "country": "日本",
         "asin": "B0CYCH5DRX",
         "product": "风扇-引擎SE带屏-白-X",
@@ -77,20 +56,6 @@
         "asin": "B0CYCK6MG6",
         "product": "风扇-引擎-白-X",
         "grossProfitRmb": -0.14404999999999998
-      },
-      {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0CYCK6MG6",
-        "product": "风扇-引擎-白-X",
-        "grossProfitRmb": -0.14404999999999998
-      },
-      {
-        "date": "2026-03-23",
-        "country": "英国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": 9.38
       },
       {
         "date": "2026-03-24",
@@ -121,25 +86,11 @@
         "grossProfitRmb": -13.1
       },
       {
-        "date": "2026-03-23",
-        "country": "英国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": -7.23
-      },
-      {
         "date": "2026-03-25",
         "country": "意大利",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
         "grossProfitRmb": 2288.7475999999997
-      },
-      {
-        "date": "2026-03-23",
-        "country": "意大利",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 469.4908
       },
       {
         "date": "2026-03-24",
@@ -161,20 +112,6 @@
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
         "grossProfitRmb": 1396.0413999999998
-      },
-      {
-        "date": "2026-03-23",
-        "country": "德国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 708.4065999999999
-      },
-      {
-        "date": "2026-03-23",
-        "country": "德国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 845.709
       },
       {
         "date": "2026-03-24",
@@ -205,13 +142,6 @@
         "grossProfitRmb": 109.23239999999998
       },
       {
-        "date": "2026-03-23",
-        "country": "法国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 240.19899999999998
-      },
-      {
         "date": "2026-03-24",
         "country": "法国",
         "asin": "B0FM3PB367",
@@ -224,13 +154,6 @@
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（欧规）",
         "grossProfitRmb": -21.252999999999997
-      },
-      {
-        "date": "2026-03-23",
-        "country": "西班牙",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 353.6018
       },
       {
         "date": "2026-03-24",
@@ -254,31 +177,10 @@
         "grossProfitRmb": 0
       },
       {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0DZCXJ9J5",
-        "product": "手持折叠挂脖风扇-冰块-粉",
-        "grossProfitRmb": 0
-      },
-      {
         "date": "2026-03-24",
         "country": "美国",
         "asin": "B0DZCXJ9J5",
         "product": "手持折叠挂脖风扇-冰块-粉",
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0DZT2RRM1",
-        "product": "手持风扇-引擎ice-灰",
-        "grossProfitRmb": 42.625
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0DZWRW7X4",
-        "product": "手持风扇-引擎Slim-粉",
         "grossProfitRmb": 0
       },
       {
@@ -303,25 +205,11 @@
         "grossProfitRmb": 35.6004
       },
       {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0F12Q7LFK",
-        "product": "手持折叠风扇-引擎ice Z-灰",
-        "grossProfitRmb": -133.5356
-      },
-      {
         "date": "2026-03-24",
         "country": "美国",
         "asin": "B0F12Q7LFK",
         "product": "手持折叠风扇-引擎ice Z-灰",
         "grossProfitRmb": 45.625800000000005
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0F1322LR9",
-        "product": "手持折叠风扇-引擎Z-灰",
-        "grossProfitRmb": 77.2706
       },
       {
         "date": "2026-03-24",
@@ -336,13 +224,6 @@
         "asin": "B0F1322LR9",
         "product": "手持折叠风扇-引擎Z-灰",
         "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0F137F1BC",
-        "product": "桌面摇头风扇 Air pro-灰",
-        "grossProfitRmb": -330.42900000000003
       },
       {
         "date": "2026-03-25",
@@ -373,13 +254,6 @@
         "grossProfitRmb": 41.943000000000005
       },
       {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0F1872Y3R",
-        "product": "向物-高速手持风扇-来风-蓝",
-        "grossProfitRmb": 0
-      },
-      {
         "date": "2026-03-24",
         "country": "美国",
         "asin": "B0F1872Y3R",
@@ -388,13 +262,6 @@
       },
       {
         "date": "2026-03-24",
-        "country": "美国",
-        "asin": "B0F1MLFHYQ",
-        "product": "向物-挂脖风扇-Mini 酷-黄",
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-03-23",
         "country": "美国",
         "asin": "B0F1MLFHYQ",
         "product": "向物-挂脖风扇-Mini 酷-黄",
@@ -405,13 +272,6 @@
         "country": "美国",
         "asin": "B0F1MLFHYQ",
         "product": "向物-挂脖风扇-Mini 酷-黄",
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0FBR651H8",
-        "product": "手持风扇-引擎power-灰6000mAh",
         "grossProfitRmb": 0
       },
       {
@@ -427,13 +287,6 @@
         "asin": "B0FBR651H8",
         "product": "手持风扇-引擎power-灰6000mAh",
         "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": 502.7704
       },
       {
         "date": "2026-03-25",
@@ -464,25 +317,11 @@
         "grossProfitRmb": 1080.97
       },
       {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": -459.66800000000006
-      },
-      {
         "date": "2026-03-24",
         "country": "美国",
         "asin": "B0FQNHJJQ3",
         "product": "烘衣机-小裙子（美规）",
         "grossProfitRmb": -168.7268
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0FQNHJJQ3",
-        "product": "烘衣机-小裙子（美规）",
-        "grossProfitRmb": 44.534600000000005
       },
       {
         "date": "2026-03-25",
@@ -499,25 +338,11 @@
         "grossProfitRmb": -784.0954
       },
       {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（美规）-紫色",
-        "grossProfitRmb": -1010.383
-      },
-      {
         "date": "2026-03-25",
         "country": "美国",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（美规）-紫色",
         "grossProfitRmb": -791.8702000000001
-      },
-      {
-        "date": "2026-03-23",
-        "country": "美国",
-        "asin": "B0GK19MDQQ",
-        "product": "烘鞋器-Ultra（美规）-紫色",
-        "grossProfitRmb": -146.4254
       },
       {
         "date": "2026-03-24",
@@ -534,25 +359,11 @@
         "grossProfitRmb": -56.921400000000006
       },
       {
-        "date": "2026-03-23",
-        "country": "加拿大",
-        "asin": "B0FL6N446T",
-        "product": "取暖器-恒星-灰-X",
-        "grossProfitRmb": -710.9448
-      },
-      {
         "date": "2026-03-25",
         "country": "加拿大",
         "asin": "B0FL6N446T",
         "product": "取暖器-恒星-灰-X",
         "grossProfitRmb": -232.06800000000004
-      },
-      {
-        "date": "2026-03-23",
-        "country": "加拿大",
-        "asin": "B0FLJ5Z4KG",
-        "product": "烘鞋器-零Pro（美规）",
-        "grossProfitRmb": 337.7934
       },
       {
         "date": "2026-03-24",
@@ -583,20 +394,6 @@
         "grossProfitRmb": 323.60040000000004
       },
       {
-        "date": "2026-03-23",
-        "country": "加拿大",
-        "asin": "B0FLJLK9RW",
-        "product": "烘鞋器-朗（美规）",
-        "grossProfitRmb": 655.7664000000001
-      },
-      {
-        "date": "2026-03-23",
-        "country": "加拿大",
-        "asin": "B0FLJSSH3V",
-        "product": "烘鞋器-零（美规）",
-        "grossProfitRmb": 148.2546
-      },
-      {
         "date": "2026-03-25",
         "country": "加拿大",
         "asin": "B0FLJSSH3V",
@@ -616,13 +413,6 @@
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（美规）",
         "grossProfitRmb": 438.4392000000001
-      },
-      {
-        "date": "2026-03-23",
-        "country": "加拿大",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": 387.89220000000006
       },
       {
         "date": "2026-03-25",
@@ -646,13 +436,6 @@
         "grossProfitRmb": 213.59220000000002
       },
       {
-        "date": "2026-03-23",
-        "country": "加拿大",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": -429.27600000000007
-      },
-      {
         "date": "2026-03-24",
         "country": "日本",
         "asin": "B0FLPL1MCB",
@@ -667,32 +450,11 @@
         "grossProfitRmb": 9.40066
       },
       {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0FLPL1MCB",
-        "product": "烘鞋器-零（日规）",
-        "grossProfitRmb": 36.56677
-      },
-      {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0FLQ6KMLP",
-        "product": "烘鞋器-零Pro（日规）",
-        "grossProfitRmb": 68.14769
-      },
-      {
         "date": "2026-03-25",
         "country": "日本",
         "asin": "B0FLY637KK",
         "product": "烘鞋器-朗（日规）",
         "grossProfitRmb": -36.97226
-      },
-      {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（日规）",
-        "grossProfitRmb": -123.85719999999999
       },
       {
         "date": "2026-03-24",
@@ -707,13 +469,6 @@
         "asin": "B0FM3R4VK4",
         "product": "烘鞋器-Ultra（日规）",
         "grossProfitRmb": 638.86132
-      },
-      {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0FM3R4VK4",
-        "product": "烘鞋器-Ultra（日规）",
-        "grossProfitRmb": 33.174499999999995
       },
       {
         "date": "2026-03-24",
@@ -737,25 +492,11 @@
         "grossProfitRmb": -45.72147
       },
       {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（日规）",
-        "grossProfitRmb": 236.41658
-      },
-      {
         "date": "2026-03-24",
         "country": "日本",
         "asin": "B0GCJ64FFJ",
         "product": "烘鞋器-朗（日规）-白",
         "grossProfitRmb": -43.04944999999999
-      },
-      {
-        "date": "2026-03-23",
-        "country": "日本",
-        "asin": "B0GCJ64FFJ",
-        "product": "烘鞋器-朗（日规）-白",
-        "grossProfitRmb": 6.738099999999999
       },
       {
         "date": "2026-03-25",
@@ -2386,7 +2127,7 @@
         "country": "日本",
         "asin": "B0FLY637KK",
         "product": "烘鞋器-朗（日规）",
-        "grossProfitRmb": -141.99502999999999
+        "grossProfitRmb": -141.9946
       },
       {
         "date": "2026-03-30",
@@ -2505,7 +2246,7 @@
         "country": "日本",
         "asin": "B0GCJ64FFJ",
         "product": "烘鞋器-朗（日规）-白",
-        "grossProfitRmb": -97.77512
+        "grossProfitRmb": -97.77554999999998
       },
       {
         "date": "2026-03-29",
@@ -4157,7 +3898,7 @@
         "country": "英国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": -34.37
+        "grossProfitRmb": -32.84
       },
       {
         "date": "2026-04-09",
@@ -4192,7 +3933,7 @@
         "country": "英国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": 21.73
+        "grossProfitRmb": 24.53
       },
       {
         "date": "2026-04-09",
@@ -4206,14 +3947,14 @@
         "country": "英国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": 2.64
+        "grossProfitRmb": -8.5
       },
       {
         "date": "2026-04-10",
         "country": "英国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": 5.39
+        "grossProfitRmb": 16.53
       },
       {
         "date": "2026-04-11",
@@ -4248,7 +3989,7 @@
         "country": "英国",
         "asin": "B0GKFKXNMM",
         "product": "Ice Z Plus-灰色",
-        "grossProfitRmb": -146.92
+        "grossProfitRmb": -141.41
       },
       {
         "date": "2026-04-14",
@@ -4262,14 +4003,14 @@
         "country": "英国",
         "asin": "B0GKFTDZJK",
         "product": "",
-        "grossProfitRmb": -31.13
+        "grossProfitRmb": -28.15
       },
       {
         "date": "2026-04-15",
         "country": "英国",
         "asin": "B0GKFYMF9Q",
         "product": "",
-        "grossProfitRmb": -21.21
+        "grossProfitRmb": -18.6
       },
       {
         "date": "2026-04-14",
@@ -4997,7 +4738,7 @@
         "country": "美国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": 86.955
+        "grossProfitRmb": 102.8456
       },
       {
         "date": "2026-04-10",
@@ -5711,14 +5452,14 @@
         "country": "英国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": 69.14
+        "grossProfitRmb": 59.3
       },
       {
         "date": "2026-04-16",
         "country": "英国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": -3.27
+        "grossProfitRmb": -4.36
       },
       {
         "date": "2026-04-17",
@@ -5739,21 +5480,21 @@
         "country": "英国",
         "asin": "B0GKFKXNMM",
         "product": "Ice Z Plus-灰色",
-        "grossProfitRmb": -55.03
+        "grossProfitRmb": -57.35
       },
       {
         "date": "2026-04-16",
         "country": "英国",
         "asin": "B0GKFTDZJK",
         "product": "",
-        "grossProfitRmb": -7.09
+        "grossProfitRmb": -7.96
       },
       {
         "date": "2026-04-16",
         "country": "英国",
         "asin": "B0GKFYMF9Q",
         "product": "",
-        "grossProfitRmb": -7.37
+        "grossProfitRmb": -8.68
       },
       {
         "date": "2026-04-17",
@@ -6719,7 +6460,7 @@
         "country": "美国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": 106.9376
+        "grossProfitRmb": 193.6198
       },
       {
         "date": "2026-04-19",
@@ -6888,13 +6629,6 @@
         "asin": "B0GCJ64FFJ",
         "product": "烘鞋器-朗（日规）-白",
         "grossProfitRmb": 230.33809999999997
-      },
-      {
-        "date": "2026-04-08",
-        "country": "美国",
-        "asin": "B0CYBZHMKT",
-        "product": "手持风扇-引擎mini-灰",
-        "grossProfitRmb": -3.6828000000000003
       },
       {
         "date": "2026-04-20",
@@ -7125,7 +6859,7 @@
         "country": "美国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": 778.2984
+        "grossProfitRmb": 218.1036
       },
       {
         "date": "2026-04-20",
@@ -7146,7 +6880,7 @@
         "country": "美国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": -423.59020000000004
+        "grossProfitRmb": -529.3002
       },
       {
         "date": "2026-04-20",
@@ -7160,7 +6894,7 @@
         "country": "美国",
         "asin": "B0FQNHJJQ3",
         "product": "烘衣机-小裙子（美规）",
-        "grossProfitRmb": -288.8952
+        "grossProfitRmb": -282.8254
       },
       {
         "date": "2026-04-20",
@@ -7188,7 +6922,7 @@
         "country": "美国",
         "asin": "B0GLGZ1MV2",
         "product": "桌面风扇-羽-灰",
-        "grossProfitRmb": -683.5004
+        "grossProfitRmb": -670.9516
       },
       {
         "date": "2026-04-20",
@@ -7223,7 +6957,7 @@
         "country": "加拿大",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": 337.2456
+        "grossProfitRmb": 403.82820000000004
       },
       {
         "date": "2026-04-20",
@@ -7289,11 +7023,228 @@
         "grossProfitRmb": 77.2796
       },
       {
-        "date": "2026-04-05",
+        "date": "2026-04-09",
         "country": "美国",
         "asin": "B0CYBZHMKT",
         "product": "手持风扇-引擎mini-灰",
-        "grossProfitRmb": -181.1392
+        "grossProfitRmb": -22.2332
+      },
+      {
+        "date": "2026-04-07",
+        "country": "美国",
+        "asin": "B0CYBZHMKT",
+        "product": "手持风扇-引擎mini-灰",
+        "grossProfitRmb": 107.6878
+      },
+      {
+        "date": "2026-04-22",
+        "country": "日本",
+        "asin": "",
+        "product": "",
+        "grossProfitRmb": -0.43128999999999995
+      },
+      {
+        "date": "2026-04-22",
+        "country": "英国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra-（英规）",
+        "grossProfitRmb": 5.39
+      },
+      {
+        "date": "2026-04-22",
+        "country": "英国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra-（英规）",
+        "grossProfitRmb": 23.3
+      },
+      {
+        "date": "2026-04-22",
+        "country": "意大利",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 562.1218
+      },
+      {
+        "date": "2026-04-22",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "grossProfitRmb": -278.695
+      },
+      {
+        "date": "2026-04-22",
+        "country": "德国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 29.593799999999998
+      },
+      {
+        "date": "2026-04-22",
+        "country": "德国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 900.9668
+      },
+      {
+        "date": "2026-04-22",
+        "country": "法国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 279.97819999999996
+      },
+      {
+        "date": "2026-04-22",
+        "country": "法国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 102.41539999999999
+      },
+      {
+        "date": "2026-04-22",
+        "country": "法国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "grossProfitRmb": -570.3022
+      },
+      {
+        "date": "2026-04-22",
+        "country": "西班牙",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 123.5882
+      },
+      {
+        "date": "2026-04-22",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "grossProfitRmb": -1659.0973999999999
+      },
+      {
+        "date": "2026-04-21",
+        "country": "美国",
+        "asin": "B0CYBZHMKT",
+        "product": "手持风扇-引擎mini-灰",
+        "grossProfitRmb": 292.7826
+      },
+      {
+        "date": "2026-04-21",
+        "country": "美国",
+        "asin": "B0F12Q7LFK",
+        "product": "手持折叠风扇-引擎ice Z-灰",
+        "grossProfitRmb": -168.7268
+      },
+      {
+        "date": "2026-04-21",
+        "country": "美国",
+        "asin": "B0F137F1BC",
+        "product": "桌面摇头风扇 Air pro-灰",
+        "grossProfitRmb": -71.26899999999999
+      },
+      {
+        "date": "2026-04-21",
+        "country": "美国",
+        "asin": "B0FCFJSDMN",
+        "product": "手持折叠风扇-引擎ice Z-灰",
+        "grossProfitRmb": 277.36940000000004
+      },
+      {
+        "date": "2026-04-21",
+        "country": "美国",
+        "asin": "B0GKG1JNY6",
+        "product": "深渊炫彩手持风扇-灰色",
+        "grossProfitRmb": -201.7356
+      },
+      {
+        "date": "2026-04-21",
+        "country": "美国",
+        "asin": "B0GLGZ1MV2",
+        "product": "桌面风扇-羽-灰",
+        "grossProfitRmb": -662.222
+      },
+      {
+        "date": "2026-04-21",
+        "country": "加拿大",
+        "asin": "B0FLJ5Z4KG",
+        "product": "烘鞋器-零Pro（美规）",
+        "grossProfitRmb": 13.7448
+      },
+      {
+        "date": "2026-04-21",
+        "country": "加拿大",
+        "asin": "B0FLJLK9RW",
+        "product": "烘鞋器-朗（美规）",
+        "grossProfitRmb": 570.21
+      },
+      {
+        "date": "2026-04-21",
+        "country": "加拿大",
+        "asin": "B0FLJSSH3V",
+        "product": "烘鞋器-零（美规）",
+        "grossProfitRmb": -7.818600000000001
+      },
+      {
+        "date": "2026-04-21",
+        "country": "加拿大",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "grossProfitRmb": 231.37080000000003
+      },
+      {
+        "date": "2026-04-21",
+        "country": "加拿大",
+        "asin": "B0GKFKXNMM",
+        "product": "Ice Z Plus-灰色",
+        "grossProfitRmb": -108.21540000000002
+      },
+      {
+        "date": "2026-04-21",
+        "country": "加拿大",
+        "asin": "B0GKG157FD",
+        "product": "",
+        "grossProfitRmb": -41.0352
+      },
+      {
+        "date": "2026-04-21",
+        "country": "加拿大",
+        "asin": "B0GKG1JNY6",
+        "product": "深渊炫彩手持风扇-灰色",
+        "grossProfitRmb": -296.5092
+      },
+      {
+        "date": "2026-04-22",
+        "country": "日本",
+        "asin": "B0FLPL1MCB",
+        "product": "烘鞋器-零（日规）",
+        "grossProfitRmb": 83.74121
+      },
+      {
+        "date": "2026-04-22",
+        "country": "日本",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（日规）",
+        "grossProfitRmb": 47.034259999999996
+      },
+      {
+        "date": "2026-04-22",
+        "country": "日本",
+        "asin": "B0FM3R4VK4",
+        "product": "烘鞋器-Ultra（日规）",
+        "grossProfitRmb": -269.54807999999997
+      },
+      {
+        "date": "2026-04-22",
+        "country": "日本",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（日规）",
+        "grossProfitRmb": 118.98529999999998
+      },
+      {
+        "date": "2026-04-22",
+        "country": "日本",
+        "asin": "B0GCJ64FFJ",
+        "product": "烘鞋器-朗（日规）-白",
+        "grossProfitRmb": 165.83680999999999
       },
       {
         "date": "2026-04-03",
@@ -7310,20 +7261,6 @@
         "grossProfitRmb": 25.1658
       },
       {
-        "date": "2026-04-06",
-        "country": "美国",
-        "asin": "B0CYBZHMKT",
-        "product": "手持风扇-引擎mini-灰",
-        "grossProfitRmb": -72.5648
-      },
-      {
-        "date": "2026-04-09",
-        "country": "美国",
-        "asin": "B0CYBZHMKT",
-        "product": "手持风扇-引擎mini-灰",
-        "grossProfitRmb": -22.2332
-      },
-      {
         "date": "2026-04-07",
         "country": "美国",
         "asin": "B0CYBZHMKT",
@@ -7331,7 +7268,42 @@
         "grossProfitRmb": 107.6878
       },
       {
+        "date": "2026-04-06",
+        "country": "美国",
+        "asin": "B0CYBZHMKT",
+        "product": "手持风扇-引擎mini-灰",
+        "grossProfitRmb": -72.5648
+      },
+      {
+        "date": "2026-04-05",
+        "country": "美国",
+        "asin": "B0CYBZHMKT",
+        "product": "手持风扇-引擎mini-灰",
+        "grossProfitRmb": -181.1392
+      },
+      {
+        "date": "2026-04-08",
+        "country": "美国",
+        "asin": "B0CYBZHMKT",
+        "product": "手持风扇-引擎mini-灰",
+        "grossProfitRmb": -3.6828000000000003
+      },
+      {
+        "date": "2026-04-21",
+        "country": "美国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-紫色",
+        "grossProfitRmb": 145.948
+      },
+      {
         "date": "2026-04-22",
+        "country": "美国",
+        "asin": "",
+        "product": "",
+        "grossProfitRmb": -0.06820000000000001
+      },
+      {
+        "date": "2026-04-23",
         "country": "美国",
         "asin": "",
         "product": "",
@@ -7339,220 +7311,283 @@
       },
       {
         "date": "2026-04-22",
+        "country": "加拿大",
+        "asin": "",
+        "product": "",
+        "grossProfitRmb": 2357.1834000000003
+      },
+      {
+        "date": "2026-04-23",
         "country": "日本",
         "asin": "",
         "product": "",
         "grossProfitRmb": -0.43128999999999995
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "英国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": -1.37
+        "grossProfitRmb": 3.76
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "英国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra-（英规）",
-        "grossProfitRmb": 24.75
+        "grossProfitRmb": 9.54
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "意大利",
         "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 199.3772
-      },
-      {
-        "date": "2026-04-22",
-        "country": "意大利",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-紫色",
-        "grossProfitRmb": -278.695
-      },
-      {
-        "date": "2026-04-22",
-        "country": "德国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 96.7212
-      },
-      {
-        "date": "2026-04-22",
-        "country": "德国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 456.4984
-      },
-      {
-        "date": "2026-04-22",
-        "country": "法国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 233.9434
-      },
-      {
-        "date": "2026-04-22",
-        "country": "法国",
-        "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（欧规）",
         "grossProfitRmb": 0
       },
       {
-        "date": "2026-04-22",
-        "country": "法国",
+        "date": "2026-04-23",
+        "country": "意大利",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（欧规）-紫色",
-        "grossProfitRmb": -571.9062
+        "grossProfitRmb": -278.7752
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
+        "country": "德国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 244.93079999999998
+      },
+      {
+        "date": "2026-04-23",
+        "country": "德国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": 285.1912
+      },
+      {
+        "date": "2026-04-23",
+        "country": "法国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": -13.232999999999999
+      },
+      {
+        "date": "2026-04-23",
+        "country": "法国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "grossProfitRmb": -5.0526
+      },
+      {
+        "date": "2026-04-23",
         "country": "西班牙",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
-        "grossProfitRmb": 123.5882
+        "grossProfitRmb": 125.5932
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "西班牙",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（欧规）-紫色",
-        "grossProfitRmb": -829.669
-      },
-      {
-        "date": "2026-04-21",
-        "country": "美国",
-        "asin": "B0CYBZHMKT",
-        "product": "手持风扇-引擎mini-灰",
-        "grossProfitRmb": 42.2158
-      },
-      {
-        "date": "2026-04-21",
-        "country": "美国",
-        "asin": "B0F12Q7LFK",
-        "product": "手持折叠风扇-引擎ice Z-灰",
-        "grossProfitRmb": -163.9528
-      },
-      {
-        "date": "2026-04-21",
-        "country": "美国",
-        "asin": "B0F137F1BC",
-        "product": "桌面摇头风扇 Air pro-灰",
-        "grossProfitRmb": -52.514
-      },
-      {
-        "date": "2026-04-21",
-        "country": "美国",
-        "asin": "B0FCFJSDMN",
-        "product": "手持折叠风扇-引擎ice Z-灰",
-        "grossProfitRmb": 277.1648
-      },
-      {
-        "date": "2026-04-21",
-        "country": "美国",
-        "asin": "B0GKG1JNY6",
-        "product": "深渊炫彩手持风扇-灰色",
-        "grossProfitRmb": -201.7356
-      },
-      {
-        "date": "2026-04-21",
-        "country": "美国",
-        "asin": "B0GLGZ1MV2",
-        "product": "桌面风扇-羽-灰",
-        "grossProfitRmb": -709.28
+        "grossProfitRmb": -138.345
       },
       {
         "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0CYBZHMKT",
+        "product": "手持风扇-引擎mini-灰",
+        "grossProfitRmb": -196.5524
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0F12Q7LFK",
+        "product": "手持折叠风扇-引擎ice Z-灰",
+        "grossProfitRmb": -412.4054
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0F137F1BC",
+        "product": "桌面摇头风扇 Air pro-灰",
+        "grossProfitRmb": -216.80780000000001
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0F1872Y3R",
+        "product": "向物-高速手持风扇-来风-蓝",
+        "grossProfitRmb": -17.05
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0FCFJSDMN",
+        "product": "手持折叠风扇-引擎ice Z-灰",
+        "grossProfitRmb": 128.4206
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0FFSPHL92",
+        "product": "桌面风扇-羽-灰4000mAh",
+        "grossProfitRmb": 178.8886
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "grossProfitRmb": -268.2306
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "grossProfitRmb": -575.4034
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0FQNHJJQ3",
+        "product": "烘衣机-小裙子（美规）",
+        "grossProfitRmb": 250.976
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-紫色",
+        "grossProfitRmb": 282.4162
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0GK19MDQQ",
+        "product": "烘鞋器-Ultra（美规）-紫色",
+        "grossProfitRmb": 150.381
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0GKG157FD",
+        "product": "Ice Z Plus-白色",
+        "grossProfitRmb": -110.9614
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0GKG1JNY6",
+        "product": "深渊炫彩手持风扇-灰色",
+        "grossProfitRmb": -73.9288
+      },
+      {
+        "date": "2026-04-22",
+        "country": "美国",
+        "asin": "B0GLGZ1MV2",
+        "product": "桌面风扇-羽-灰",
+        "grossProfitRmb": -789.4832000000001
+      },
+      {
+        "date": "2026-04-23",
         "country": "加拿大",
         "asin": "",
         "product": "",
         "grossProfitRmb": -75.8952
       },
       {
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "country": "加拿大",
         "asin": "B0FLJ5Z4KG",
         "product": "烘鞋器-零Pro（美规）",
-        "grossProfitRmb": 13.495800000000001
+        "grossProfitRmb": 279.27840000000003
       },
       {
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "country": "加拿大",
         "asin": "B0FLJLK9RW",
         "product": "烘鞋器-朗（美规）",
-        "grossProfitRmb": 569.214
+        "grossProfitRmb": 520.659
       },
       {
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "country": "加拿大",
         "asin": "B0FLJSSH3V",
         "product": "烘鞋器-零（美规）",
-        "grossProfitRmb": -7.818600000000001
+        "grossProfitRmb": -80.62620000000001
       },
       {
-        "date": "2026-04-21",
+        "date": "2026-04-22",
+        "country": "加拿大",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "grossProfitRmb": -178.7322
+      },
+      {
+        "date": "2026-04-22",
         "country": "加拿大",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（美规）",
-        "grossProfitRmb": 230.97240000000002
+        "grossProfitRmb": 180.37560000000002
       },
       {
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "country": "加拿大",
         "asin": "B0GKFKXNMM",
         "product": "Ice Z Plus-灰色",
-        "grossProfitRmb": -108.31500000000001
+        "grossProfitRmb": -108.46440000000001
       },
       {
-        "date": "2026-04-21",
+        "date": "2026-04-22",
+        "country": "加拿大",
+        "asin": "B0GKFYMF9Q",
+        "product": "Ice Z Power2-灰色",
+        "grossProfitRmb": -107.86680000000001
+      },
+      {
+        "date": "2026-04-22",
         "country": "加拿大",
         "asin": "B0GKG157FD",
         "product": "",
-        "grossProfitRmb": -41.134800000000006
+        "grossProfitRmb": -41.2842
       },
       {
-        "date": "2026-04-21",
-        "country": "加拿大",
-        "asin": "B0GKG1JNY6",
-        "product": "深渊炫彩手持风扇-灰色",
-        "grossProfitRmb": -296.70840000000004
-      },
-      {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "日本",
         "asin": "B0FLPL1MCB",
         "product": "烘鞋器-零（日规）",
-        "grossProfitRmb": 57.580009999999994
+        "grossProfitRmb": 51.50884
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "日本",
         "asin": "B0FLY637KK",
         "product": "烘鞋器-朗（日规）",
-        "grossProfitRmb": 43.4171
+        "grossProfitRmb": 101.51612
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "日本",
         "asin": "B0FM3R4VK4",
         "product": "烘鞋器-Ultra（日规）",
-        "grossProfitRmb": -30.493019999999998
+        "grossProfitRmb": 72.10197
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "日本",
         "asin": "B0G485DG39",
         "product": "烘鞋器-零Pro（日规）",
-        "grossProfitRmb": 187.85452999999998
+        "grossProfitRmb": -63.54884
       },
       {
-        "date": "2026-04-22",
+        "date": "2026-04-23",
         "country": "日本",
         "asin": "B0GCJ64FFJ",
         "product": "烘鞋器-朗（日规）-白",
-        "grossProfitRmb": 76.62901
+        "grossProfitRmb": 145.62165
       }
     ],
     "planRows": [
@@ -7748,8 +7783,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": -20.899665599999967,
-        "dailyProfitRmb": -2.9856665142857097
+        "weeklyProfitRmb": -1.8999696000000017,
+        "dailyProfitRmb": -0.2714242285714288
       },
       {
         "weekNo": 13,
@@ -7813,8 +7848,8 @@
         "product": "烘鞋器-Ultra（美规）-紫色",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": 1026.2257236,
-        "dailyProfitRmb": 146.60367480000002
+        "weeklyProfitRmb": 887.2851372,
+        "dailyProfitRmb": 126.7550196
       },
       {
         "weekNo": 7,
@@ -7852,8 +7887,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": 764.00787254,
-        "dailyProfitRmb": 109.14398179142856
+        "weeklyProfitRmb": 82.08006443999999,
+        "dailyProfitRmb": 11.72572349142857
       },
       {
         "weekNo": 7,
@@ -7917,8 +7952,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": -89.41710183999973,
-        "dailyProfitRmb": -12.773871691428532
+        "weeklyProfitRmb": -2258.9448156000003,
+        "dailyProfitRmb": -322.70640222857145
       },
       {
         "weekNo": 9,
@@ -7995,8 +8030,8 @@
         "product": "烘鞋器-Ultra（美规）-紫色",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": 1450.4672336,
-        "dailyProfitRmb": 207.20960480000002
+        "weeklyProfitRmb": 2044.0501620000002,
+        "dailyProfitRmb": 292.00716600000004
       },
       {
         "weekNo": 12,
@@ -8060,8 +8095,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "C",
-        "weeklyProfitRmb": 395.51031,
-        "dailyProfitRmb": 56.50147285714285
+        "weeklyProfitRmb": 111.50607000000002,
+        "dailyProfitRmb": 15.929438571428575
       },
       {
         "weekNo": 3,
@@ -8073,8 +8108,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": -781.33701534,
-        "dailyProfitRmb": -111.61957362000001
+        "weeklyProfitRmb": 644.47683462,
+        "dailyProfitRmb": 92.06811923142857
       },
       {
         "weekNo": 7,
@@ -8099,8 +8134,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 541.3209004800001,
-        "dailyProfitRmb": 77.33155721142857
+        "weeklyProfitRmb": -501.7914532799999,
+        "dailyProfitRmb": -71.68449332571427
       },
       {
         "weekNo": 12,
@@ -8294,8 +8329,8 @@
         "product": "烘鞋器-Ultra（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": -943.1070989760005,
-        "dailyProfitRmb": -134.72958556800006
+        "weeklyProfitRmb": -1190.5838009099994,
+        "dailyProfitRmb": -170.08340012999992
       },
       {
         "weekNo": 6,
@@ -8385,8 +8420,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "C",
-        "weeklyProfitRmb": 871.7271551800001,
-        "dailyProfitRmb": 124.53245074
+        "weeklyProfitRmb": 737.6657895599999,
+        "dailyProfitRmb": 105.38082707999997
       },
       {
         "weekNo": 6,
@@ -8411,8 +8446,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": 1941.5476080000003,
-        "dailyProfitRmb": 277.36394400000006
+        "weeklyProfitRmb": 1509.0641279999995,
+        "dailyProfitRmb": 215.58058971428562
       },
       {
         "weekNo": 7,
@@ -8554,8 +8589,8 @@
         "product": "烘鞋器-Ultra（美规）-紫色",
         "marketLevel": "S",
         "listingLevel": "B",
-        "weeklyProfitRmb": 279.21330976,
-        "dailyProfitRmb": 39.88761568
+        "weeklyProfitRmb": 167.84467392,
+        "dailyProfitRmb": 23.977810559999998
       },
       {
         "weekNo": 10,
@@ -8593,8 +8628,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 487.70614480000006,
-        "dailyProfitRmb": 69.67230640000001
+        "weeklyProfitRmb": -103.07191719999996,
+        "dailyProfitRmb": -14.724559599999994
       },
       {
         "weekNo": 8,
@@ -8710,8 +8745,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "C",
         "listingLevel": "C",
-        "weeklyProfitRmb": 0,
-        "dailyProfitRmb": 0
+        "weeklyProfitRmb": 302.07625136,
+        "dailyProfitRmb": 43.15375019428571
       },
       {
         "weekNo": 6,
@@ -8801,8 +8836,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": 977.971632,
-        "dailyProfitRmb": 139.71023314285716
+        "weeklyProfitRmb": 918.8488015199998,
+        "dailyProfitRmb": 131.26411450285713
       },
       {
         "weekNo": 1,
@@ -8853,8 +8888,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": 434.53168416000005,
-        "dailyProfitRmb": 62.07595488000001
+        "weeklyProfitRmb": 565.09086816,
+        "dailyProfitRmb": 80.72726688
       },
       {
         "weekNo": 2,
@@ -8866,8 +8901,8 @@
         "product": "烘鞋器-朗（美规）",
         "marketLevel": "A",
         "listingLevel": "S",
-        "weeklyProfitRmb": 801.7750698000003,
-        "dailyProfitRmb": 114.53929568571434
+        "weeklyProfitRmb": 715.5801839999999,
+        "dailyProfitRmb": 102.22574057142856
       },
       {
         "weekNo": 12,
@@ -9061,8 +9096,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "C",
         "listingLevel": "C",
-        "weeklyProfitRmb": 136.96734,
-        "dailyProfitRmb": 19.56676285714286
+        "weeklyProfitRmb": 231.61177193999998,
+        "dailyProfitRmb": 33.08739599142857
       },
       {
         "weekNo": 6,
@@ -9217,8 +9252,8 @@
         "product": "烘鞋器-朗（日规）-白",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": 736.5534102679999,
-        "dailyProfitRmb": 105.2219157525714
+        "weeklyProfitRmb": 460.5888080039998,
+        "dailyProfitRmb": 65.79840114342855
       },
       {
         "weekNo": 7,
@@ -9269,8 +9304,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 842.7295780199998,
-        "dailyProfitRmb": 120.38993971714284
+        "weeklyProfitRmb": 699.3362607,
+        "dailyProfitRmb": 99.9051801
       },
       {
         "weekNo": 10,
@@ -9373,8 +9408,8 @@
         "product": "烘鞋器-零Pro（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 584.5455475199999,
-        "dailyProfitRmb": 83.50650678857141
+        "weeklyProfitRmb": 184.87724112000006,
+        "dailyProfitRmb": 26.411034445714296
       },
       {
         "weekNo": 10,
@@ -9399,8 +9434,8 @@
         "product": "烘鞋器-朗（日规）-白",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": -203.28238819999999,
-        "dailyProfitRmb": -29.040341171428572
+        "weeklyProfitRmb": 135.1430402000001,
+        "dailyProfitRmb": 19.30614860000001
       },
       {
         "weekNo": 11,
@@ -9425,8 +9460,8 @@
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 106.55030099999998,
-        "dailyProfitRmb": 140.4941826042857
+        "weeklyProfitRmb": 23.48755199999996,
+        "dailyProfitRmb": 30.970014994285663
       },
       {
         "weekNo": 7,
@@ -9451,8 +9486,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": 883.9429384799996,
-        "dailyProfitRmb": 126.27756263999994
+        "weeklyProfitRmb": 993.8703356399999,
+        "dailyProfitRmb": 141.98147652
       },
       {
         "weekNo": 12,
@@ -9477,8 +9512,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": 1573.1442955800005,
-        "dailyProfitRmb": 224.7348993685715
+        "weeklyProfitRmb": 1068.2359142400005,
+        "dailyProfitRmb": 152.60513060571435
       },
       {
         "weekNo": 2,
@@ -9490,8 +9525,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": -457.74534960000005,
-        "dailyProfitRmb": -65.3921928
+        "weeklyProfitRmb": 641.4174647999998,
+        "dailyProfitRmb": 91.63106639999998
       },
       {
         "weekNo": 4,
@@ -9581,8 +9616,8 @@
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": -22.01839499999998,
-        "dailyProfitRmb": -29.032826549999974
+        "weeklyProfitRmb": -60.415004999999994,
+        "dailyProfitRmb": -79.66149945
       },
       {
         "weekNo": 9,
@@ -9633,8 +9668,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "C",
         "listingLevel": "C",
-        "weeklyProfitRmb": 0,
-        "dailyProfitRmb": 0
+        "weeklyProfitRmb": 951.4328342399999,
+        "dailyProfitRmb": 135.91897631999998
       },
       {
         "weekNo": 11,
@@ -9737,8 +9772,8 @@
         "product": "烘鞋器-零Pro（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": 2225.2376596020003,
-        "dailyProfitRmb": 317.89109422885724
+        "weeklyProfitRmb": -379.02610064000027,
+        "dailyProfitRmb": -54.146585805714324
       },
       {
         "weekNo": 9,
@@ -9789,8 +9824,8 @@
         "product": "烘鞋器-Ultra（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": -1825.7410957500003,
-        "dailyProfitRmb": -260.8201565357143
+        "weeklyProfitRmb": -1927.2911922,
+        "dailyProfitRmb": -275.32731317142856
       },
       {
         "weekNo": 7,
@@ -9815,8 +9850,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": 8171.011787400002,
-        "dailyProfitRmb": 1167.2873982000003
+        "weeklyProfitRmb": 8324.911702800002,
+        "dailyProfitRmb": 1189.2731004000002
       },
       {
         "weekNo": 2,
@@ -9828,8 +9863,8 @@
         "product": "烘鞋器-Ultra（美规）-紫色",
         "marketLevel": "S",
         "listingLevel": "B",
-        "weeklyProfitRmb": 701.2531669000001,
-        "dailyProfitRmb": 100.17902384285716
+        "weeklyProfitRmb": 764.0865089,
+        "dailyProfitRmb": 109.15521555714287
       },
       {
         "weekNo": 3,
@@ -9841,8 +9876,8 @@
         "product": "烘鞋器-Ultra（美规）-紫色",
         "marketLevel": "S",
         "listingLevel": "B",
-        "weeklyProfitRmb": 538.68020976,
-        "dailyProfitRmb": 76.95431568000001
+        "weeklyProfitRmb": 563.554332,
+        "dailyProfitRmb": 80.5077617142857
       },
       {
         "weekNo": 7,
@@ -9867,8 +9902,8 @@
         "product": "烘鞋器-朗（美规）",
         "marketLevel": "A",
         "listingLevel": "S",
-        "weeklyProfitRmb": 1342.5404313599997,
-        "dailyProfitRmb": 191.7914901942857
+        "weeklyProfitRmb": 1172.00738304,
+        "dailyProfitRmb": 167.42962614857143
       },
       {
         "weekNo": 7,
@@ -9919,8 +9954,8 @@
         "product": "烘鞋器-朗（美规）",
         "marketLevel": "A",
         "listingLevel": "S",
-        "weeklyProfitRmb": 1585.6955647200002,
-        "dailyProfitRmb": 226.5279378171429
+        "weeklyProfitRmb": 1069.42259016,
+        "dailyProfitRmb": 152.7746557371429
       },
       {
         "weekNo": 11,
@@ -9971,8 +10006,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "C",
-        "weeklyProfitRmb": 1026.99615968,
-        "dailyProfitRmb": 146.71373709714285
+        "weeklyProfitRmb": 1185.4396646399998,
+        "dailyProfitRmb": 169.34852352
       },
       {
         "weekNo": 2,
@@ -9984,8 +10019,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": 584.6367612000001,
-        "dailyProfitRmb": 83.51953731428573
+        "weeklyProfitRmb": 585.1349604000001,
+        "dailyProfitRmb": 83.59070862857143
       },
       {
         "weekNo": 5,
@@ -10088,8 +10123,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": 6550.529333039999,
-        "dailyProfitRmb": 935.78990472
+        "weeklyProfitRmb": 5335.664537279999,
+        "dailyProfitRmb": 762.2377910399999
       },
       {
         "weekNo": 12,
@@ -10244,8 +10279,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": 86.51849284,
-        "dailyProfitRmb": 12.35978469142857
+        "weeklyProfitRmb": -276.15355824,
+        "dailyProfitRmb": -39.45050832
       },
       {
         "weekNo": 7,
@@ -10270,8 +10305,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": -804.9337480799996,
-        "dailyProfitRmb": -114.99053543999995
+        "weeklyProfitRmb": 1226.3721246000002,
+        "dailyProfitRmb": 175.19601780000002
       },
       {
         "weekNo": 12,
@@ -10335,8 +10370,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": -579.9984431999997,
-        "dailyProfitRmb": -82.85692045714282
+        "weeklyProfitRmb": -91.12502080000021,
+        "dailyProfitRmb": -13.017860114285746
       },
       {
         "weekNo": 11,
@@ -10400,8 +10435,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": 482.7728423,
-        "dailyProfitRmb": 68.9675489
+        "weeklyProfitRmb": 421.54479389999995,
+        "dailyProfitRmb": 60.22068484285713
       },
       {
         "weekNo": 6,
@@ -10582,8 +10617,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": 804.0593755999998,
-        "dailyProfitRmb": 114.86562508571427
+        "weeklyProfitRmb": 2406.5991742,
+        "dailyProfitRmb": 343.79988202857146
       },
       {
         "weekNo": 8,
@@ -10660,8 +10695,8 @@
         "product": "烘鞋器-零（日规）",
         "marketLevel": "S",
         "listingLevel": "C",
-        "weeklyProfitRmb": 393.16806637200006,
-        "dailyProfitRmb": 56.16686662457143
+        "weeklyProfitRmb": 354.599026828,
+        "dailyProfitRmb": 50.65700383257143
       },
       {
         "weekNo": 10,
@@ -10699,8 +10734,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 1243.3090493199998,
-        "dailyProfitRmb": 177.61557847428568
+        "weeklyProfitRmb": -352.16431926000007,
+        "dailyProfitRmb": -50.30918846571429
       },
       {
         "weekNo": 12,
@@ -10829,8 +10864,8 @@
         "product": "烘鞋器-零Pro（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 138.424827,
-        "dailyProfitRmb": 19.774975285714284
+        "weeklyProfitRmb": 763.62822,
+        "dailyProfitRmb": 109.08974571428571
       },
       {
         "weekNo": 11,
@@ -10881,8 +10916,8 @@
         "product": "烘鞋器-朗（日规）",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": -11229.49010997,
-        "dailyProfitRmb": -1604.2128728528571
+        "weeklyProfitRmb": 292.0442767380001,
+        "dailyProfitRmb": 41.72061096257144
       },
       {
         "weekNo": 12,
@@ -10946,8 +10981,8 @@
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": 47.24496,
-        "dailyProfitRmb": 62.2958544
+        "weeklyProfitRmb": 49.58846,
+        "dailyProfitRmb": 65.38592654285715
       },
       {
         "weekNo": 1,
@@ -10959,8 +10994,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": 511.3836504000001,
-        "dailyProfitRmb": 73.05480720000001
+        "weeklyProfitRmb": 131.13913679999996,
+        "dailyProfitRmb": 18.734162399999995
       },
       {
         "weekNo": 12,
@@ -10998,8 +11033,8 @@
         "product": "烘鞋器-零Pro（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": -12935.580027844,
-        "dailyProfitRmb": -1847.9400039777142
+        "weeklyProfitRmb": 930.4481089880001,
+        "dailyProfitRmb": 132.92115842685715
       },
       {
         "weekNo": 13,
@@ -11037,8 +11072,8 @@
         "product": "烘鞋器-零（美规）",
         "marketLevel": "A",
         "listingLevel": "C",
-        "weeklyProfitRmb": 52.90504992000001,
-        "dailyProfitRmb": 7.557864274285715
+        "weeklyProfitRmb": 29.779782480000005,
+        "dailyProfitRmb": 4.254254640000001
       },
       {
         "weekNo": 1,
@@ -11310,8 +11345,8 @@
         "product": "烘鞋器-朗（日规）",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": -100.14021778199995,
-        "dailyProfitRmb": -14.305745397428565
+        "weeklyProfitRmb": -263.03813369999983,
+        "dailyProfitRmb": -37.576876242857125
       },
       {
         "weekNo": 3,
@@ -11323,8 +11358,8 @@
         "product": "烘鞋器-朗（日规）",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": 530.45351604,
-        "dailyProfitRmb": 75.77907371999999
+        "weeklyProfitRmb": -166.77633179199992,
+        "dailyProfitRmb": -23.82519025599999
       },
       {
         "weekNo": 6,
@@ -11570,8 +11605,8 @@
         "product": "烘鞋器-零（日规）",
         "marketLevel": "S",
         "listingLevel": "C",
-        "weeklyProfitRmb": 271.3990752,
-        "dailyProfitRmb": 38.77129645714286
+        "weeklyProfitRmb": 369.9242184000001,
+        "dailyProfitRmb": 52.84631691428573
       },
       {
         "weekNo": 5,
@@ -11648,8 +11683,8 @@
         "product": "烘鞋器-零（日规）",
         "marketLevel": "S",
         "listingLevel": "C",
-        "weeklyProfitRmb": 211.210955928,
-        "dailyProfitRmb": 30.172993704
+        "weeklyProfitRmb": 235.01717114399997,
+        "dailyProfitRmb": 33.57388159199999
       },
       {
         "weekNo": 10,
@@ -11687,8 +11722,8 @@
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": -10.962419999999996,
-        "dailyProfitRmb": -14.454733799999996
+        "weeklyProfitRmb": -26.3438,
+        "dailyProfitRmb": -34.73618200000001
       },
       {
         "weekNo": 7,
@@ -11726,8 +11761,8 @@
         "product": "烘鞋器-零（美规）",
         "marketLevel": "A",
         "listingLevel": "C",
-        "weeklyProfitRmb": 0,
-        "dailyProfitRmb": 0
+        "weeklyProfitRmb": -54.42797376,
+        "dailyProfitRmb": -7.775424822857143
       },
       {
         "weekNo": 1,
@@ -11739,8 +11774,8 @@
         "product": "烘鞋器-Ultra（美规）-紫色",
         "marketLevel": "S",
         "listingLevel": "A",
-        "weeklyProfitRmb": 561.57486792,
-        "dailyProfitRmb": 80.22498113142858
+        "weeklyProfitRmb": 577.39945032,
+        "dailyProfitRmb": 82.48563576000001
       },
       {
         "weekNo": 2,
@@ -11804,8 +11839,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 654.5469075600001,
-        "dailyProfitRmb": 93.50670108000001
+        "weeklyProfitRmb": -19.265199720000094,
+        "dailyProfitRmb": -2.7521713885714423
       },
       {
         "weekNo": 1,
@@ -11817,8 +11852,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": -1430.9493482399998,
-        "dailyProfitRmb": -204.42133546285712
+        "weeklyProfitRmb": -421.15066704,
+        "dailyProfitRmb": -60.16438100571428
       },
       {
         "weekNo": 13,
@@ -11908,8 +11943,8 @@
         "product": "烘鞋器-朗（日规）-白",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": -5030.600996808,
-        "dailyProfitRmb": -718.6572852582856
+        "weeklyProfitRmb": -112.8830741100001,
+        "dailyProfitRmb": -16.126153444285727
       },
       {
         "weekNo": 12,
@@ -11986,8 +12021,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
-        "weeklyProfitRmb": -4478.8023631999995,
-        "dailyProfitRmb": -639.8289090285714
+        "weeklyProfitRmb": 218.5597568,
+        "dailyProfitRmb": 31.2228224
       },
       {
         "weekNo": 6,
@@ -12012,8 +12047,8 @@
         "product": "烘鞋器-Ultra（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": -2284.70508864,
-        "dailyProfitRmb": -326.3864412342857
+        "weeklyProfitRmb": -2583.97955712,
+        "dailyProfitRmb": -369.1399367314286
       },
       {
         "weekNo": 1,
@@ -12025,8 +12060,8 @@
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 18.031271999999998,
-        "dailyProfitRmb": 23.77552008
+        "weeklyProfitRmb": 50.36320799999997,
+        "dailyProfitRmb": 66.40748711999996
       },
       {
         "weekNo": 9,
@@ -12051,8 +12086,8 @@
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": 1789.3580796000003,
-        "dailyProfitRmb": 255.62258280000003
+        "weeklyProfitRmb": 765.17685972,
+        "dailyProfitRmb": 109.31097996000001
       },
       {
         "weekNo": 7,
@@ -12077,8 +12112,8 @@
         "product": "烘鞋器-零Pro（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
-        "weeklyProfitRmb": 1176.2473351200003,
-        "dailyProfitRmb": 168.03533358857146
+        "weeklyProfitRmb": 896.4603476400001,
+        "dailyProfitRmb": 128.06576394857143
       },
       {
         "weekNo": 8,
@@ -12116,8 +12151,8 @@
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "B",
-        "weeklyProfitRmb": 19.01163600000003,
-        "dailyProfitRmb": 25.068200040000043
+        "weeklyProfitRmb": 11.018756000000025,
+        "dailyProfitRmb": 14.529016840000034
       },
       {
         "weekNo": 1,
@@ -12129,8 +12164,8 @@
         "product": "烘鞋器-零（美规）",
         "marketLevel": "A",
         "listingLevel": "C",
-        "weeklyProfitRmb": 103.85678448000002,
-        "dailyProfitRmb": 14.83668349714286
+        "weeklyProfitRmb": 103.16153664000002,
+        "dailyProfitRmb": 14.73736237714286
       },
       {
         "weekNo": 12,
@@ -12168,8 +12203,8 @@
         "product": "烘鞋器-零Pro（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
-        "weeklyProfitRmb": -1946.1185873999991,
-        "dailyProfitRmb": -278.01694105714273
+        "weeklyProfitRmb": 1548.2454539760006,
+        "dailyProfitRmb": 221.17792199657154
       },
       {
         "weekNo": 7,
@@ -12287,6 +12322,344 @@
         "listingLevel": "C",
         "weeklyProfitRmb": 47.04606,
         "dailyProfitRmb": 6.720865714285714
+      },
+      {
+        "weekNo": 3,
+        "weekRange": "2026-04-13~2026-04-19",
+        "weekStart": "2026-04-13",
+        "weekEnd": "2026-04-19",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 0,
+        "dailyProfitRmb": 0
+      },
+      {
+        "weekNo": 1,
+        "weekRange": "2026-03-30~2026-04-05",
+        "weekStart": "2026-03-30",
+        "weekEnd": "2026-04-05",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 0,
+        "dailyProfitRmb": 0
+      },
+      {
+        "weekNo": 2,
+        "weekRange": "2026-04-06~2026-04-12",
+        "weekStart": "2026-04-06",
+        "weekEnd": "2026-04-12",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": -345.92659584,
+        "dailyProfitRmb": -49.41808512
+      },
+      {
+        "weekNo": 1,
+        "weekRange": "2026-03-30~2026-04-05",
+        "weekStart": "2026-03-30",
+        "weekEnd": "2026-04-05",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 0,
+        "dailyProfitRmb": 0
+      },
+      {
+        "weekNo": 2,
+        "weekRange": "2026-04-06~2026-04-12",
+        "weekStart": "2026-04-06",
+        "weekEnd": "2026-04-12",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 0,
+        "dailyProfitRmb": 0
+      },
+      {
+        "weekNo": 3,
+        "weekRange": "2026-04-13~2026-04-19",
+        "weekStart": "2026-04-13",
+        "weekEnd": "2026-04-19",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 0,
+        "dailyProfitRmb": 0
+      },
+      {
+        "weekNo": 4,
+        "weekRange": "2026-04-20~2026-04-26",
+        "weekStart": "2026-04-20",
+        "weekEnd": "2026-04-26",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 5,
+        "weekRange": "2026-04-27~2026-05-03",
+        "weekStart": "2026-04-27",
+        "weekEnd": "2026-05-03",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 6,
+        "weekRange": "2026-05-04~2026-05-10",
+        "weekStart": "2026-05-04",
+        "weekEnd": "2026-05-10",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 7,
+        "weekRange": "2026-05-11~2026-05-17",
+        "weekStart": "2026-05-11",
+        "weekEnd": "2026-05-17",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 8,
+        "weekRange": "2026-05-18~2026-05-24",
+        "weekStart": "2026-05-18",
+        "weekEnd": "2026-05-24",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 9,
+        "weekRange": "2026-05-25~2026-05-31",
+        "weekStart": "2026-05-25",
+        "weekEnd": "2026-05-31",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 10,
+        "weekRange": "2026-06-01~2026-06-07",
+        "weekStart": "2026-06-01",
+        "weekEnd": "2026-06-07",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 11,
+        "weekRange": "2026-06-08~2026-06-14",
+        "weekStart": "2026-06-08",
+        "weekEnd": "2026-06-14",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 12,
+        "weekRange": "2026-06-15~2026-06-21",
+        "weekStart": "2026-06-15",
+        "weekEnd": "2026-06-21",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 13,
+        "weekRange": "2026-06-22~2026-06-28",
+        "weekStart": "2026-06-22",
+        "weekEnd": "2026-06-28",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 324.81,
+        "dailyProfitRmb": 46.40142857142857
+      },
+      {
+        "weekNo": 4,
+        "weekRange": "2026-04-20~2026-04-26",
+        "weekStart": "2026-04-20",
+        "weekEnd": "2026-04-26",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 5,
+        "weekRange": "2026-04-27~2026-05-03",
+        "weekStart": "2026-04-27",
+        "weekEnd": "2026-05-03",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 6,
+        "weekRange": "2026-05-04~2026-05-10",
+        "weekStart": "2026-05-04",
+        "weekEnd": "2026-05-10",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 7,
+        "weekRange": "2026-05-11~2026-05-17",
+        "weekStart": "2026-05-11",
+        "weekEnd": "2026-05-17",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 8,
+        "weekRange": "2026-05-18~2026-05-24",
+        "weekStart": "2026-05-18",
+        "weekEnd": "2026-05-24",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 9,
+        "weekRange": "2026-05-25~2026-05-31",
+        "weekStart": "2026-05-25",
+        "weekEnd": "2026-05-31",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 10,
+        "weekRange": "2026-06-01~2026-06-07",
+        "weekStart": "2026-06-01",
+        "weekEnd": "2026-06-07",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 11,
+        "weekRange": "2026-06-08~2026-06-14",
+        "weekStart": "2026-06-08",
+        "weekEnd": "2026-06-14",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 12,
+        "weekRange": "2026-06-15~2026-06-21",
+        "weekStart": "2026-06-15",
+        "weekEnd": "2026-06-21",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
+      },
+      {
+        "weekNo": 13,
+        "weekRange": "2026-06-22~2026-06-28",
+        "weekStart": "2026-06-22",
+        "weekEnd": "2026-06-28",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-紫色",
+        "marketLevel": "B",
+        "listingLevel": "C",
+        "weeklyProfitRmb": 310.37399999999997,
+        "dailyProfitRmb": 44.339142857142846
       }
     ],
     "ownerRows": [
@@ -12485,11 +12858,11 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "weeklyPlan": 138.424827,
-        "weeklyActual": 78.18600000000004,
-        "completion": 0.5648264238032967,
-        "gap": -60.23882699999996,
-        "weekNo": 3
+        "weeklyPlan": 2614.5,
+        "weeklyActual": 391.52,
+        "completion": 0.1497494740868235,
+        "gap": -2222.98,
+        "weekNo": 4
       },
       {
         "country": "加拿大",
@@ -12498,11 +12871,11 @@
         "marketLevel": "A",
         "listingLevel": "S",
         "owner": "刘冬冬",
-        "weeklyPlan": 1585.6955647200002,
-        "weeklyActual": -905.3640000000001,
-        "completion": -0.5709570110072597,
-        "gap": -2491.0595647200003,
-        "weekNo": 3
+        "weeklyPlan": 1399.949712,
+        "weeklyActual": 384.65,
+        "completion": 0.2747598693745079,
+        "gap": -1015.2997120000001,
+        "weekNo": 4
       },
       {
         "country": "加拿大",
@@ -12511,11 +12884,11 @@
         "marketLevel": "A",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 0,
-        "weeklyActual": -186.1026,
-        "completion": null,
-        "gap": -186.1026,
-        "weekNo": 3
+        "weeklyPlan": 47.04606,
+        "weeklyActual": -37.42,
+        "completion": -0.7953907298507038,
+        "gap": -84.46606,
+        "weekNo": 4
       },
       {
         "country": "加拿大",
@@ -12524,11 +12897,11 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "weeklyPlan": -781.33701534,
-        "weeklyActual": -378.28080000000006,
-        "completion": 0.4841455000508207,
-        "gap": 403.05621533999994,
-        "weekNo": 3
+        "weeklyPlan": 1120.5000000000002,
+        "weeklyActual": -80.36999999999999,
+        "completion": -0.07172690763052207,
+        "gap": -1200.8700000000001,
+        "weekNo": 4
       },
       {
         "country": "加拿大",
@@ -12537,11 +12910,11 @@
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "weeklyPlan": -20.899665599999967,
-        "weeklyActual": -16.68300000000002,
-        "completion": 0.7982424369507638,
-        "gap": 4.216665599999946,
-        "weekNo": 3
+        "weeklyPlan": 112.09482000000001,
+        "weeklyActual": 291.49000000000007,
+        "completion": 2.600387778846516,
+        "gap": 179.39518000000004,
+        "weekNo": 4
       },
       {
         "country": "德国",
@@ -12550,11 +12923,11 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "weeklyPlan": 487.70614480000006,
-        "weeklyActual": 673.4394,
-        "completion": 1.3808302544069153,
-        "gap": 185.73325519999992,
-        "weekNo": 3
+        "weeklyPlan": 1876.1988000000001,
+        "weeklyActual": 817.47,
+        "completion": 0.4357054273779516,
+        "gap": -1058.7288,
+        "weekNo": 4
       },
       {
         "country": "德国",
@@ -12563,11 +12936,11 @@
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "weeklyPlan": 1789.3580796000003,
-        "weeklyActual": 3923.8651999999993,
-        "completion": 2.1928898663352805,
-        "gap": 2134.5071203999987,
-        "weekNo": 3
+        "weeklyPlan": 1122.5192999999997,
+        "weeklyActual": 831.7,
+        "completion": 0.7409226727772077,
+        "gap": -290.81929999999966,
+        "weekNo": 4
       },
       {
         "country": "德国",
@@ -12576,11 +12949,11 @@
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "weeklyPlan": 0,
-        "weeklyActual": -369.1606,
-        "completion": null,
-        "gap": -369.1606,
-        "weekNo": 3
+        "weeklyPlan": 384.86375999999996,
+        "weeklyActual": 0,
+        "completion": 0,
+        "gap": -384.86375999999996,
+        "weekNo": 4
       },
       {
         "country": "德国",
@@ -12590,10 +12963,10 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "weeklyPlan": 0,
-        "weeklyActual": 63.6788,
+        "weeklyActual": 0,
         "completion": null,
-        "gap": 63.6788,
-        "weekNo": 3
+        "gap": 0,
+        "weekNo": 4
       },
       {
         "country": "意大利",
@@ -12602,11 +12975,11 @@
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "weeklyPlan": 804.0593755999998,
-        "weeklyActual": 232.82059999999987,
-        "completion": 0.28955647687867087,
-        "gap": -571.2387755999999,
-        "weekNo": 3
+        "weeklyPlan": 1019.9033999999998,
+        "weeklyActual": 714.6899999999999,
+        "completion": 0.700742835056732,
+        "gap": -305.21339999999987,
+        "weekNo": 4
       },
       {
         "country": "意大利",
@@ -12615,11 +12988,11 @@
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 0,
-        "weeklyActual": -987.1818,
-        "completion": null,
-        "gap": -987.1818,
-        "weekNo": 3
+        "weeklyPlan": 310.37399999999997,
+        "weeklyActual": 279.17999999999995,
+        "completion": 0.8994954474279417,
+        "gap": -31.194000000000017,
+        "weekNo": 4
       },
       {
         "country": "日本",
@@ -12628,11 +13001,11 @@
         "marketLevel": "S",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 211.210955928,
-        "weeklyActual": 188.97425,
-        "completion": 0.8947180280951889,
-        "gap": -22.236705927999992,
-        "weekNo": 3
+        "weeklyPlan": 288.85679999999996,
+        "weeklyActual": 128.59,
+        "completion": 0.4451686787363151,
+        "gap": -160.26679999999996,
+        "weekNo": 4
       },
       {
         "country": "日本",
@@ -12641,11 +13014,11 @@
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "weeklyPlan": 530.45351604,
-        "weeklyActual": 896.5788099999999,
-        "completion": 1.6902118336272682,
-        "gap": 366.1252939599999,
-        "weekNo": 3
+        "weeklyPlan": 538.3821449999998,
+        "weeklyActual": -58.47999999999999,
+        "completion": -0.10862173001669662,
+        "gap": -596.8621449999998,
+        "weekNo": 4
       },
       {
         "country": "日本",
@@ -12654,11 +13027,11 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "刘冬冬",
-        "weeklyPlan": -943.1070989760005,
-        "weeklyActual": 1893.58928,
-        "completion": -2.007819983601021,
-        "gap": 2836.6963789760002,
-        "weekNo": 3
+        "weeklyPlan": 0,
+        "weeklyActual": -314.12,
+        "completion": null,
+        "gap": -314.12,
+        "weekNo": 4
       },
       {
         "country": "日本",
@@ -12667,11 +13040,11 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "weeklyPlan": 2225.2376596020003,
-        "weeklyActual": 3702.33397,
-        "completion": 1.6637926084093817,
-        "gap": 1477.0963103979998,
-        "weekNo": 3
+        "weeklyPlan": 2835.8740800000005,
+        "weeklyActual": 874.1299999999999,
+        "completion": 0.30824006120892355,
+        "gap": -1961.7440800000006,
+        "weekNo": 4
       },
       {
         "country": "日本",
@@ -12680,11 +13053,11 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "weeklyPlan": 736.5534102679999,
-        "weeklyActual": 890.0234599999999,
-        "completion": 1.2083624182476582,
-        "gap": 153.470049732,
-        "weekNo": 3
+        "weeklyPlan": 591.8785740000001,
+        "weeklyActual": -97.88,
+        "completion": -0.1653717574848384,
+        "gap": -689.7585740000001,
+        "weekNo": 4
       },
       {
         "country": "比利时",
@@ -12693,11 +13066,11 @@
         "marketLevel": "C",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 0,
+        "weeklyPlan": 101.99034,
         "weeklyActual": 0,
-        "completion": null,
-        "gap": 0,
-        "weekNo": 3
+        "completion": 0,
+        "gap": -101.99034,
+        "weekNo": 4
       },
       {
         "country": "法国",
@@ -12706,11 +13079,11 @@
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "weeklyPlan": -4478.8023631999995,
-        "weeklyActual": -536.7786,
-        "completion": 0.11984869089344774,
-        "gap": 3942.0237631999994,
-        "weekNo": 3
+        "weeklyPlan": 722.3533800000001,
+        "weeklyActual": 281.38000000000005,
+        "completion": 0.38953233665217984,
+        "gap": -440.9733800000001,
+        "weekNo": 4
       },
       {
         "country": "法国",
@@ -12719,11 +13092,11 @@
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 871.7271551800001,
-        "weeklyActual": 801.3584,
-        "completion": 0.9192766282868979,
-        "gap": -70.36875518000011,
-        "weekNo": 3
+        "weeklyPlan": 384.86376,
+        "weeklyActual": 91.49,
+        "completion": 0.23772048581555194,
+        "gap": -293.37376,
+        "weekNo": 4
       },
       {
         "country": "法国",
@@ -12732,11 +13105,11 @@
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 0,
-        "weeklyActual": -2003.0752,
-        "completion": null,
-        "gap": -2003.0752,
-        "weekNo": 3
+        "weeklyPlan": 254.97584999999998,
+        "weeklyActual": 157.23,
+        "completion": 0.6166466353578192,
+        "gap": -97.74584999999999,
+        "weekNo": 4
       },
       {
         "country": "波兰",
@@ -12745,11 +13118,11 @@
         "marketLevel": "C",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 0,
-        "weeklyActual": -14.23169999999999,
-        "completion": null,
-        "gap": -14.23169999999999,
-        "weekNo": 3
+        "weeklyPlan": 146.853,
+        "weeklyActual": 0,
+        "completion": 0,
+        "gap": -146.853,
+        "weekNo": 4
       },
       {
         "country": "瑞典",
@@ -12762,7 +13135,7 @@
         "weeklyActual": 0,
         "completion": 0,
         "gap": -136.96734,
-        "weekNo": 3
+        "weekNo": 4
       },
       {
         "country": "美国",
@@ -12771,11 +13144,11 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "weeklyPlan": 1941.5476080000003,
-        "weeklyActual": 2047.6368000000002,
-        "completion": 1.0546415609706747,
-        "gap": 106.08919199999991,
-        "weekNo": 3
+        "weeklyPlan": 5448.7026000000005,
+        "weeklyActual": 3160.27,
+        "completion": 0.5800041279551575,
+        "gap": -2288.4326000000005,
+        "weekNo": 4
       },
       {
         "country": "美国",
@@ -12784,11 +13157,11 @@
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "刘冬冬",
-        "weeklyPlan": -89.41710183999973,
-        "weeklyActual": -2428.1246,
-        "completion": 27.155035782134977,
-        "gap": -2338.7074981600003,
-        "weekNo": 3
+        "weeklyPlan": 3804.60861,
+        "weeklyActual": 84.82,
+        "completion": 0.02229401462664513,
+        "gap": -3719.78861,
+        "weekNo": 4
       },
       {
         "country": "美国",
@@ -12797,11 +13170,11 @@
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "weeklyPlan": 1026.2257236,
-        "weeklyActual": 1663.3298,
-        "completion": 1.6208225556508549,
-        "gap": 637.1040763999999,
-        "weekNo": 3
+        "weeklyPlan": 1099.2134999999998,
+        "weeklyActual": 696.1700000000001,
+        "completion": 0.6333346524583261,
+        "gap": -403.04349999999977,
+        "weekNo": 4
       },
       {
         "country": "美国",
@@ -12810,11 +13183,11 @@
         "marketLevel": "S",
         "listingLevel": "B",
         "owner": "刘冬冬",
-        "weeklyPlan": 538.68020976,
-        "weeklyActual": 467.6474,
-        "completion": 0.8681354754212197,
-        "gap": -71.03280976000002,
-        "weekNo": 3
+        "weeklyPlan": 1885.3807341600004,
+        "weeklyActual": 478.9,
+        "completion": 0.2540070508428982,
+        "gap": -1406.4807341600003,
+        "weekNo": 4
       },
       {
         "country": "英国",
@@ -12823,11 +13196,11 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "刘冬冬",
-        "weeklyPlan": -22.01839499999998,
-        "weeklyActual": 67.49000000000001,
-        "completion": -3.0651643773308668,
-        "gap": 89.508395,
-        "weekNo": 3
+        "weeklyPlan": 15.807087999999979,
+        "weeklyActual": -233.14,
+        "completion": -14.74907965338083,
+        "gap": -248.94708799999995,
+        "weekNo": 4
       },
       {
         "country": "英国",
@@ -12836,11 +13209,11 @@
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "刘冬冬",
-        "weeklyPlan": 19.01163600000003,
-        "weeklyActual": -23.85,
-        "completion": -1.2544948788205266,
-        "gap": -42.86163600000003,
-        "weekNo": 3
+        "weeklyPlan": 25.52961600000002,
+        "weeklyActual": -590.7099999999999,
+        "completion": -23.138225032448567,
+        "gap": -616.239616,
+        "weekNo": 4
       },
       {
         "country": "荷兰",
@@ -12850,10 +13223,10 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "weeklyPlan": 0,
-        "weeklyActual": 0,
+        "weeklyActual": 215.09,
         "completion": null,
-        "gap": 0,
-        "weekNo": 3
+        "gap": 215.09,
+        "weekNo": 4
       },
       {
         "country": "西班牙",
@@ -12862,11 +13235,11 @@
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "weeklyPlan": 86.51849284,
-        "weeklyActual": 291.44680000000005,
-        "completion": 3.3686069929463196,
-        "gap": 204.92830716000006,
-        "weekNo": 3
+        "weeklyPlan": 206.86787999999999,
+        "weeklyActual": 21.77,
+        "completion": 0.10523625030623411,
+        "gap": -185.09787999999998,
+        "weekNo": 4
       },
       {
         "country": "西班牙",
@@ -12875,11 +13248,11 @@
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "weeklyPlan": 0,
-        "weeklyActual": -285.27139999999997,
-        "completion": null,
-        "gap": -285.27139999999997,
-        "weekNo": 3
+        "weeklyPlan": 324.81,
+        "weeklyActual": -0.56,
+        "completion": -0.0017240848496043843,
+        "gap": -325.37,
+        "weekNo": 4
       }
     ],
     "monthlyTrackRows": [
@@ -12891,10 +13264,10 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "monthlyPlan": 6754.71770964,
-        "monthlyActual": 2926.9949999999994,
-        "completion": 0.4333260286840317,
-        "gap": -3827.7227096400006
+        "monthlyPlan": 6700.46580876,
+        "monthlyActual": 2241.6800000000003,
+        "completion": 0.3345558449189146,
+        "gap": -4458.78580876
       },
       {
         "month": "4月",
@@ -12904,10 +13277,10 @@
         "marketLevel": "A",
         "listingLevel": "S",
         "owner": "刘冬冬",
-        "monthlyPlan": 6529.91048988,
-        "monthlyActual": 2640.4956000000006,
-        "completion": 0.40436934075776665,
-        "gap": -3889.414889879999
+        "monthlyPlan": 5756.9095812,
+        "monthlyActual": 3388.91,
+        "completion": 0.588668269355309,
+        "gap": -2367.999581199999
       },
       {
         "month": "4月",
@@ -12917,10 +13290,10 @@
         "marketLevel": "A",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 250.85395440000005,
-        "monthlyActual": 274.398,
-        "completion": 1.0938555888278234,
-        "gap": 23.544045599999976
+        "monthlyPlan": 172.60546536,
+        "monthlyActual": 41.33000000000004,
+        "completion": 0.23944780609234365,
+        "gap": -131.27546536
       },
       {
         "month": "4月",
@@ -12930,10 +13303,10 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "monthlyPlan": 2468.7807927000003,
-        "monthlyActual": 2310.222,
-        "completion": 0.9357744546746124,
-        "gap": -158.55879270000014
+        "monthlyPlan": 2177.67018162,
+        "monthlyActual": 47.97999999999988,
+        "completion": 0.02203272121047604,
+        "gap": -2129.69018162
       },
       {
         "month": "4月",
@@ -12943,10 +13316,10 @@
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "monthlyPlan": 1374.0402660000004,
-        "monthlyActual": 2110.3248000000003,
-        "completion": 1.5358536807246663,
-        "gap": 736.2845339999999
+        "monthlyPlan": 1013.2936476000002,
+        "monthlyActual": 1005.9999999999999,
+        "completion": 0.9928020395496653,
+        "gap": -7.293647600000213
       },
       {
         "month": "4月",
@@ -12956,10 +13329,10 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "monthlyPlan": 5700.74277214,
-        "monthlyActual": 7213.348400000002,
-        "completion": 1.2653348323752178,
-        "gap": 1512.6056278600017
+        "monthlyPlan": 3371.09802424,
+        "monthlyActual": 1030.47,
+        "completion": 0.30567785113051266,
+        "gap": -2340.62802424
       },
       {
         "month": "4月",
@@ -12969,10 +13342,10 @@
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "monthlyPlan": 2483.069761920001,
-        "monthlyActual": 4365.205800000001,
-        "completion": 1.7579875793037176,
-        "gap": 1882.1360380799997
+        "monthlyPlan": 4589.35722912,
+        "monthlyActual": 3042.45,
+        "completion": 0.6629359729714009,
+        "gap": -1546.90722912
       },
       {
         "month": "4月",
@@ -12983,9 +13356,9 @@
         "listingLevel": "B",
         "owner": "吴蕴晴",
         "monthlyPlan": 815.24904,
-        "monthlyActual": -2736.2635999999998,
-        "completion": -3.356353047652776,
-        "gap": -3551.51264
+        "monthlyActual": -2709.15,
+        "completion": -3.3230949894770805,
+        "gap": -3524.3990400000002
       },
       {
         "month": "4月",
@@ -12996,9 +13369,9 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "monthlyPlan": 0,
-        "monthlyActual": 541.2697999999999,
+        "monthlyActual": 535.21,
         "completion": null,
-        "gap": 541.2697999999999
+        "gap": 535.21
       },
       {
         "month": "4月",
@@ -13008,10 +13381,10 @@
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "monthlyPlan": 4658.025680139999,
-        "monthlyActual": 3843.9058,
-        "completion": 0.825222114250875,
-        "gap": -814.1198801399992
+        "monthlyPlan": 5519.51484016,
+        "monthlyActual": 3551.51,
+        "completion": 0.6434460460472372,
+        "gap": -1968.0048401599997
       },
       {
         "month": "4月",
@@ -13021,10 +13394,10 @@
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 0,
-        "monthlyActual": -3783.755800000001,
-        "completion": null,
-        "gap": -3783.755800000001
+        "monthlyPlan": 620.7479999999999,
+        "monthlyActual": -3873.91,
+        "completion": -6.240712817439605,
+        "gap": -4494.657999999999
       },
       {
         "month": "4月",
@@ -13034,10 +13407,10 @@
         "marketLevel": "S",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 1337.9489775,
-        "monthlyActual": 1279.1811999999998,
-        "completion": 0.9560762192816876,
-        "gap": -58.76777750000019
+        "monthlyPlan": 1421.711296372,
+        "monthlyActual": 1010.7999999999998,
+        "completion": 0.7109741637274841,
+        "gap": -410.9112963719999
       },
       {
         "month": "4月",
@@ -13047,10 +13420,10 @@
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "monthlyPlan": -9953.147726712,
-        "monthlyActual": -878.1184800000002,
-        "completion": 0.08822520313280677,
-        "gap": 9075.029246712
+        "monthlyPlan": 708.2588962460001,
+        "monthlyActual": -190.43999999999997,
+        "completion": -0.2688847270530497,
+        "gap": -898.698896246
       },
       {
         "month": "4月",
@@ -13060,10 +13433,10 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "刘冬冬",
-        "monthlyPlan": -3461.5642833660017,
-        "monthlyActual": -6257.60983,
-        "completion": 1.807740465797487,
-        "gap": -2796.0455466339986
+        "monthlyPlan": -4109.865550230001,
+        "monthlyActual": -5753.110000000001,
+        "completion": 1.3998292473772136,
+        "gap": -1643.244449769999
       },
       {
         "month": "4月",
@@ -13073,10 +13446,10 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "monthlyPlan": -7685.617525641999,
-        "monthlyActual": -407.92078999999944,
-        "completion": 0.05307586392882917,
-        "gap": 7277.696735642
+        "monthlyPlan": 7070.510892324001,
+        "monthlyActual": 2790.0399999999995,
+        "completion": 0.39460231976008514,
+        "gap": -4280.470892324001
       },
       {
         "month": "4月",
@@ -13086,10 +13459,10 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "monthlyPlan": -3371.52491574,
-        "monthlyActual": -302.56906999999984,
-        "completion": 0.08974249859090554,
-        "gap": 3068.95584574
+        "monthlyPlan": 1608.6538330939998,
+        "monthlyActual": 361.0400000000001,
+        "completion": 0.22443610463140776,
+        "gap": -1247.6138330939998
       },
       {
         "month": "4月",
@@ -13099,10 +13472,10 @@
         "marketLevel": "C",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 402.07515318,
-        "monthlyActual": 654.7528,
-        "completion": 1.6284338756612546,
-        "gap": 252.67764682
+        "monthlyPlan": 704.1514045399999,
+        "monthlyActual": 408.71,
+        "completion": 0.580429148283809,
+        "gap": -295.44140453999995
       },
       {
         "month": "4月",
@@ -13112,10 +13485,10 @@
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "monthlyPlan": -3276.429663539999,
-        "monthlyActual": 164.40999999999994,
-        "completion": -0.050179621381636536,
-        "gap": 3440.839663539999
+        "monthlyPlan": 2369.50308926,
+        "monthlyActual": 511.37,
+        "completion": 0.21581318138720038,
+        "gap": -1858.13308926
       },
       {
         "month": "4月",
@@ -13125,10 +13498,10 @@
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 2919.63723486,
-        "monthlyActual": 2514.8314000000005,
-        "completion": 0.8613506397210302,
-        "gap": -404.8058348599993
+        "monthlyPlan": 2660.0151342,
+        "monthlyActual": 1806.7499999999998,
+        "completion": 0.6792254588218276,
+        "gap": -853.2651341999997
       },
       {
         "month": "4月",
@@ -13139,9 +13512,9 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "monthlyPlan": 509.9516999999999,
-        "monthlyActual": -4003.584,
-        "completion": -7.850908233073839,
-        "gap": -4513.535699999999
+        "monthlyActual": -4058.05,
+        "completion": -7.957714426680019,
+        "gap": -4568.0017
       },
       {
         "month": "4月",
@@ -13151,10 +13524,10 @@
         "marketLevel": "C",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 293.706,
-        "monthlyActual": -14.23169999999999,
-        "completion": -0.048455598455598416,
-        "gap": -307.9377
+        "monthlyPlan": 1245.13883424,
+        "monthlyActual": 233.07999999999987,
+        "completion": 0.18719197698324613,
+        "gap": -1012.05883424
       },
       {
         "month": "4月",
@@ -13164,10 +13537,10 @@
         "marketLevel": "C",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 429.11268000000007,
-        "monthlyActual": 447.2116,
-        "completion": 1.0421775464663499,
-        "gap": 18.098919999999907
+        "monthlyPlan": 523.75711194,
+        "monthlyActual": 183.17,
+        "completion": 0.34972317477759307,
+        "gap": -340.58711194
       },
       {
         "month": "4月",
@@ -13177,10 +13550,10 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "monthlyPlan": 27560.493928440002,
-        "monthlyActual": 22548.829599999997,
-        "completion": 0.8181576737538652,
-        "gap": -5011.664328440005
+        "monthlyPlan": 26067.04556808,
+        "monthlyActual": 18837.129999999997,
+        "completion": 0.7226415418196344,
+        "gap": -7229.915568080003
       },
       {
         "month": "4月",
@@ -13190,10 +13563,10 @@
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "刘冬冬",
-        "monthlyPlan": 8512.94597054,
-        "monthlyActual": -2617.3114,
-        "completion": -0.307450723763254,
-        "gap": -11130.257370540001
+        "monthlyPlan": 6327.38329784,
+        "monthlyActual": -1271.28,
+        "completion": -0.200917178580596,
+        "gap": -7598.663297839999
       },
       {
         "month": "4月",
@@ -13203,10 +13576,10 @@
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "monthlyPlan": 5236.694825119999,
-        "monthlyActual": 2743.345,
-        "completion": 0.5238695573475843,
-        "gap": -2493.3498251199994
+        "monthlyPlan": 5707.16174952,
+        "monthlyActual": 4256.09,
+        "completion": 0.7457454662745381,
+        "gap": -1451.0717495199988
       },
       {
         "month": "4月",
@@ -13216,10 +13589,10 @@
         "marketLevel": "S",
         "listingLevel": "B",
         "owner": "刘冬冬",
-        "monthlyPlan": 5289.908154740001,
-        "monthlyActual": -603.5018000000001,
-        "completion": -0.11408549682648739,
-        "gap": -5893.409954740001
+        "monthlyPlan": 5266.24698314,
+        "monthlyActual": 2064.83,
+        "completion": 0.3920875732966183,
+        "gap": -3201.4169831400004
       },
       {
         "month": "4月",
@@ -13229,10 +13602,10 @@
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "刘冬冬",
-        "monthlyPlan": 249.01894600000003,
-        "monthlyActual": 255.32000000000005,
-        "completion": 1.0253035124484062,
-        "gap": 6.301054000000022
+        "monthlyPlan": 159.89152299999998,
+        "monthlyActual": -131.8900000000002,
+        "completion": -0.8248717475785139,
+        "gap": -291.7815230000001
       },
       {
         "month": "4月",
@@ -13242,10 +13615,10 @@
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "刘冬冬",
-        "monthlyPlan": 108.61225200000005,
-        "monthlyActual": 16.31,
-        "completion": 0.15016722054524742,
-        "gap": -92.30225200000005
+        "monthlyPlan": 87.58149200000005,
+        "monthlyActual": -322.85999999999996,
+        "completion": -3.6863952945674847,
+        "gap": -410.44149200000004
       },
       {
         "month": "4月",
@@ -13256,9 +13629,9 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "monthlyPlan": 0,
-        "monthlyActual": 0,
+        "monthlyActual": 215.09,
         "completion": null,
-        "gap": 0
+        "gap": 215.09
       },
       {
         "month": "4月",
@@ -13268,10 +13641,10 @@
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "monthlyPlan": 1856.6378114799998,
-        "monthlyActual": 1540.1608,
-        "completion": 0.8295429461130476,
-        "gap": -316.47701147999965
+        "monthlyPlan": 1734.45234156,
+        "monthlyActual": 1088.68,
+        "completion": 0.6276793970717122,
+        "gap": -645.7723415599999
       },
       {
         "month": "4月",
@@ -13281,16 +13654,16 @@
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "monthlyPlan": 0,
-        "monthlyActual": -2262.6825999999996,
-        "completion": null,
-        "gap": -2262.6825999999996
+        "monthlyPlan": 303.69340416,
+        "monthlyActual": -3586.61,
+        "completion": -11.809970025264045,
+        "gap": -3890.3034041599994
       }
     ],
     "sourceMeta": {
       "source": "feishu",
-      "updatedAt": "2026-04-23T15:00:28+08:00"
+      "updatedAt": "2026-04-24T15:23:52+08:00"
     }
   },
-  "publishedAt": "2026-04-23T07:01:41.032Z"
+  "publishedAt": "2026-04-24T07:24:55.298Z"
 }
