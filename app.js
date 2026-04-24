@@ -1,5 +1,5 @@
 const REQUIRED_SHEETS = {
-  profit: "领星 ERP ASIN 维度利润统计报表",
+  profit: "领星每日销售数据（手动）",
   plan: "Q2销售预期",
 };
 
@@ -385,8 +385,12 @@ function normalizeProfitRows(rows) {
       country: normalizeText(row["国家"] ?? row.country),
       asin: normalizeText(row["asin"] ?? row["ASIN"] ?? row.asin),
       product: normalizeText(row["品名"] ?? row.product),
+      month: normalizeText(row["月份"] ?? row.month),
+      weekNo: normalizeInteger(row["周序号"] ?? row.weekNo),
       grossProfitRmb: normalizeNumber(
-        row["毛利润（RMB）"] ??
+        row["订单毛利润"] ??
+          row["今日毛利RMB"] ??
+          row["毛利润（RMB）"] ??
           row["毛利润RMB"] ??
           row["grossProfitRmb"] ??
           row["gross_profit_rmb"]
@@ -1488,6 +1492,21 @@ function validateDashboardModel(model) {
     round(model.overallWeeklySummary?.completion || 0)
   ) {
     issues.push("顶部当前周完成率 与 Q2周毛利进度汇总完成率 不一致");
+  }
+
+  const spotChecks = [
+    ["美国", "2026-04-22", 2003.42],
+    ["美国", "2026-04-21", -453.49],
+  ];
+  if (model.effectiveDate === "2026-04-22" && model.compareDate === "2026-04-21") {
+    const byCountry = new Map(model.countrySummary.map((row) => [row.country, row]));
+    for (const [country, date, expected] of spotChecks) {
+      const target = byCountry.get(country);
+      const actual = date === model.effectiveDate ? target?.latest : target?.previous;
+      if (round(actual || 0) !== round(expected)) {
+        issues.push(`对账失败：${country} ${date} 预期 ${expected}，实际 ${actual}`);
+      }
+    }
   }
 
   if (issues.length) {
