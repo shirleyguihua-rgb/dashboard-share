@@ -39,6 +39,15 @@
           </div>
           <p class="hint">可在历史日期之间切换查看，不影响源数据。</p>
         </section>
+
+        <section class="panel-card">
+          <div class="section-head">
+            <h2>查看说明</h2>
+          </div>
+          <div id="readonlyInfoPanel" class="highlight-stack empty-state">
+            加载后会在这里展示数据更新时间和筛选说明
+          </div>
+        </section>
       </aside>
 
       <main class="dashboard-main">
@@ -135,7 +144,6 @@
             <select id="warningMarketFilter"><option value="">全部市场等级</option></select>
             <select id="warningCountryFilter"><option value="">全部国家</option></select>
             <select id="warningAsinFilter"><option value="">全部 ASIN</option></select>
-            <select id="warningProductFilter"><option value="">全部品名</option></select>
             <select id="warningOwnerFilter"><option value="">全部负责人</option></select>
           </div>
           <div class="table-wrap">
@@ -156,11 +164,10 @@
                   <th>问题类型</th>
                   <th>AI建议</th>
                   <th>动作优先级</th>
-                  <th>建议跟进人</th>
                 </tr>
               </thead>
               <tbody id="warningTableBody">
-                <tr><td colspan="15" class="table-placeholder">等待数据加载</td></tr>
+                <tr><td colspan="14" class="table-placeholder">等待数据加载</td></tr>
               </tbody>
             </table>
           </div>
