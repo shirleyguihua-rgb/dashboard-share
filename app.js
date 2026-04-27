@@ -448,10 +448,11 @@ function normalizeWeeklyTrackRows(rows) {
       owner: normalizeText(row["负责人"] ?? row.owner ?? row["文本 5"]),
       weeklyPlan: normalizeNumber(row["周毛利预期RMB"] ?? row.weeklyPlan),
       weeklyActual: normalizeNumber(row["周毛利实际RMB"] ?? row.weeklyActual),
-      completion:
-        row["完成率"] === null || row["完成率"] === undefined
-          ? null
-          : normalizeNumber(row["完成率"]),
+      completion: normalizeCompletion(
+        row["完成率"],
+        row["周毛利预期RMB"] ?? row.weeklyPlan,
+        row["周毛利实际RMB"] ?? row.weeklyActual
+      ),
       gap: normalizeNumber(row["差异"] ?? row.gap),
       weekNo: normalizeInteger(row["周序号"] ?? row.weekNo),
     }))
@@ -470,10 +471,11 @@ function normalizeMonthlyTrackRows(rows) {
       owner: normalizeText(row["负责人"] ?? row.owner ?? row["文本 5"]),
       monthlyPlan: normalizeNumber(row["月毛利预期RMB"] ?? row.monthlyPlan),
       monthlyActual: normalizeNumber(row["月毛利实际RMB"] ?? row.monthlyActual),
-      completion:
-        row["完成率"] === null || row["完成率"] === undefined
-          ? null
-          : normalizeNumber(row["完成率"]),
+      completion: normalizeCompletion(
+        row["完成率"],
+        row["月毛利预期RMB"] ?? row.monthlyPlan,
+        row["月毛利实际RMB"] ?? row.monthlyActual
+      ),
       gap: normalizeNumber(row["差异"] ?? row.gap),
     }))
     .filter((row) => row.country && row.asin);
@@ -482,9 +484,29 @@ function normalizeMonthlyTrackRows(rows) {
 function normalizeNumber(value) {
   if (value === null || value === undefined || value === "") return 0;
   if (typeof value === "number") return Number.isFinite(value) ? value : 0;
+  if (typeof value === "object") {
+    if (value.text !== undefined) value = value.text;
+    else if (value.value !== undefined) value = value.value;
+    else if (value.name !== undefined) value = value.name;
+  }
   const cleaned = String(value).replace(/,/g, "").trim();
+  if (cleaned.endsWith("%")) {
+    const parsedPct = Number(cleaned.replace("%", ""));
+    return Number.isFinite(parsedPct) ? parsedPct / 100 : 0;
+  }
   const parsed = Number(cleaned);
   return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function normalizeCompletion(value, planValue, actualValue) {
+  if (value !== null && value !== undefined && value !== "") {
+    const direct = normalizeNumber(value);
+    if (Number.isFinite(direct)) return direct;
+  }
+  const plan = normalizeNumber(planValue);
+  const actual = normalizeNumber(actualValue);
+  if (!plan) return null;
+  return actual / plan;
 }
 
 function normalizeInteger(value) {
