@@ -9,7 +9,7 @@
   <body>
     <script>
       window.__READONLY__ = true;
-      window.__SHARE_DATA_URL__ = "./dashboard-data.json";
+      window.__SHARE_VERSION__ = "202604291320000800";\n      window.__SHARE_DATA_URL__ = "./dashboard-data.json?v=202604291320000800";
     </script>
     <div class="app-shell">
       <aside class="control-panel">
@@ -160,6 +160,8 @@
                   <th data-sort-table="warning" data-sort-key="latest" class="sortable">今日毛利RMB</th>
                   <th data-sort-table="warning" data-sort-key="diff" class="sortable">环比变化</th>
                   <th data-sort-table="warning" data-sort-key="vsPlan" class="sortable">vs预期</th>
+                  <th data-sort-table="warning" data-sort-key="adSpend" class="sortable">广告花费</th>
+                  <th data-sort-table="warning" data-sort-key="adVsPlan" class="sortable">广告vs预期</th>
                   <th data-sort-table="warning" data-sort-key="weeklyCompletion" class="sortable">本周完成率</th>
                   <th>问题类型</th>
                   <th>AI建议</th>
@@ -167,7 +169,7 @@
                 </tr>
               </thead>
               <tbody id="warningTableBody">
-                <tr><td colspan="14" class="table-placeholder">等待数据加载</td></tr>
+                <tr><td colspan="16" class="table-placeholder">等待数据加载</td></tr>
               </tbody>
             </table>
           </div>
@@ -186,7 +188,7 @@
             <select id="detailOwnerFilter"><option value="">全部负责人</option></select>
           </div>
           <div class="table-wrap tall">
-            <table>
+            <table class="detail-table">
               <thead>
                 <tr>
                   <th>国家</th><th>ASIN</th><th>品名</th><th>市场等级</th><th>链接分级</th><th>负责人</th>
@@ -196,10 +198,12 @@
                   <th data-sort-table="detail" data-sort-key="diffPct" class="sortable">环比%</th>
                   <th data-sort-table="detail" data-sort-key="dailyPlan" class="sortable">单日预期RMB</th>
                   <th data-sort-table="detail" data-sort-key="vsPlan" class="sortable">vs预期</th>
+                  <th data-sort-table="detail" data-sort-key="adSpend" class="sortable">广告花费</th>
+                  <th data-sort-table="detail" data-sort-key="adVsPlan" class="sortable">广告vs预期</th>
                   <th>状态</th>
                 </tr>
               </thead>
-              <tbody id="detailTableBody"><tr><td colspan="13" class="table-placeholder">等待数据加载</td></tr></tbody>
+              <tbody id="detailTableBody"><tr><td colspan="15" class="table-placeholder">等待数据加载</td></tr></tbody>
             </table>
           </div>
         </section>
@@ -217,7 +221,7 @@
             <select id="weeklyOwnerFilter"><option value="">全部负责人</option></select>
           </div>
           <div class="table-wrap tall">
-            <table>
+            <table class="weekly-table">
               <thead>
                 <tr>
                   <th>国家</th><th>ASIN</th><th>品名</th><th>市场等级</th><th>链接分级</th><th>负责人</th>
@@ -225,9 +229,12 @@
                   <th data-sort-table="weekly" data-sort-key="weeklyActual" class="sortable">周毛利实际RMB</th>
                   <th data-sort-table="weekly" data-sort-key="completion" class="sortable">完成率</th>
                   <th data-sort-table="weekly" data-sort-key="gap" class="sortable">差异</th>
+                  <th data-sort-table="weekly" data-sort-key="adSpend" class="sortable">广告花费</th>
+                  <th data-sort-table="weekly" data-sort-key="adSpendPlan" class="sortable">广告花费预期</th>
+                  <th data-sort-table="weekly" data-sort-key="adSpendProgress" class="sortable">广告花费进度</th>
                 </tr>
               </thead>
-              <tbody id="weeklyTableBody"><tr><td colspan="10" class="table-placeholder">等待数据加载</td></tr></tbody>
+              <tbody id="weeklyTableBody"><tr><td colspan="13" class="table-placeholder">等待数据加载</td></tr></tbody>
             </table>
           </div>
         </section>
@@ -245,7 +252,7 @@
             <select id="monthlyOwnerFilter"><option value="">全部负责人</option></select>
           </div>
           <div class="table-wrap tall">
-            <table>
+            <table class="monthly-table">
               <thead>
                 <tr>
                   <th>月份</th><th>国家</th><th>ASIN</th><th>品名</th><th>市场等级</th><th>链接分级</th><th>负责人</th>
@@ -253,9 +260,12 @@
                   <th data-sort-table="monthly" data-sort-key="monthlyActual" class="sortable">月毛利实际RMB</th>
                   <th data-sort-table="monthly" data-sort-key="completion" class="sortable">完成率</th>
                   <th data-sort-table="monthly" data-sort-key="gap" class="sortable">差异</th>
+                  <th data-sort-table="monthly" data-sort-key="adSpend" class="sortable">广告花费</th>
+                  <th data-sort-table="monthly" data-sort-key="adSpendPlan" class="sortable">广告花费预期</th>
+                  <th data-sort-table="monthly" data-sort-key="adSpendProgress" class="sortable">广告花费进度</th>
                 </tr>
               </thead>
-              <tbody id="monthlyTableBody"><tr><td colspan="11" class="table-placeholder">等待数据加载</td></tr></tbody>
+              <tbody id="monthlyTableBody"><tr><td colspan="14" class="table-placeholder">等待数据加载</td></tr></tbody>
             </table>
           </div>
         </section>
