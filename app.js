@@ -718,13 +718,34 @@ function normalizeText(value) {
 
 function normalizeDate(value) {
   if (!value) return "";
+  if (typeof value === "object") {
+    if (value.value !== undefined && value.value !== null) {
+      return normalizeDate(value.value);
+    }
+    if (value.text !== undefined && value.text !== null) {
+      return normalizeDate(value.text);
+    }
+    if (value.name !== undefined && value.name !== null) {
+      return normalizeDate(value.name);
+    }
+  }
   if (value instanceof Date && !Number.isNaN(value.getTime())) {
     return value.toISOString().slice(0, 10);
   }
-  if (typeof value === "number" && value > 20000) {
-    const parsed = XLSX.SSF.parse_date_code(value);
-    if (!parsed) return "";
-    return `${parsed.y}-${String(parsed.m).padStart(2, "0")}-${String(parsed.d).padStart(2, "0")}`;
+  if (typeof value === "number") {
+    if (value > 1e11) {
+      const dt = new Date(value);
+      return Number.isNaN(dt.getTime()) ? "" : dt.toISOString().slice(0, 10);
+    }
+    if (value > 1e9) {
+      const dt = new Date(value * 1000);
+      return Number.isNaN(dt.getTime()) ? "" : dt.toISOString().slice(0, 10);
+    }
+    if (value > 20000) {
+      const parsed = XLSX.SSF.parse_date_code(value);
+      if (!parsed) return "";
+      return `${parsed.y}-${String(parsed.m).padStart(2, "0")}-${String(parsed.d).padStart(2, "0")}`;
+    }
   }
   const text = String(value).trim();
   if (!text) return "";
@@ -845,11 +866,22 @@ function buildDashboardModel(dataset, manualDate) {
     if (!target.product && row.product) target.product = row.product;
   });
 
+  const availableDailySummaryDates = [...new Set((dataset.dailySummaryRows || []).map((row) => row.date))]
+    .filter(Boolean)
+    .sort();
+  const dailySummaryDate =
+    [...availableDailySummaryDates].reverse().find((date) => date <= effectiveDate) ||
+    availableDailySummaryDates[availableDailySummaryDates.length - 1] ||
+    "";
   const dailySummarySource = (dataset.dailySummaryRows || []).filter(
-    (row) => row.date === effectiveDate
+    (row) => row.date === dailySummaryDate
+  );
+  const dailySummaryExactMatch = dailySummaryDate === effectiveDate;
+  const dailySummaryMap = new Map(
+    dailySummarySource.map((row) => [`${row.country}__${row.asin}`, row])
   );
   const detailRows = (
-    dailySummarySource.length
+    dailySummarySource.length && dailySummaryExactMatch
       ? dailySummarySource.map((row) => ({
           country: row.country,
           asin: row.asin,
@@ -874,6 +906,9 @@ function buildDashboardModel(dataset, manualDate) {
         }))
       : [...groupedPlanRows.values()]
           .map((row) => {
+            const summaryRef =
+              dailySummaryMap.get(`${row.country}__${row.asin}`) ||
+              dailySummaryMap.get(`${row.country}__${row.asin}__${row.product}`);
             const latest = sumProfit(
               (item) =>
                 item.date === effectiveDate &&
@@ -888,26 +923,36 @@ function buildDashboardModel(dataset, manualDate) {
             );
             const diff = round(latest - previous);
             const diffPct = calculateTrendRate(diff, previous);
-            const vsPlan = round(latest - row.dailyPlan);
+            const dailyPlan = round(summaryRef?.dailyPlan || row.dailyPlan);
+            const vsPlan = round(latest - dailyPlan);
+            const adSpend = round(
+              shoeDryerProfitRows
+                .filter(
+                  (item) =>
+                    item.date === effectiveDate &&
+                    item.country === row.country &&
+                    item.asin === row.asin
+                )
+                .reduce((sum, item) => sum + (item.adSpend || 0), 0)
+            );
+            const adSpendPlan = round(summaryRef?.adSpendPlan || 0);
+            const adVsPlan =
+              summaryRef?.adVsPlan !== undefined && summaryRef?.adVsPlan !== null
+                ? round(summaryRef.adVsPlan)
+                : round(adSpendPlan - adSpend);
             return {
               ...row,
+              marketLevel: summaryRef?.marketLevel || row.marketLevel || "",
+              listingLevel: summaryRef?.listingLevel || row.listingLevel || "",
+              owner: summaryRef?.owner || row.owner || "",
               latest,
-              adSpend: round(
-                shoeDryerProfitRows
-                  .filter(
-                    (item) =>
-                      item.date === effectiveDate &&
-                      item.country === row.country &&
-                      item.asin === row.asin
-                  )
-                  .reduce((sum, item) => sum + (item.adSpend || 0), 0)
-              ),
-              adSpendPlan: 0,
-              adVsPlan: 0,
+              adSpend,
+              adSpendPlan,
+              adVsPlan,
               previous,
               diff,
               diffPct,
-              dailyPlan: round(row.dailyPlan),
+              dailyPlan,
               vsPlan,
               status: `${diff > 0 ? "上涨" : diff < 0 ? "下跌" : "持平"} | ${
                 vsPlan >= 0 ? "超预期" : "低于预期"
