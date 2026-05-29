@@ -41,6 +41,8 @@ const refs = {
   publishShareBtn: document.getElementById("publishShareBtn"),
   saveGithubTokenBtn: document.getElementById("saveGithubTokenBtn"),
   githubToken: document.getElementById("githubToken"),
+  netlifyToken: document.getElementById("netlifyToken"),
+  netlifyPublicUrl: document.getElementById("netlifyPublicUrl"),
   shareStatus: document.getElementById("shareStatus"),
   shareLink: document.getElementById("shareLink"),
   aiStatus: document.getElementById("aiStatus"),
@@ -49,6 +51,7 @@ const refs = {
   aiHint: document.getElementById("aiHint"),
   openaiApiKey: document.getElementById("openaiApiKey"),
   saveAiConfigBtn: document.getElementById("saveAiConfigBtn"),
+  testAiBtn: document.getElementById("testAiBtn"),
   generateAiBtn: document.getElementById("generateAiBtn"),
   heroMeta: document.getElementById("heroMeta"),
   heroPill: document.getElementById("heroPill"),
@@ -307,21 +310,27 @@ if (refs.resetDateBtn) refs.resetDateBtn.addEventListener("click", () => {
 
 if (refs.saveGithubTokenBtn) {
   refs.saveGithubTokenBtn.addEventListener("click", async () => {
-    const token = refs.githubToken?.value?.trim();
-    if (!token) {
-      showToast("请先填写 GitHub token");
+    const repoUrl = refs.githubToken?.value?.trim();
+    const githubToken = refs.netlifyToken?.value?.trim();
+    const publicUrl = refs.netlifyPublicUrl?.value?.trim();
+    if (!repoUrl || !publicUrl) {
+      showToast("请先填写 GitHub 仓库地址和固定公网链接");
       return;
     }
     try {
       const result = await fetchJsonOrThrow("/api/share/configure", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ githubToken: token }),
+        body: JSON.stringify({
+          repoUrl,
+          githubToken,
+          publicUrl,
+        }),
       });
-      refs.shareStatus.textContent = "已配置";
+      refs.shareStatus.textContent = "可发布";
       refs.shareStatus.className = "badge badge-success";
       if (refs.shareLink && result.publicUrl) refs.shareLink.value = result.publicUrl;
-      showToast("GitHub 自动发布配置已保存");
+      showToast("GitHub Pages 配置已保存");
     } catch (error) {
       console.error(error);
       showToast(error.message);
@@ -406,6 +415,19 @@ if (refs.generateAiBtn) {
   });
 }
 
+if (refs.testAiBtn) {
+  refs.testAiBtn.addEventListener("click", async () => {
+    const provider = refs.aiProvider?.value || state.aiProvider || "openai";
+    try {
+      const result = await fetchJsonOrThrow(`/api/ai/test?provider=${encodeURIComponent(provider)}`);
+      showToast(result.message || "AI 连接测试成功");
+    } catch (error) {
+      console.error(error);
+      showToast(error.message);
+    }
+  });
+}
+
 if (refs.publishShareBtn) {
   refs.publishShareBtn.addEventListener("click", async () => {
     if (!state.dataset) {
@@ -426,7 +448,7 @@ if (refs.publishShareBtn) {
       refs.shareStatus.textContent = "已发布";
       refs.shareStatus.className = "badge badge-success";
       refs.shareLink.value = result.publicUrl || result.localUrl || "";
-      showToast("分享版已生成，可复制只读链接或上传 share_bundle 目录");
+      showToast(result.message || "GitHub Pages 分享包已生成");
     } catch (error) {
       console.error(error);
       refs.shareStatus.textContent = "发布失败";
@@ -842,30 +864,6 @@ function buildDashboardModel(dataset, manualDate) {
         .reduce((sum, row) => sum + (row.grossProfitRmb || 0), 0)
     );
 
-  const groupedPlanRows = new Map();
-  currentWeekRows.forEach((row) => {
-    const key = `${row.country}__${row.asin}`;
-    if (!groupedPlanRows.has(key)) {
-      groupedPlanRows.set(key, {
-        country: row.country,
-        asin: row.asin,
-        product: row.product,
-        marketLevel: row.marketLevel || "",
-        listingLevel: row.listingLevel || "",
-        owner:
-          ownerMap.get(`${row.country}__${row.asin}__${row.product}`) ||
-          ownerMap.get(`${row.country}__${row.asin}`) ||
-          "",
-        weeklyPlan: 0,
-        dailyPlan: 0,
-      });
-    }
-    const target = groupedPlanRows.get(key);
-    target.weeklyPlan += row.weeklyProfitRmb;
-    target.dailyPlan += row.dailyProfitRmb;
-    if (!target.product && row.product) target.product = row.product;
-  });
-
   const availableDailySummaryDates = [...new Set((dataset.dailySummaryRows || []).map((row) => row.date))]
     .filter(Boolean)
     .sort();
@@ -880,6 +878,70 @@ function buildDashboardModel(dataset, manualDate) {
   const dailySummaryMap = new Map(
     dailySummarySource.map((row) => [`${row.country}__${row.asin}`, row])
   );
+  const currentWeeklyTrackSource = (dataset.weeklyTrackRows || []).filter(
+    (row) => row.weekNo === currentWeekNo
+  );
+  const currentMonthLabel = `${Number(effectiveDate.slice(5, 7))}月`;
+  const currentMonthlyTrackSource = (dataset.monthlyTrackRows || []).filter(
+    (row) => row.month === currentMonthLabel
+  );
+
+  const groupedPlanRows = new Map();
+  const seedSkuRows = [
+    ...currentWeekRows,
+    ...dailySummarySource,
+    ...currentWeeklyTrackSource,
+    ...currentMonthlyTrackSource,
+  ];
+  seedSkuRows.forEach((row) => {
+    const key = `${row.country}__${row.asin}`;
+    if (!groupedPlanRows.has(key)) {
+      groupedPlanRows.set(key, {
+        country: row.country,
+        asin: row.asin,
+        product: row.product || "",
+        marketLevel: row.marketLevel || "",
+        listingLevel: row.listingLevel || "",
+        owner:
+          row.owner ||
+          ownerMap.get(`${row.country}__${row.asin}__${row.product || ""}`) ||
+          ownerMap.get(`${row.country}__${row.asin}`) ||
+          "",
+        weeklyPlan: 0,
+        dailyPlan: 0,
+      });
+    }
+    const target = groupedPlanRows.get(key);
+    target.weeklyPlan += row.weeklyProfitRmb || row.weeklyPlan || 0;
+    target.dailyPlan += row.dailyProfitRmb || row.dailyPlan || 0;
+    if (!target.product && row.product) target.product = row.product;
+    if (!target.marketLevel && row.marketLevel) target.marketLevel = row.marketLevel;
+    if (!target.listingLevel && row.listingLevel) target.listingLevel = row.listingLevel;
+    if (!target.owner && row.owner) target.owner = row.owner;
+  });
+  shoeDryerProfitRows
+    .filter((row) => row.date === effectiveDate || row.date === compareDate)
+    .forEach((row) => {
+      const key = `${row.country}__${row.asin}`;
+      if (!groupedPlanRows.has(key)) {
+        groupedPlanRows.set(key, {
+          country: row.country,
+          asin: row.asin,
+          product: row.product || "",
+          marketLevel: "",
+          listingLevel: "",
+          owner:
+            ownerMap.get(`${row.country}__${row.asin}__${row.product || ""}`) ||
+            ownerMap.get(`${row.country}__${row.asin}`) ||
+            "",
+          weeklyPlan: 0,
+          dailyPlan: 0,
+        });
+      } else {
+        const target = groupedPlanRows.get(key);
+        if (!target.product && row.product) target.product = row.product;
+      }
+    });
   const detailRows = (
     dailySummarySource.length && dailySummaryExactMatch
       ? dailySummarySource.map((row) => ({
@@ -962,9 +1024,7 @@ function buildDashboardModel(dataset, manualDate) {
     )
     .sort((a, b) => a.country.localeCompare(b.country) || b.latest - a.latest);
 
-  const weeklyTrackSource = (dataset.weeklyTrackRows || []).filter(
-    (row) => row.weekNo === currentWeekNo
-  );
+  const weeklyTrackSource = currentWeeklyTrackSource;
   const weeklyRows = (
     weeklyTrackSource.length
       ? weeklyTrackSource.map((row) => ({
@@ -982,7 +1042,10 @@ function buildDashboardModel(dataset, manualDate) {
           weeklyActual: round(row.weeklyActual),
           adSpend: round(row.adSpend || 0),
           adSpendPlan: round(row.adSpendPlan || 0),
-          adSpendProgress: row.adSpendProgress,
+          adSpendProgress:
+            row.adSpendProgress === null || row.adSpendProgress === undefined
+              ? (round(row.adSpendPlan || 0) === 0 ? null : round(row.adSpend || 0) / round(row.adSpendPlan || 0))
+              : row.adSpendProgress,
           completion: row.completion,
           gap: round(row.gap),
         }))
@@ -1081,14 +1144,16 @@ function buildDashboardModel(dataset, manualDate) {
     monthlyActual: round(row.monthlyActual),
     adSpend: round(row.adSpend || 0),
     adSpendPlan: round(row.adSpendPlan || 0),
-    adSpendProgress: row.adSpendProgress,
+    adSpendProgress:
+      row.adSpendProgress === null || row.adSpendProgress === undefined
+        ? (round(row.adSpendPlan || 0) === 0 ? null : round(row.adSpend || 0) / round(row.adSpendPlan || 0))
+        : row.adSpendProgress,
     completion: row.completion,
     gap: round(row.gap),
   }));
   const filteredMonthlyRows = applyTableFilters(monthlyRows, state.monthlyFilters);
   const sortedMonthlyRows = sortRows(filteredMonthlyRows, state.monthlySort);
   const monthlySummary = buildMonthlySummary(sortedMonthlyRows);
-  const currentMonthLabel = `${Number(effectiveDate.slice(5, 7))}月`;
   const currentMonthRows = monthlyRows.filter((row) => row.month === currentMonthLabel);
   const currentMonthSummary = buildMonthlySummary(
     currentMonthRows.length ? currentMonthRows : monthlyRows
