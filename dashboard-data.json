@@ -2,6 +2,1386 @@
   "dataset": {
     "profitRows": [
       {
+        "date": "2026-06-07",
+        "country": "英国",
+        "asin": "B0FLJ5Z4KG",
+        "product": "烘鞋器-零Pro（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "加拿大",
+        "asin": "B0FLJ5Z4KG",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 103.88,
+        "grossProfitRmb": -30.06
+      },
+      {
+        "date": "2026-06-07",
+        "country": "加拿大",
+        "asin": "B0FLJLK9RW",
+        "product": "烘鞋器-朗（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 139,
+        "grossProfitRmb": 232.41
+      },
+      {
+        "date": "2026-06-07",
+        "country": "加拿大",
+        "asin": "B0FLJSSH3V",
+        "product": "烘鞋器-零（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 23.54,
+        "grossProfitRmb": -23.54
+      },
+      {
+        "date": "2026-06-07",
+        "country": "英国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 206.78,
+        "grossProfitRmb": 236.66
+      },
+      {
+        "date": "2026-06-07",
+        "country": "意大利",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 95.07,
+        "grossProfitRmb": -19.81
+      },
+      {
+        "date": "2026-06-07",
+        "country": "德国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 102.43,
+        "grossProfitRmb": 76.58
+      },
+      {
+        "date": "2026-06-07",
+        "country": "法国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 9.42,
+        "grossProfitRmb": 97.74
+      },
+      {
+        "date": "2026-06-07",
+        "country": "西班牙",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 8.79,
+        "grossProfitRmb": 207.22
+      },
+      {
+        "date": "2026-06-07",
+        "country": "美国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 749.39,
+        "grossProfitRmb": 336.62
+      },
+      {
+        "date": "2026-06-07",
+        "country": "加拿大",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 100.14,
+        "grossProfitRmb": 78.25
+      },
+      {
+        "date": "2026-06-07",
+        "country": "荷兰",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "波兰",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "瑞典",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "比利时",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "英国",
+        "asin": "B0FLPL1MCB",
+        "product": "烘鞋器-零（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0FLPL1MCB",
+        "product": "烘鞋器-零（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 49.47,
+        "grossProfitRmb": 163.52
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0FLQ6KMLP",
+        "product": "烘鞋器-零Pro（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "英国",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 273.12,
+        "grossProfitRmb": -104.37
+      },
+      {
+        "date": "2026-06-07",
+        "country": "荷兰",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "英国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 144.77,
+        "grossProfitRmb": -16.64
+      },
+      {
+        "date": "2026-06-07",
+        "country": "德国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 509.47,
+        "grossProfitRmb": 1153.08
+      },
+      {
+        "date": "2026-06-07",
+        "country": "法国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 50.66,
+        "grossProfitRmb": 25.62
+      },
+      {
+        "date": "2026-06-07",
+        "country": "美国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 1200.24,
+        "grossProfitRmb": -952.68
+      },
+      {
+        "date": "2026-06-07",
+        "country": "加拿大",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 80.92
+      },
+      {
+        "date": "2026-06-07",
+        "country": "荷兰",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "瑞典",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "比利时",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0FM3R4VK4",
+        "product": "烘鞋器-Ultra（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0FM3R4VK4",
+        "product": "烘鞋器-Ultra（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 569.77,
+        "grossProfitRmb": 247.5
+      },
+      {
+        "date": "2026-06-07",
+        "country": "美国",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "加拿大",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 647.94,
+        "grossProfitRmb": 137.3
+      },
+      {
+        "date": "2026-06-07",
+        "country": "日本",
+        "asin": "B0GCJ64FFJ",
+        "product": "烘鞋器-朗（日规）-白",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 72.98,
+        "grossProfitRmb": 14.46
+      },
+      {
+        "date": "2026-06-07",
+        "country": "德国",
+        "asin": "B0GJSJ4RKN",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "英国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra-（英规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 100.47,
+        "grossProfitRmb": 110.29
+      },
+      {
+        "date": "2026-06-07",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "德国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "法国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "美国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 11.18,
+        "grossProfitRmb": -69.12
+      },
+      {
+        "date": "2026-06-07",
+        "country": "加拿大",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 103.92
+      },
+      {
+        "date": "2026-06-07",
+        "country": "荷兰",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-07",
+        "country": "美国",
+        "asin": "B0GK19MDQQ",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 149.12
+      },
+      {
+        "date": "2026-06-06",
+        "country": "英国",
+        "asin": "B0FLJ5Z4KG",
+        "product": "烘鞋器-零Pro（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "加拿大",
+        "asin": "B0FLJ5Z4KG",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 58.52,
+        "grossProfitRmb": 209.31
+      },
+      {
+        "date": "2026-06-06",
+        "country": "加拿大",
+        "asin": "B0FLJLK9RW",
+        "product": "烘鞋器-朗（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 194.02,
+        "grossProfitRmb": 14.79
+      },
+      {
+        "date": "2026-06-06",
+        "country": "加拿大",
+        "asin": "B0FLJSSH3V",
+        "product": "烘鞋器-零（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 13.4,
+        "grossProfitRmb": -23.4
+      },
+      {
+        "date": "2026-06-06",
+        "country": "英国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 394.57,
+        "grossProfitRmb": 9.87
+      },
+      {
+        "date": "2026-06-06",
+        "country": "意大利",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 14.17,
+        "grossProfitRmb": -14.25
+      },
+      {
+        "date": "2026-06-06",
+        "country": "德国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 56.92,
+        "grossProfitRmb": -141.3
+      },
+      {
+        "date": "2026-06-06",
+        "country": "法国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 12.82,
+        "grossProfitRmb": 94.33
+      },
+      {
+        "date": "2026-06-06",
+        "country": "西班牙",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 147.29
+      },
+      {
+        "date": "2026-06-06",
+        "country": "美国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 716.94,
+        "grossProfitRmb": -171.17
+      },
+      {
+        "date": "2026-06-06",
+        "country": "加拿大",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 151.61,
+        "grossProfitRmb": 264.35
+      },
+      {
+        "date": "2026-06-06",
+        "country": "荷兰",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "波兰",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "瑞典",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "比利时",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "英国",
+        "asin": "B0FLPL1MCB",
+        "product": "烘鞋器-零（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0FLPL1MCB",
+        "product": "烘鞋器-零（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 40.89,
+        "grossProfitRmb": -8.55
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0FLQ6KMLP",
+        "product": "烘鞋器-零Pro（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 64.06
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "英国",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 163.4,
+        "grossProfitRmb": 262.47
+      },
+      {
+        "date": "2026-06-06",
+        "country": "荷兰",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "英国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 135.91,
+        "grossProfitRmb": 199.62
+      },
+      {
+        "date": "2026-06-06",
+        "country": "德国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 364.77,
+        "grossProfitRmb": 97.98
+      },
+      {
+        "date": "2026-06-06",
+        "country": "法国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 11.72,
+        "grossProfitRmb": -27.71
+      },
+      {
+        "date": "2026-06-06",
+        "country": "美国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 1079.5,
+        "grossProfitRmb": 230.67
+      },
+      {
+        "date": "2026-06-06",
+        "country": "加拿大",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 20.15,
+        "grossProfitRmb": 160.6
+      },
+      {
+        "date": "2026-06-06",
+        "country": "荷兰",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "瑞典",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "比利时",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0FM3R4VK4",
+        "product": "烘鞋器-Ultra（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0FM3R4VK4",
+        "product": "烘鞋器-Ultra（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 408.56,
+        "grossProfitRmb": 739.89
+      },
+      {
+        "date": "2026-06-06",
+        "country": "美国",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "加拿大",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 547.76,
+        "grossProfitRmb": 219.72
+      },
+      {
+        "date": "2026-06-06",
+        "country": "日本",
+        "asin": "B0GCJ64FFJ",
+        "product": "烘鞋器-朗（日规）-白",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 37.7,
+        "grossProfitRmb": 49.74
+      },
+      {
+        "date": "2026-06-06",
+        "country": "德国",
+        "asin": "B0GJSJ4RKN",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "英国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra-（英规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 120.93,
+        "grossProfitRmb": -133.9
+      },
+      {
+        "date": "2026-06-06",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "德国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "法国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "美国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 27.78
+      },
+      {
+        "date": "2026-06-06",
+        "country": "加拿大",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "荷兰",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-06",
+        "country": "美国",
+        "asin": "B0GK19MDQQ",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 159.14
+      },
+      {
+        "date": "2026-06-05",
+        "country": "英国",
+        "asin": "B0FLJ5Z4KG",
+        "product": "烘鞋器-零Pro（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "加拿大",
+        "asin": "B0FLJ5Z4KG",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 39.06,
+        "grossProfitRmb": -54.55
+      },
+      {
+        "date": "2026-06-05",
+        "country": "加拿大",
+        "asin": "B0FLJLK9RW",
+        "product": "烘鞋器-朗（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 114.23,
+        "grossProfitRmb": -59.94
+      },
+      {
+        "date": "2026-06-05",
+        "country": "加拿大",
+        "asin": "B0FLJSSH3V",
+        "product": "烘鞋器-零（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 5.02,
+        "grossProfitRmb": -11.62
+      },
+      {
+        "date": "2026-06-05",
+        "country": "英国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 133.81,
+        "grossProfitRmb": -161.3
+      },
+      {
+        "date": "2026-06-05",
+        "country": "意大利",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 21.37,
+        "grossProfitRmb": 44.15
+      },
+      {
+        "date": "2026-06-05",
+        "country": "德国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 45.91,
+        "grossProfitRmb": 29.5
+      },
+      {
+        "date": "2026-06-05",
+        "country": "法国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": -31.98
+      },
+      {
+        "date": "2026-06-05",
+        "country": "西班牙",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 37.13,
+        "grossProfitRmb": 73.99
+      },
+      {
+        "date": "2026-06-05",
+        "country": "美国",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 559.93,
+        "grossProfitRmb": 176.48
+      },
+      {
+        "date": "2026-06-05",
+        "country": "加拿大",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 135.36,
+        "grossProfitRmb": 6.82
+      },
+      {
+        "date": "2026-06-05",
+        "country": "荷兰",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "波兰",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "瑞典",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "比利时",
+        "asin": "B0FLJSVZT9",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "英国",
+        "asin": "B0FLPL1MCB",
+        "product": "烘鞋器-零（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0FLPL1MCB",
+        "product": "烘鞋器-零（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 33.12,
+        "grossProfitRmb": 12.72
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0FLQ6KMLP",
+        "product": "烘鞋器-零Pro（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "英国",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-朗（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 147.55,
+        "grossProfitRmb": 159.51
+      },
+      {
+        "date": "2026-06-05",
+        "country": "荷兰",
+        "asin": "B0FLY637KK",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "英国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 120.56,
+        "grossProfitRmb": -120.56
+      },
+      {
+        "date": "2026-06-05",
+        "country": "德国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 549.77,
+        "grossProfitRmb": 243.46
+      },
+      {
+        "date": "2026-06-05",
+        "country": "法国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 23.99,
+        "grossProfitRmb": 68.29
+      },
+      {
+        "date": "2026-06-05",
+        "country": "美国",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 1254.23,
+        "grossProfitRmb": -206.25
+      },
+      {
+        "date": "2026-06-05",
+        "country": "加拿大",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 43,
+        "grossProfitRmb": -75.81
+      },
+      {
+        "date": "2026-06-05",
+        "country": "荷兰",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（欧规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "瑞典",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra-（英规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "比利时",
+        "asin": "B0FM3PB367",
+        "product": "烘鞋器-Ultra（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0FM3R4VK4",
+        "product": "烘鞋器-Ultra（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0FM3R4VK4",
+        "product": "烘鞋器-Ultra（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 338.34,
+        "grossProfitRmb": -56.07
+      },
+      {
+        "date": "2026-06-05",
+        "country": "美国",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "加拿大",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（美规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0G485DG39",
+        "product": "烘鞋器-零Pro（日规）",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 433.72,
+        "grossProfitRmb": 167.72
+      },
+      {
+        "date": "2026-06-05",
+        "country": "日本",
+        "asin": "B0GCJ64FFJ",
+        "product": "烘鞋器-朗（日规）-白",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 58.12,
+        "grossProfitRmb": -64.23
+      },
+      {
+        "date": "2026-06-05",
+        "country": "德国",
+        "asin": "B0GJSJ4RKN",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "英国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra-（英规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 99.1,
+        "grossProfitRmb": -99.1
+      },
+      {
+        "date": "2026-06-05",
+        "country": "意大利",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "德国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "法国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "西班牙",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "美国",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": -214.84
+      },
+      {
+        "date": "2026-06-05",
+        "country": "加拿大",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 103.92
+      },
+      {
+        "date": "2026-06-05",
+        "country": "荷兰",
+        "asin": "B0GK17WJ7C",
+        "product": "烘鞋器-Ultra（欧规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": 0
+      },
+      {
+        "date": "2026-06-05",
+        "country": "美国",
+        "asin": "B0GK19MDQQ",
+        "product": "烘鞋器-Ultra（美规）-玫红色",
+        "month": "6月",
+        "weekNo": 10,
+        "adSpend": 0,
+        "grossProfitRmb": -80.64
+      },
+      {
         "date": "2026-06-04",
         "country": "英国",
         "asin": "B0FLJ5Z4KG",
@@ -18,8 +1398,8 @@
         "product": "烘鞋器-零Pro（美规）",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 51.87,
-        "grossProfitRmb": -51.87
+        "adSpend": 60.34,
+        "grossProfitRmb": -76.84
       },
       {
         "date": "2026-06-04",
@@ -29,7 +1409,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 147.43,
-        "grossProfitRmb": 209.31
+        "grossProfitRmb": 161.63
       },
       {
         "date": "2026-06-04",
@@ -39,7 +1419,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 1.48,
-        "grossProfitRmb": -1.48
+        "grossProfitRmb": 31.92
       },
       {
         "date": "2026-06-04",
@@ -49,7 +1429,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 332.46,
-        "grossProfitRmb": 332.7
+        "grossProfitRmb": 269.5
       },
       {
         "date": "2026-06-04",
@@ -59,7 +1439,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 37.52,
-        "grossProfitRmb": 115.66
+        "grossProfitRmb": -256.47
       },
       {
         "date": "2026-06-04",
@@ -69,7 +1449,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 34.59,
-        "grossProfitRmb": 108.19
+        "grossProfitRmb": 37.81
       },
       {
         "date": "2026-06-04",
@@ -79,7 +1459,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 64.67,
-        "grossProfitRmb": -64.67
+        "grossProfitRmb": -96.65
       },
       {
         "date": "2026-06-04",
@@ -89,7 +1469,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 0,
-        "grossProfitRmb": 0
+        "grossProfitRmb": -0.32
       },
       {
         "date": "2026-06-04",
@@ -98,8 +1478,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 705.35,
-        "grossProfitRmb": -969.32
+        "adSpend": 704.12,
+        "grossProfitRmb": -1022.22
       },
       {
         "date": "2026-06-04",
@@ -108,8 +1488,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 59.35,
-        "grossProfitRmb": 156.66
+        "adSpend": 97.82,
+        "grossProfitRmb": 16.08
       },
       {
         "date": "2026-06-04",
@@ -169,7 +1549,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 33.38,
-        "grossProfitRmb": 58.03
+        "grossProfitRmb": 58.28
       },
       {
         "date": "2026-06-04",
@@ -209,7 +1589,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 172.6,
-        "grossProfitRmb": 88.03
+        "grossProfitRmb": 84.34
       },
       {
         "date": "2026-06-04",
@@ -229,7 +1609,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 201.39,
-        "grossProfitRmb": 120.43
+        "grossProfitRmb": 134.13
       },
       {
         "date": "2026-06-04",
@@ -239,7 +1619,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 540.9,
-        "grossProfitRmb": 91.18
+        "grossProfitRmb": 129.42
       },
       {
         "date": "2026-06-04",
@@ -249,7 +1629,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 28.42,
-        "grossProfitRmb": 248.41
+        "grossProfitRmb": 264.8
       },
       {
         "date": "2026-06-04",
@@ -258,8 +1638,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 1041.32,
-        "grossProfitRmb": 834.14
+        "adSpend": 1041.87,
+        "grossProfitRmb": 695.95
       },
       {
         "date": "2026-06-04",
@@ -269,7 +1649,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 0,
-        "grossProfitRmb": 0
+        "grossProfitRmb": -23.05
       },
       {
         "date": "2026-06-04",
@@ -318,8 +1698,8 @@
         "product": "烘鞋器-Ultra（日规）",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 359.59,
-        "grossProfitRmb": 534.64
+        "adSpend": 359.56,
+        "grossProfitRmb": 363.8
       },
       {
         "date": "2026-06-04",
@@ -349,7 +1729,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 660.92,
-        "grossProfitRmb": 602.98
+        "grossProfitRmb": 550.1
       },
       {
         "date": "2026-06-04",
@@ -359,7 +1739,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 88.88,
-        "grossProfitRmb": -90.97
+        "grossProfitRmb": -94.88
       },
       {
         "date": "2026-06-04",
@@ -378,8 +1758,8 @@
         "product": "烘鞋器-Ultra-（英规）-玫红色",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 133.81,
-        "grossProfitRmb": -15.82
+        "adSpend": 133.71,
+        "grossProfitRmb": -24.13
       },
       {
         "date": "2026-06-04",
@@ -389,7 +1769,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 0,
-        "grossProfitRmb": 0
+        "grossProfitRmb": -28.26
       },
       {
         "date": "2026-06-04",
@@ -428,8 +1808,8 @@
         "product": "烘鞋器-Ultra（美规）-玫红色",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 5.45,
-        "grossProfitRmb": -76.9
+        "adSpend": 7.36,
+        "grossProfitRmb": -83.99
       },
       {
         "date": "2026-06-04",
@@ -458,8 +1838,8 @@
         "product": "烘鞋器-Ultra（美规）-玫红色",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 331.68,
-        "grossProfitRmb": -450.76
+        "adSpend": 331.54,
+        "grossProfitRmb": -459.29
       },
       {
         "date": "2026-06-03",
@@ -479,7 +1859,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 84.33,
-        "grossProfitRmb": 194.24
+        "grossProfitRmb": 177.39
       },
       {
         "date": "2026-06-03",
@@ -489,7 +1869,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 131.07,
-        "grossProfitRmb": 60.89
+        "grossProfitRmb": -6.49
       },
       {
         "date": "2026-06-03",
@@ -499,7 +1879,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 22.02,
-        "grossProfitRmb": -22.02
+        "grossProfitRmb": -64.82
       },
       {
         "date": "2026-06-03",
@@ -509,7 +1889,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 244.69,
-        "grossProfitRmb": 293.42
+        "grossProfitRmb": 181.17
       },
       {
         "date": "2026-06-03",
@@ -519,7 +1899,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 47.58,
-        "grossProfitRmb": 73.52
+        "grossProfitRmb": 45.26
       },
       {
         "date": "2026-06-03",
@@ -529,7 +1909,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 223.47,
-        "grossProfitRmb": 632.3
+        "grossProfitRmb": 163.19
       },
       {
         "date": "2026-06-03",
@@ -539,7 +1919,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 14.01,
-        "grossProfitRmb": -57.23
+        "grossProfitRmb": -89.21
       },
       {
         "date": "2026-06-03",
@@ -549,7 +1929,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 0,
-        "grossProfitRmb": 0
+        "grossProfitRmb": -0.32
       },
       {
         "date": "2026-06-03",
@@ -559,7 +1939,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 513.5,
-        "grossProfitRmb": 935.74
+        "grossProfitRmb": 864.9
       },
       {
         "date": "2026-06-03",
@@ -569,7 +1949,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 156,
-        "grossProfitRmb": 329.86
+        "grossProfitRmb": 213.68
       },
       {
         "date": "2026-06-03",
@@ -629,7 +2009,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 45.41,
-        "grossProfitRmb": 103.49
+        "grossProfitRmb": 92.09
       },
       {
         "date": "2026-06-03",
@@ -669,7 +2049,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 285.88,
-        "grossProfitRmb": 164.2
+        "grossProfitRmb": 159.65
       },
       {
         "date": "2026-06-03",
@@ -699,7 +2079,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 81.46,
-        "grossProfitRmb": 213.18
+        "grossProfitRmb": -592.11
       },
       {
         "date": "2026-06-03",
@@ -709,7 +2089,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 56.28,
-        "grossProfitRmb": 35.99
+        "grossProfitRmb": 41.46
       },
       {
         "date": "2026-06-03",
@@ -719,7 +2099,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 968.44,
-        "grossProfitRmb": 19.28
+        "grossProfitRmb": -19.51
       },
       {
         "date": "2026-06-03",
@@ -729,7 +2109,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 25.91,
-        "grossProfitRmb": -25.91
+        "grossProfitRmb": -36.11
       },
       {
         "date": "2026-06-03",
@@ -779,7 +2159,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 593.42,
-        "grossProfitRmb": -56.92
+        "grossProfitRmb": -91.68
       },
       {
         "date": "2026-06-03",
@@ -809,7 +2189,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 606.65,
-        "grossProfitRmb": 1169.39
+        "grossProfitRmb": 1138.25
       },
       {
         "date": "2026-06-03",
@@ -819,7 +2199,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 162.67,
-        "grossProfitRmb": 275.28
+        "grossProfitRmb": 275.5
       },
       {
         "date": "2026-06-03",
@@ -889,7 +2269,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 7.7,
-        "grossProfitRmb": -72.33
+        "grossProfitRmb": -76.08
       },
       {
         "date": "2026-06-03",
@@ -918,8 +2298,8 @@
         "product": "烘鞋器-Ultra（美规）-玫红色",
         "month": "6月",
         "weekNo": 10,
-        "adSpend": 230.71,
-        "grossProfitRmb": -256.61
+        "adSpend": 230.43,
+        "grossProfitRmb": -260.3
       },
       {
         "date": "2026-06-02",
@@ -939,7 +2319,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 50.14,
-        "grossProfitRmb": 112.78
+        "grossProfitRmb": 91.8
       },
       {
         "date": "2026-06-02",
@@ -949,7 +2329,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 204.32,
-        "grossProfitRmb": 11.12
+        "grossProfitRmb": -40.55
       },
       {
         "date": "2026-06-02",
@@ -969,7 +2349,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 186.51,
-        "grossProfitRmb": 146.07
+        "grossProfitRmb": 97.85
       },
       {
         "date": "2026-06-02",
@@ -979,7 +2359,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 42.9,
-        "grossProfitRmb": 320.03
+        "grossProfitRmb": 269.92
       },
       {
         "date": "2026-06-02",
@@ -989,7 +2369,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 449.23,
-        "grossProfitRmb": -145.17
+        "grossProfitRmb": -162.03
       },
       {
         "date": "2026-06-02",
@@ -1009,7 +2389,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 8.55,
-        "grossProfitRmb": -8.55
+        "grossProfitRmb": -8.87
       },
       {
         "date": "2026-06-02",
@@ -1019,7 +2399,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 690.83,
-        "grossProfitRmb": -517.58
+        "grossProfitRmb": -550.57
       },
       {
         "date": "2026-06-02",
@@ -1029,7 +2409,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 107.13,
-        "grossProfitRmb": 157.98
+        "grossProfitRmb": 144.04
       },
       {
         "date": "2026-06-02",
@@ -1089,7 +2469,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 69.23,
-        "grossProfitRmb": 17.19
+        "grossProfitRmb": 7.64
       },
       {
         "date": "2026-06-02",
@@ -1149,7 +2529,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 158.83,
-        "grossProfitRmb": -28.33
+        "grossProfitRmb": -29.61
       },
       {
         "date": "2026-06-02",
@@ -1159,7 +2539,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 40.37,
-        "grossProfitRmb": 188.24
+        "grossProfitRmb": 120.72
       },
       {
         "date": "2026-06-02",
@@ -1169,7 +2549,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 13.93,
-        "grossProfitRmb": 181.54
+        "grossProfitRmb": 149.56
       },
       {
         "date": "2026-06-02",
@@ -1179,7 +2559,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 844.63,
-        "grossProfitRmb": -667.18
+        "grossProfitRmb": -727.79
       },
       {
         "date": "2026-06-02",
@@ -1239,7 +2619,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 417.33,
-        "grossProfitRmb": -66.92
+        "grossProfitRmb": -67.26
       },
       {
         "date": "2026-06-02",
@@ -1269,7 +2649,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 644.1,
-        "grossProfitRmb": 229.42
+        "grossProfitRmb": 188.06
       },
       {
         "date": "2026-06-02",
@@ -1279,7 +2659,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 78.59,
-        "grossProfitRmb": 6.76
+        "grossProfitRmb": 3.03
       },
       {
         "date": "2026-06-02",
@@ -1349,7 +2729,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 6.34,
-        "grossProfitRmb": -27.53
+        "grossProfitRmb": -32.23
       },
       {
         "date": "2026-06-02",
@@ -1379,7 +2759,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 301.2,
-        "grossProfitRmb": -155.36
+        "grossProfitRmb": -156.11
       },
       {
         "date": "2026-06-01",
@@ -1399,7 +2779,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 120.33,
-        "grossProfitRmb": 205.57
+        "grossProfitRmb": 199.76
       },
       {
         "date": "2026-06-01",
@@ -1409,7 +2789,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 182.79,
-        "grossProfitRmb": 329.15
+        "grossProfitRmb": 268.07
       },
       {
         "date": "2026-06-01",
@@ -1419,7 +2799,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 31.62,
-        "grossProfitRmb": 81.02
+        "grossProfitRmb": 76.34
       },
       {
         "date": "2026-06-01",
@@ -1429,7 +2809,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 194.18,
-        "grossProfitRmb": 27.54
+        "grossProfitRmb": -36.67
       },
       {
         "date": "2026-06-01",
@@ -1439,7 +2819,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 26.12,
-        "grossProfitRmb": -26.12
+        "grossProfitRmb": -26.6
       },
       {
         "date": "2026-06-01",
@@ -1449,7 +2829,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 266.37,
-        "grossProfitRmb": -198.21
+        "grossProfitRmb": -261.7
       },
       {
         "date": "2026-06-01",
@@ -1459,7 +2839,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 44.17,
-        "grossProfitRmb": 78.98
+        "grossProfitRmb": 62.59
       },
       {
         "date": "2026-06-01",
@@ -1469,7 +2849,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 0,
-        "grossProfitRmb": -280.94
+        "grossProfitRmb": -281.81
       },
       {
         "date": "2026-06-01",
@@ -1479,7 +2859,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 762.96,
-        "grossProfitRmb": 913.29
+        "grossProfitRmb": 886.09
       },
       {
         "date": "2026-06-01",
@@ -1489,7 +2869,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 211.71,
-        "grossProfitRmb": 271.04
+        "grossProfitRmb": 263.3
       },
       {
         "date": "2026-06-01",
@@ -1549,7 +2929,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 23.09,
-        "grossProfitRmb": 17.62
+        "grossProfitRmb": 4.5
       },
       {
         "date": "2026-06-01",
@@ -1589,7 +2969,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 84.59,
-        "grossProfitRmb": -18.24
+        "grossProfitRmb": -23.6
       },
       {
         "date": "2026-06-01",
@@ -1619,7 +2999,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 39.82,
-        "grossProfitRmb": -39.82
+        "grossProfitRmb": -61.03
       },
       {
         "date": "2026-06-01",
@@ -1629,7 +3009,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 16.94,
-        "grossProfitRmb": 276.28
+        "grossProfitRmb": 259.81
       },
       {
         "date": "2026-06-01",
@@ -1639,7 +3019,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 980.85,
-        "grossProfitRmb": 195.16
+        "grossProfitRmb": 8.55
       },
       {
         "date": "2026-06-01",
@@ -1699,7 +3079,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 436.9,
-        "grossProfitRmb": -57.46
+        "grossProfitRmb": -71.9
       },
       {
         "date": "2026-06-01",
@@ -1729,7 +3109,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 578.89,
-        "grossProfitRmb": 378.59
+        "grossProfitRmb": 345.8
       },
       {
         "date": "2026-06-01",
@@ -1739,7 +3119,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 47.17,
-        "grossProfitRmb": 156.2
+        "grossProfitRmb": 150.84
       },
       {
         "date": "2026-06-01",
@@ -1809,7 +3189,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 5.18,
-        "grossProfitRmb": 272.46
+        "grossProfitRmb": 265.24
       },
       {
         "date": "2026-06-01",
@@ -1819,7 +3199,7 @@
         "month": "6月",
         "weekNo": 10,
         "adSpend": 0,
-        "grossProfitRmb": 0
+        "grossProfitRmb": -7.73
       },
       {
         "date": "2026-06-01",
@@ -2098,8 +3478,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "month": "5月",
         "weekNo": 9,
-        "adSpend": 2336.46,
-        "grossProfitRmb": -1079.24
+        "adSpend": 2320.23,
+        "grossProfitRmb": -1052.79
       },
       {
         "date": "2026-05-31",
@@ -2509,7 +3889,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 60.62,
-        "grossProfitRmb": -101.67
+        "grossProfitRmb": -99.75
       },
       {
         "date": "2026-05-30",
@@ -2529,7 +3909,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 16.07,
-        "grossProfitRmb": 319.45
+        "grossProfitRmb": 300.63
       },
       {
         "date": "2026-05-30",
@@ -2559,7 +3939,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 2510.79,
-        "grossProfitRmb": 117.76
+        "grossProfitRmb": 148.44
       },
       {
         "date": "2026-05-30",
@@ -2809,7 +4189,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 77,
-        "grossProfitRmb": 119.06
+        "grossProfitRmb": 117.51
       },
       {
         "date": "2026-05-29",
@@ -2969,7 +4349,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 77.2,
-        "grossProfitRmb": 62.95
+        "grossProfitRmb": 64.87
       },
       {
         "date": "2026-05-29",
@@ -3269,7 +4649,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 42.74,
-        "grossProfitRmb": 148.19
+        "grossProfitRmb": 146.64
       },
       {
         "date": "2026-05-28",
@@ -3359,7 +4739,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 0,
-        "grossProfitRmb": 203.61
+        "grossProfitRmb": 208.17
       },
       {
         "date": "2026-05-28",
@@ -3429,7 +4809,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 100.29,
-        "grossProfitRmb": -31.8
+        "grossProfitRmb": -29.88
       },
       {
         "date": "2026-05-28",
@@ -3469,7 +4849,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 0,
-        "grossProfitRmb": 97.74
+        "grossProfitRmb": 94.97
       },
       {
         "date": "2026-05-28",
@@ -3599,7 +4979,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 0,
-        "grossProfitRmb": 109.58
+        "grossProfitRmb": 108.03
       },
       {
         "date": "2026-05-28",
@@ -3769,7 +5149,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 0,
-        "grossProfitRmb": 111.43
+        "grossProfitRmb": 109.61
       },
       {
         "date": "2026-05-27",
@@ -3999,7 +5379,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 406.05,
-        "grossProfitRmb": -48.22
+        "grossProfitRmb": -50.35
       },
       {
         "date": "2026-05-27",
@@ -4459,7 +5839,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 203.71,
-        "grossProfitRmb": 290.21
+        "grossProfitRmb": 292.56
       },
       {
         "date": "2026-05-26",
@@ -4699,7 +6079,7 @@
         "month": "5月",
         "weekNo": 9,
         "adSpend": 1121.63,
-        "grossProfitRmb": 1600.2
+        "grossProfitRmb": 1574.63
       },
       {
         "date": "2026-05-25",
@@ -5778,8 +7158,8 @@
         "product": "烘鞋器-Ultra（美规）",
         "month": "5月",
         "weekNo": 8,
-        "adSpend": 3570.99,
-        "grossProfitRmb": -636.38
+        "adSpend": 3556.13,
+        "grossProfitRmb": -621.51
       },
       {
         "date": "2026-05-23",
@@ -12420,1386 +13800,6 @@
         "weekNo": 6,
         "adSpend": 0,
         "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "英国",
-        "asin": "B0FLJ5Z4KG",
-        "product": "烘鞋器-零Pro（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "加拿大",
-        "asin": "B0FLJ5Z4KG",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 17.44,
-        "grossProfitRmb": 184.99
-      },
-      {
-        "date": "2026-05-08",
-        "country": "加拿大",
-        "asin": "B0FLJLK9RW",
-        "product": "烘鞋器-朗（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 94.52,
-        "grossProfitRmb": 74.68
-      },
-      {
-        "date": "2026-05-08",
-        "country": "加拿大",
-        "asin": "B0FLJSSH3V",
-        "product": "烘鞋器-零（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 5.17,
-        "grossProfitRmb": -5.17
-      },
-      {
-        "date": "2026-05-08",
-        "country": "英国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 246.15,
-        "grossProfitRmb": 295.8
-      },
-      {
-        "date": "2026-05-08",
-        "country": "意大利",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 31.9,
-        "grossProfitRmb": 237.38
-      },
-      {
-        "date": "2026-05-08",
-        "country": "德国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 77.5,
-        "grossProfitRmb": 35.52
-      },
-      {
-        "date": "2026-05-08",
-        "country": "法国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 16.7,
-        "grossProfitRmb": 86.66
-      },
-      {
-        "date": "2026-05-08",
-        "country": "西班牙",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 27.47,
-        "grossProfitRmb": -27.79
-      },
-      {
-        "date": "2026-05-08",
-        "country": "美国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 578.75,
-        "grossProfitRmb": 841.37
-      },
-      {
-        "date": "2026-05-08",
-        "country": "加拿大",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 38.67,
-        "grossProfitRmb": 134.6
-      },
-      {
-        "date": "2026-05-08",
-        "country": "荷兰",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "波兰",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "瑞典",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "比利时",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "英国",
-        "asin": "B0FLPL1MCB",
-        "product": "烘鞋器-零（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0FLPL1MCB",
-        "product": "烘鞋器-零（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 41.28,
-        "grossProfitRmb": -4.21
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0FLQ6KMLP",
-        "product": "烘鞋器-零Pro（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "英国",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 92.35,
-        "grossProfitRmb": 33.18
-      },
-      {
-        "date": "2026-05-08",
-        "country": "荷兰",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "英国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 88.14,
-        "grossProfitRmb": -88.14
-      },
-      {
-        "date": "2026-05-08",
-        "country": "德国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 251.97,
-        "grossProfitRmb": -151.66
-      },
-      {
-        "date": "2026-05-08",
-        "country": "法国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 32.14,
-        "grossProfitRmb": -49.08
-      },
-      {
-        "date": "2026-05-08",
-        "country": "美国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 271.48,
-        "grossProfitRmb": -137.77
-      },
-      {
-        "date": "2026-05-08",
-        "country": "加拿大",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 14.04,
-        "grossProfitRmb": -14.04
-      },
-      {
-        "date": "2026-05-08",
-        "country": "荷兰",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "瑞典",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "比利时",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0FM3R4VK4",
-        "product": "烘鞋器-Ultra（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0FM3R4VK4",
-        "product": "烘鞋器-Ultra（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 269.79,
-        "grossProfitRmb": -31.56
-      },
-      {
-        "date": "2026-05-08",
-        "country": "美国",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "加拿大",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 430.09,
-        "grossProfitRmb": -81.64
-      },
-      {
-        "date": "2026-05-08",
-        "country": "日本",
-        "asin": "B0GCJ64FFJ",
-        "product": "烘鞋器-朗（日规）-白",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 40.99,
-        "grossProfitRmb": -51.63
-      },
-      {
-        "date": "2026-05-08",
-        "country": "德国",
-        "asin": "B0GJSJ4RKN",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "英国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra-（英规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "意大利",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "德国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "法国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "西班牙",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "美国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 142.43
-      },
-      {
-        "date": "2026-05-08",
-        "country": "加拿大",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "荷兰",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-08",
-        "country": "美国",
-        "asin": "B0GK19MDQQ",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": -5.73
-      },
-      {
-        "date": "2026-05-07",
-        "country": "英国",
-        "asin": "B0FLJ5Z4KG",
-        "product": "烘鞋器-零Pro（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "加拿大",
-        "asin": "B0FLJ5Z4KG",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 24.78,
-        "grossProfitRmb": 159.33
-      },
-      {
-        "date": "2026-05-07",
-        "country": "加拿大",
-        "asin": "B0FLJLK9RW",
-        "product": "烘鞋器-朗（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 188.7,
-        "grossProfitRmb": -6.88
-      },
-      {
-        "date": "2026-05-07",
-        "country": "加拿大",
-        "asin": "B0FLJSSH3V",
-        "product": "烘鞋器-零（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "英国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 272.18,
-        "grossProfitRmb": 52.14
-      },
-      {
-        "date": "2026-05-07",
-        "country": "意大利",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 60.79,
-        "grossProfitRmb": 121.7
-      },
-      {
-        "date": "2026-05-07",
-        "country": "德国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 139.32,
-        "grossProfitRmb": 397.84
-      },
-      {
-        "date": "2026-05-07",
-        "country": "法国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 22.72,
-        "grossProfitRmb": -337.14
-      },
-      {
-        "date": "2026-05-07",
-        "country": "西班牙",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 20.34,
-        "grossProfitRmb": -20.66
-      },
-      {
-        "date": "2026-05-07",
-        "country": "美国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 432.85,
-        "grossProfitRmb": -542.09
-      },
-      {
-        "date": "2026-05-07",
-        "country": "加拿大",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 52.75,
-        "grossProfitRmb": 33.56
-      },
-      {
-        "date": "2026-05-07",
-        "country": "荷兰",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "波兰",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "瑞典",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "比利时",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "英国",
-        "asin": "B0FLPL1MCB",
-        "product": "烘鞋器-零（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0FLPL1MCB",
-        "product": "烘鞋器-零（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 37.11,
-        "grossProfitRmb": -92.27
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0FLQ6KMLP",
-        "product": "烘鞋器-零Pro（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "英国",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 107.7,
-        "grossProfitRmb": -45.42
-      },
-      {
-        "date": "2026-05-07",
-        "country": "荷兰",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "英国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 99.1,
-        "grossProfitRmb": -10.62
-      },
-      {
-        "date": "2026-05-07",
-        "country": "德国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 214.68,
-        "grossProfitRmb": -127.52
-      },
-      {
-        "date": "2026-05-07",
-        "country": "法国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 19.79,
-        "grossProfitRmb": 289.18
-      },
-      {
-        "date": "2026-05-07",
-        "country": "美国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 321.52,
-        "grossProfitRmb": -207.22
-      },
-      {
-        "date": "2026-05-07",
-        "country": "加拿大",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 19.16,
-        "grossProfitRmb": -19.16
-      },
-      {
-        "date": "2026-05-07",
-        "country": "荷兰",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "瑞典",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "比利时",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0FM3R4VK4",
-        "product": "烘鞋器-Ultra（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0FM3R4VK4",
-        "product": "烘鞋器-Ultra（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 349.63,
-        "grossProfitRmb": -266.26
-      },
-      {
-        "date": "2026-05-07",
-        "country": "美国",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "加拿大",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 638.62,
-        "grossProfitRmb": -40
-      },
-      {
-        "date": "2026-05-07",
-        "country": "日本",
-        "asin": "B0GCJ64FFJ",
-        "product": "烘鞋器-朗（日规）-白",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 93.77,
-        "grossProfitRmb": -46.6
-      },
-      {
-        "date": "2026-05-07",
-        "country": "德国",
-        "asin": "B0GJSJ4RKN",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "英国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra-（英规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "意大利",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": -0.16
-      },
-      {
-        "date": "2026-05-07",
-        "country": "德国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "法国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": -17.26
-      },
-      {
-        "date": "2026-05-07",
-        "country": "西班牙",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "美国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 3.27,
-        "grossProfitRmb": 70.1
-      },
-      {
-        "date": "2026-05-07",
-        "country": "加拿大",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "荷兰",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-07",
-        "country": "美国",
-        "asin": "B0GK19MDQQ",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "英国",
-        "asin": "B0FLJ5Z4KG",
-        "product": "烘鞋器-零Pro（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "加拿大",
-        "asin": "B0FLJ5Z4KG",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 40.29,
-        "grossProfitRmb": 181.6
-      },
-      {
-        "date": "2026-05-06",
-        "country": "加拿大",
-        "asin": "B0FLJLK9RW",
-        "product": "烘鞋器-朗（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 288.99,
-        "grossProfitRmb": 11.3
-      },
-      {
-        "date": "2026-05-06",
-        "country": "加拿大",
-        "asin": "B0FLJSSH3V",
-        "product": "烘鞋器-零（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 14.73,
-        "grossProfitRmb": 54.72
-      },
-      {
-        "date": "2026-05-06",
-        "country": "英国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 280.86,
-        "grossProfitRmb": -951.02
-      },
-      {
-        "date": "2026-05-06",
-        "country": "意大利",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 35.78,
-        "grossProfitRmb": 55.31
-      },
-      {
-        "date": "2026-05-06",
-        "country": "德国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 115.57,
-        "grossProfitRmb": 126.61
-      },
-      {
-        "date": "2026-05-06",
-        "country": "法国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 66.81,
-        "grossProfitRmb": -100.61
-      },
-      {
-        "date": "2026-05-06",
-        "country": "西班牙",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 23.11,
-        "grossProfitRmb": -23.43
-      },
-      {
-        "date": "2026-05-06",
-        "country": "美国",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 140.37,
-        "grossProfitRmb": 124.38
-      },
-      {
-        "date": "2026-05-06",
-        "country": "加拿大",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 61.32,
-        "grossProfitRmb": 52.35
-      },
-      {
-        "date": "2026-05-06",
-        "country": "荷兰",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "波兰",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 194.71
-      },
-      {
-        "date": "2026-05-06",
-        "country": "瑞典",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "比利时",
-        "asin": "B0FLJSVZT9",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 146.98
-      },
-      {
-        "date": "2026-05-06",
-        "country": "英国",
-        "asin": "B0FLPL1MCB",
-        "product": "烘鞋器-零（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0FLPL1MCB",
-        "product": "烘鞋器-零（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 41.1,
-        "grossProfitRmb": -5.09
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0FLQ6KMLP",
-        "product": "烘鞋器-零Pro（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "英国",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-朗（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 175.15,
-        "grossProfitRmb": -55.48
-      },
-      {
-        "date": "2026-05-06",
-        "country": "荷兰",
-        "asin": "B0FLY637KK",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "英国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 78.46,
-        "grossProfitRmb": 318.56
-      },
-      {
-        "date": "2026-05-06",
-        "country": "德国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 127.45,
-        "grossProfitRmb": 22.42
-      },
-      {
-        "date": "2026-05-06",
-        "country": "法国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 44.25,
-        "grossProfitRmb": 384.7
-      },
-      {
-        "date": "2026-05-06",
-        "country": "美国",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 216.39,
-        "grossProfitRmb": -604.88
-      },
-      {
-        "date": "2026-05-06",
-        "country": "加拿大",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 12.41,
-        "grossProfitRmb": -16.3
-      },
-      {
-        "date": "2026-05-06",
-        "country": "荷兰",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（欧规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "瑞典",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra-（英规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "比利时",
-        "asin": "B0FM3PB367",
-        "product": "烘鞋器-Ultra（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0FM3R4VK4",
-        "product": "烘鞋器-Ultra（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0FM3R4VK4",
-        "product": "烘鞋器-Ultra（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 344.15,
-        "grossProfitRmb": -74.77
-      },
-      {
-        "date": "2026-05-06",
-        "country": "美国",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "加拿大",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（美规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0G485DG39",
-        "product": "烘鞋器-零Pro（日规）",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 934.78,
-        "grossProfitRmb": -49.42
-      },
-      {
-        "date": "2026-05-06",
-        "country": "日本",
-        "asin": "B0GCJ64FFJ",
-        "product": "烘鞋器-朗（日规）-白",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 131.54,
-        "grossProfitRmb": -139.73
-      },
-      {
-        "date": "2026-05-06",
-        "country": "德国",
-        "asin": "B0GJSJ4RKN",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "英国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra-（英规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "意大利",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 112.15
-      },
-      {
-        "date": "2026-05-06",
-        "country": "德国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "法国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "西班牙",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "美国",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 1.43,
-        "grossProfitRmb": 960.21
-      },
-      {
-        "date": "2026-05-06",
-        "country": "加拿大",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 103.92
-      },
-      {
-        "date": "2026-05-06",
-        "country": "荷兰",
-        "asin": "B0GK17WJ7C",
-        "product": "烘鞋器-Ultra（欧规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 0
-      },
-      {
-        "date": "2026-05-06",
-        "country": "美国",
-        "asin": "B0GK19MDQQ",
-        "product": "烘鞋器-Ultra（美规）-玫红色",
-        "month": "5月",
-        "weekNo": 6,
-        "adSpend": 0,
-        "grossProfitRmb": 149.59
       }
     ],
     "planRows": [
@@ -18876,8 +18876,8 @@
     ],
     "dailySummaryRows": [
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "比利时",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
@@ -18897,8 +18897,8 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "波兰",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
@@ -18918,8 +18918,8 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "德国",
         "asin": "B0GJSJ4RKN",
         "product": "烘鞋器-Ultra（欧规）-玫红色",
@@ -18939,50 +18939,50 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "德国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "S/A",
         "owner": "吴蕴晴",
-        "latest": 91.18,
-        "previous": 213.18,
-        "diff": -122,
-        "diffPct": -0.5722863308002627,
+        "latest": 1153.08,
+        "previous": 97.98,
+        "diff": 1055.1,
+        "diffPct": 10.76852418860992,
         "dailyPlan": 137.45134285714283,
-        "vsPlan": -46.27134285714283,
-        "adSpend": 540.9,
+        "vsPlan": 1015.628657142857,
+        "adSpend": 509.47,
         "adSpendPlan": 274.9026857142857,
-        "adVsPlan": -265.99731428571425,
-        "status": "⚠️对比前日下跌，⚠️低于预期，⚠️广告超预算",
+        "adVsPlan": -234.5673142857143,
+        "status": "✅对比前日上涨，✅超预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "德国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "A",
         "listingLevel": "S/A",
         "owner": "吴蕴晴",
-        "latest": 108.19,
-        "previous": 632.3,
-        "diff": -524.1099999999999,
-        "diffPct": -0.8288945120986873,
+        "latest": 76.58,
+        "previous": -141.3,
+        "diff": 217.88,
+        "diffPct": -1.5419674451521583,
         "dailyPlan": 446.71399999999994,
-        "vsPlan": -338.52399999999994,
-        "adSpend": 34.59000000000001,
+        "vsPlan": -370.13399999999996,
+        "adSpend": 102.43,
         "adSpendPlan": 178.68560000000002,
-        "adVsPlan": 144.09560000000002,
+        "adVsPlan": 76.25560000000002,
         "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "德国",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（欧规）-玫红色",
@@ -19002,8 +19002,8 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "法国",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（欧规）-玫红色",
@@ -19023,50 +19023,50 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "法国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "C",
         "owner": "廖屹华",
-        "latest": 248.41,
-        "previous": 35.99,
-        "diff": 212.42,
-        "diffPct": 5.902195054181717,
+        "latest": 25.62,
+        "previous": -27.71,
+        "diff": 53.33,
+        "diffPct": -1.9245759653554673,
         "dailyPlan": 11.454278571428569,
-        "vsPlan": 236.95572142857142,
-        "adSpend": 28.42,
+        "vsPlan": 14.165721428571432,
+        "adSpend": 50.66,
         "adSpendPlan": 4.581711428571429,
-        "adVsPlan": -23.83828857142857,
-        "status": "✅对比前日上涨，✅超预期，⚠️广告超预算",
+        "adVsPlan": -46.078288571428565,
+        "status": "⚠️对比前日下跌，✅超预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "法国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "廖屹华",
-        "latest": -64.67,
-        "previous": -57.23,
-        "diff": -7.440000000000005,
-        "diffPct": 0.13000174733531375,
+        "latest": 97.74,
+        "previous": 94.33,
+        "diff": 3.4099999999999966,
+        "diffPct": 0.03614968726810131,
         "dailyPlan": 9.163422857142859,
-        "vsPlan": -73.83342285714286,
-        "adSpend": 64.67,
+        "vsPlan": 88.57657714285713,
+        "adSpend": 9.42,
         "adSpendPlan": 9.163422857142859,
-        "adVsPlan": -55.50657714285714,
-        "status": "✅对比前日上涨，⚠️低于预期，⚠️广告超预算",
+        "adVsPlan": -0.2565771428571413,
+        "status": "✅对比前日上涨，✅超预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "荷兰",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
@@ -19086,302 +19086,302 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "加拿大",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "latest": 156.66,
-        "previous": 329.86,
-        "diff": -173.20000000000002,
-        "diffPct": -0.5250712423452374,
+        "latest": 78.25,
+        "previous": 264.35,
+        "diff": -186.10000000000002,
+        "diffPct": -0.7039909211272933,
         "dailyPlan": 106.71428571428575,
-        "vsPlan": 49.945714285714246,
-        "adSpend": 59.35,
+        "vsPlan": -28.46428571428575,
+        "adSpend": 100.14,
         "adSpendPlan": 136.66542857142858,
-        "adVsPlan": 77.31542857142858,
-        "status": "⚠️对比前日下跌，✅超预期，✅广告预算内",
+        "adVsPlan": 36.52542857142858,
+        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "加拿大",
         "asin": "B0FLJ5Z4KG",
         "product": "烘鞋器-零Pro（美规）",
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "latest": -51.87,
-        "previous": 194.24,
-        "diff": -246.11,
-        "diffPct": -1.2670407742998353,
+        "latest": -30.06,
+        "previous": 209.31,
+        "diff": -239.37,
+        "diffPct": -1.1436147341264153,
         "dailyPlan": 105.38035714285715,
-        "vsPlan": -157.25035714285715,
-        "adSpend": 51.87,
+        "vsPlan": -135.44035714285715,
+        "adSpend": 103.88,
         "adSpendPlan": 105.38035714285715,
-        "adVsPlan": 53.51035714285715,
+        "adVsPlan": 1.5003571428571547,
         "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "加拿大",
         "asin": "B0FLJLK9RW",
         "product": "烘鞋器-朗（美规）",
         "marketLevel": "A",
         "listingLevel": "S",
         "owner": "刘冬冬",
-        "latest": 209.31,
-        "previous": 60.89,
-        "diff": 148.42000000000002,
-        "diffPct": 2.4375102644112334,
+        "latest": 232.41,
+        "previous": 14.79,
+        "diff": 217.62,
+        "diffPct": 14.71399594320487,
         "dailyPlan": 183.94521420000007,
-        "vsPlan": 25.364785799999936,
-        "adSpend": 147.43,
+        "vsPlan": 48.46478579999993,
+        "adSpend": 139,
         "adSpendPlan": 224.05020000000007,
-        "adVsPlan": 76.62020000000007,
+        "adVsPlan": 85.05020000000007,
         "status": "✅对比前日上涨，✅超预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "加拿大",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "廖屹华",
-        "latest": 0,
-        "previous": -25.91,
-        "diff": 25.91,
-        "diffPct": -1,
+        "latest": 80.92,
+        "previous": 160.6,
+        "diff": -79.67999999999999,
+        "diffPct": -0.49613947696139477,
         "dailyPlan": 42.70278857142858,
-        "vsPlan": -42.70278857142858,
+        "vsPlan": 38.217211428571424,
         "adSpend": 0,
         "adSpendPlan": 42.70278857142858,
         "adVsPlan": 42.70278857142858,
-        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
+        "status": "⚠️对比前日下跌，✅超预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "加拿大",
         "asin": "B0FLJSSH3V",
         "product": "烘鞋器-零（美规）",
         "marketLevel": "A",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "latest": -1.48,
-        "previous": -22.02,
-        "diff": 20.54,
-        "diffPct": -0.932788374205268,
+        "latest": -23.54,
+        "previous": -23.4,
+        "diff": -0.14000000000000057,
+        "diffPct": 0.005982905982906008,
         "dailyPlan": 6.720865714285714,
-        "vsPlan": -8.200865714285714,
-        "adSpend": 1.48,
+        "vsPlan": -30.260865714285714,
+        "adSpend": 23.54,
         "adSpendPlan": 2.6883462857142857,
-        "adVsPlan": 1.2083462857142857,
-        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
+        "adVsPlan": -20.851653714285714,
+        "status": "✅对比前日上涨，⚠️低于预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "美国",
         "asin": "B0GK19MDQQ",
         "product": "烘鞋器-Ultra（美规）-玫红色",
         "marketLevel": "S",
         "listingLevel": "B",
         "owner": "刘冬冬",
-        "latest": -450.76,
-        "previous": -256.61,
-        "diff": -194.14999999999998,
-        "diffPct": 0.7565956120182377,
+        "latest": 149.12,
+        "previous": 159.14,
+        "diff": -10.019999999999982,
+        "diffPct": -0.06296342842779931,
         "dailyPlan": 37.38324542857143,
-        "vsPlan": -488.1432454285714,
-        "adSpend": 331.68,
+        "vsPlan": 111.73675457142858,
+        "adSpend": 0,
         "adSpendPlan": 277.5983571428572,
-        "adVsPlan": -54.08164285714281,
-        "status": "✅对比前日上涨，⚠️低于预期，⚠️广告超预算",
+        "adVsPlan": 277.5983571428572,
+        "status": "⚠️对比前日下跌，✅超预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "美国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "刘冬冬",
-        "latest": 834.14,
-        "previous": 19.28,
-        "diff": 814.86,
-        "diffPct": 42.26452282157676,
+        "latest": -952.68,
+        "previous": 230.67,
+        "diff": -1183.35,
+        "diffPct": -5.1300559240473405,
         "dailyPlan": 194.39287622857137,
-        "vsPlan": 639.7471237714286,
-        "adSpend": 1041.32,
+        "vsPlan": -1147.0728762285712,
+        "adSpend": 1200.24,
         "adSpendPlan": 1443.5114571428571,
-        "adVsPlan": 402.1914571428572,
-        "status": "✅对比前日上涨，✅超预期，✅广告预算内",
+        "adVsPlan": 243.27145714285712,
+        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "美国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（美规）",
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "latest": -969.32,
-        "previous": 935.74,
-        "diff": -1905.06,
-        "diffPct": -2.0358860367196017,
+        "latest": 336.62,
+        "previous": -171.17,
+        "diff": 507.78999999999996,
+        "diffPct": -2.9665829292516213,
         "dailyPlan": 1277.6539285714287,
-        "vsPlan": -2246.9739285714286,
-        "adSpend": 705.35,
+        "vsPlan": -941.0339285714286,
+        "adSpend": 749.39,
         "adSpendPlan": 613.2738857142857,
-        "adVsPlan": -92.07611428571431,
+        "adVsPlan": -136.11611428571427,
         "status": "⚠️对比前日下跌，⚠️低于预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "美国",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（美规）-玫红色",
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "吴蕴晴",
-        "latest": -76.9,
-        "previous": -72.33,
-        "diff": -4.570000000000007,
-        "diffPct": 0.0631826351444768,
+        "latest": -69.12,
+        "previous": 27.78,
+        "diff": -96.9,
+        "diffPct": -3.488120950323974,
         "dailyPlan": 157.03049999999996,
-        "vsPlan": -233.93049999999997,
-        "adSpend": 5.45,
+        "vsPlan": -226.15049999999997,
+        "adSpend": 11.18,
         "adSpendPlan": 62.812200000000004,
-        "adVsPlan": 57.3622,
-        "status": "✅对比前日上涨，⚠️低于预期，✅广告预算内",
+        "adVsPlan": 51.632200000000005,
+        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "日本",
         "asin": "B0FM3R4VK4",
         "product": "烘鞋器-Ultra（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "刘冬冬",
-        "latest": 534.64,
-        "previous": -56.92,
-        "diff": 591.56,
-        "diffPct": -10.392832044975403,
+        "latest": 247.5,
+        "previous": 739.89,
+        "diff": -492.39,
+        "diffPct": -0.6654908162024085,
         "dailyPlan": 13.585936000000023,
-        "vsPlan": 521.0540639999999,
-        "adSpend": 359.59,
+        "vsPlan": 233.91406399999997,
+        "adSpend": 569.77,
         "adSpendPlan": 273.90999999999997,
-        "adVsPlan": -85.68,
+        "adVsPlan": -295.86,
         "status": "⚠️对比前日下跌，✅超预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "日本",
         "asin": "B0FLY637KK",
         "product": "烘鞋器-朗（日规）",
         "marketLevel": "S",
         "listingLevel": "A",
         "owner": "廖屹华",
-        "latest": 88.03,
-        "previous": 164.2,
-        "diff": -76.16999999999999,
-        "diffPct": -0.46388550548112056,
+        "latest": -104.37,
+        "previous": 262.47,
+        "diff": -366.84000000000003,
+        "diffPct": -1.3976454451937363,
         "dailyPlan": 106.12203428571425,
-        "vsPlan": -18.09203428571425,
-        "adSpend": 172.6,
+        "vsPlan": -210.49203428571425,
+        "adSpend": 273.12,
         "adSpendPlan": 265.30508571428567,
-        "adVsPlan": 92.70508571428567,
-        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
+        "adVsPlan": -7.814914285714337,
+        "status": "⚠️对比前日下跌，⚠️低于预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "日本",
         "asin": "B0G485DG39",
         "product": "烘鞋器-零Pro（日规）",
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "latest": 602.98,
-        "previous": 1169.39,
-        "diff": -566.4100000000001,
-        "diffPct": -0.4843636425828851,
+        "latest": 137.3,
+        "previous": 219.72,
+        "diff": -82.41999999999999,
+        "diffPct": -0.37511378117604216,
         "dailyPlan": 315.0971199999999,
-        "vsPlan": 287.8828800000001,
-        "adSpend": 660.92,
+        "vsPlan": -177.7971199999999,
+        "adSpend": 647.94,
         "adSpendPlan": 787.7427999999999,
-        "adVsPlan": 126.82279999999992,
-        "status": "⚠️对比前日下跌，✅超预期，✅广告预算内",
+        "adVsPlan": 139.80279999999982,
+        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "日本",
         "asin": "B0FLPL1MCB",
         "product": "烘鞋器-零（日规）",
         "marketLevel": "S",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "latest": 58.03,
-        "previous": 103.49,
-        "diff": -45.459999999999994,
-        "diffPct": -0.43926949463716297,
+        "latest": 163.52,
+        "previous": -8.55,
+        "diff": 172.07000000000002,
+        "diffPct": -20.12514619883041,
         "dailyPlan": 74.27746285714285,
-        "vsPlan": -16.24746285714285,
-        "adSpend": 33.38000000000001,
+        "vsPlan": 89.24253714285716,
+        "adSpend": 49.47,
         "adSpendPlan": 74.27746285714285,
-        "adVsPlan": 40.89746285714284,
-        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
+        "adVsPlan": 24.807462857142852,
+        "status": "⚠️对比前日下跌，✅超预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "日本",
         "asin": "B0GCJ64FFJ",
         "product": "烘鞋器-朗（日规）-白",
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "廖屹华",
-        "latest": -90.97,
-        "previous": 275.28,
-        "diff": -366.25,
-        "diffPct": -1.3304635280441732,
+        "latest": 14.46,
+        "previous": 49.74,
+        "diff": -35.28,
+        "diffPct": -0.7092882991556092,
         "dailyPlan": 106.1220342857143,
-        "vsPlan": -197.0920342857143,
-        "adSpend": 88.88,
+        "vsPlan": -91.6620342857143,
+        "adSpend": 72.98,
         "adSpendPlan": 176.87005714285712,
-        "adVsPlan": 87.99005714285713,
+        "adVsPlan": 103.89005714285712,
         "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "瑞典",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
@@ -19401,29 +19401,29 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "西班牙",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "廖屹华",
-        "latest": 0,
-        "previous": 0,
-        "diff": 0,
-        "diffPct": null,
+        "latest": 207.22,
+        "previous": 147.29,
+        "diff": 59.93000000000001,
+        "diffPct": 0.4068843777581642,
         "dailyPlan": 15.463705714285714,
-        "vsPlan": -15.463705714285714,
-        "adSpend": 0,
+        "vsPlan": 191.7562942857143,
+        "adSpend": 8.79,
         "adSpendPlan": 10.309137142857143,
-        "adVsPlan": 10.309137142857143,
-        "status": "，⚠️低于预期，✅广告预算内",
+        "adVsPlan": 1.5191371428571436,
+        "status": "✅对比前日上涨，✅超预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "西班牙",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（欧规）-玫红色",
@@ -19443,29 +19443,29 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "意大利",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra（欧规）",
         "marketLevel": "B",
         "listingLevel": "B",
         "owner": "吴蕴晴",
-        "latest": 115.66,
-        "previous": 73.52,
-        "diff": 42.14,
-        "diffPct": 0.5731773667029381,
+        "latest": -19.81,
+        "previous": -14.25,
+        "diff": -5.559999999999999,
+        "diffPct": 0.3901754385964911,
         "dailyPlan": 83.20635428571426,
-        "vsPlan": 32.45364571428574,
-        "adSpend": 37.52000000000001,
+        "vsPlan": -103.01635428571426,
+        "adSpend": 95.07,
         "adSpendPlan": 26.001985714285716,
-        "adVsPlan": -11.518014285714294,
-        "status": "✅对比前日上涨，✅超预期，⚠️广告超预算",
+        "adVsPlan": -69.06801428571427,
+        "status": "✅对比前日上涨，⚠️低于预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "意大利",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（欧规）-玫红色",
@@ -19485,87 +19485,87 @@
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "英国",
         "asin": "B0FM3PB367",
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "B",
         "owner": "刘冬冬",
-        "latest": 120.43,
-        "previous": 55.58,
-        "diff": 64.85000000000001,
-        "diffPct": 1.1667866138898886,
+        "latest": -16.64,
+        "previous": 199.62,
+        "diff": -216.26,
+        "diffPct": -1.083358380923755,
         "dailyPlan": 126.02391471428575,
-        "vsPlan": -5.593914714285745,
-        "adSpend": 201.39,
+        "vsPlan": -142.66391471428574,
+        "adSpend": 144.77,
         "adSpendPlan": 329.5604464285715,
-        "adVsPlan": 128.1704464285715,
-        "status": "✅对比前日上涨，⚠️低于预期，✅广告预算内",
+        "adVsPlan": 184.79044642857147,
+        "status": "⚠️对比前日下跌，⚠️低于预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "英国",
         "asin": "B0FLJSVZT9",
         "product": "烘鞋器-Ultra-（英规）",
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "刘冬冬",
-        "latest": 332.7,
-        "previous": 293.42,
-        "diff": 39.27999999999997,
-        "diffPct": 0.13386953854542966,
+        "latest": 236.66,
+        "previous": 9.87,
+        "diff": 226.79,
+        "diffPct": 22.977710233029384,
         "dailyPlan": 201.94856955000003,
-        "vsPlan": 130.75143044999996,
-        "adSpend": 332.46,
+        "vsPlan": 34.711430449999966,
+        "adSpend": 206.78,
         "adSpendPlan": 341.4177,
-        "adVsPlan": 8.957700000000045,
+        "adVsPlan": 134.63770000000002,
         "status": "✅对比前日上涨，✅超预期，✅广告预算内",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "英国",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra-（英规）-玫红色",
         "marketLevel": "A",
         "listingLevel": "A",
         "owner": "刘冬冬",
-        "latest": -15.82,
-        "previous": 0,
-        "diff": -15.82,
-        "diffPct": null,
+        "latest": 110.29,
+        "previous": -133.9,
+        "diff": 244.19,
+        "diffPct": -1.8236743838685585,
         "dailyPlan": 0,
-        "vsPlan": -15.82,
-        "adSpend": 133.81,
+        "vsPlan": 110.29,
+        "adSpend": 100.47,
         "adSpendPlan": 0,
-        "adVsPlan": -133.81,
-        "status": "，⚠️低于预期，⚠️广告超预算",
+        "adVsPlan": -100.47,
+        "status": "⚠️对比前日下跌，✅超预期，⚠️广告超预算",
         "weekNo": 10
       },
       {
-        "date": "2026-06-03",
-        "previousDate": "2026-06-02",
+        "date": "2026-06-06",
+        "previousDate": "2026-06-05",
         "country": "加拿大",
         "asin": "B0GK17WJ7C",
         "product": "烘鞋器-Ultra（美规）-玫红色",
         "marketLevel": "A",
         "listingLevel": "C",
         "owner": "吴蕴晴",
-        "latest": 0,
+        "latest": 103.92,
         "previous": 0,
-        "diff": 0,
+        "diff": 103.92,
         "diffPct": null,
         "dailyPlan": 0,
-        "vsPlan": 0,
+        "vsPlan": 103.92,
         "adSpend": 0,
         "adSpendPlan": 0,
         "adVsPlan": 0,
-        "status": "",
+        "status": "，✅超预期",
         "weekNo": 10
       }
     ],
@@ -19778,12 +19778,12 @@
         "listingLevel": "A",
         "owner": "吴蕴晴",
         "weeklyPlan": 737.6625,
-        "weeklyActual": 460.72,
-        "adSpend": 306.66999999999996,
+        "weeklyActual": 516.81,
+        "adSpend": 516.6,
         "adSpendPlan": 737.6625,
-        "adSpendProgress": 0.41573212681951427,
-        "completion": 0.6245674681849762,
-        "gap": -276.9425,
+        "adSpendProgress": 0.7003202684154339,
+        "completion": 0.700604951451375,
+        "gap": -220.85250000000008,
         "weekNo": 10
       },
       {
@@ -19794,12 +19794,12 @@
         "listingLevel": "S",
         "owner": "刘冬冬",
         "weeklyPlan": 1287.6164994000003,
-        "weeklyActual": 610.47,
-        "adSpend": 665.61,
+        "weeklyActual": 569.9200000000001,
+        "adSpend": 1112.86,
         "adSpendPlan": 1568.3514000000002,
-        "adSpendProgress": 0.4244010621599215,
-        "completion": 0.4741085566117435,
-        "gap": -677.1464994000003,
+        "adSpendProgress": 0.7095731224520218,
+        "completion": 0.44261626056016656,
+        "gap": -717.6964994000002,
         "weekNo": 10
       },
       {
@@ -19810,12 +19810,12 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "weeklyPlan": 47.04606,
-        "weeklyActual": -82.32000000000001,
-        "adSpend": 66.65,
+        "weeklyActual": -154.96,
+        "adSpend": 108.61,
         "adSpendPlan": 18.818424,
-        "adSpendProgress": 3.54174185893569,
-        "completion": -1.749774582611169,
-        "gap": -129.36606,
+        "adSpendProgress": 5.771471617389427,
+        "completion": -3.293793359103823,
+        "gap": -202.00606,
         "weekNo": 10
       },
       {
@@ -19826,12 +19826,12 @@
         "listingLevel": "A",
         "owner": "吴蕴晴",
         "weeklyPlan": 747.0000000000002,
-        "weeklyActual": 915.54,
-        "adSpend": 534.19,
+        "weeklyActual": 986.52,
+        "adSpend": 959.7700000000002,
         "adSpendPlan": 956.658,
-        "adSpendProgress": 0.5583918181837187,
-        "completion": 1.225622489959839,
-        "gap": 168.53999999999974,
+        "adSpendProgress": 1.0032529911420802,
+        "completion": 1.320642570281124,
+        "gap": 239.51999999999975,
         "weekNo": 10
       },
       {
@@ -19842,12 +19842,12 @@
         "listingLevel": "B",
         "owner": "廖屹华",
         "weeklyPlan": 298.91952000000003,
-        "weeklyActual": 9.59,
-        "adSpend": 71.32000000000001,
+        "weeklyActual": 142.04999999999995,
+        "adSpend": 134.47,
         "adSpendPlan": 298.91952000000003,
-        "adSpendProgress": 0.23859264861659085,
-        "completion": 0.032082213968495595,
-        "gap": -289.32952000000006,
+        "adSpendProgress": 0.44985352579182514,
+        "completion": 0.4752115218169758,
+        "gap": -156.86952000000008,
         "weekNo": 10
       },
       {
@@ -19858,12 +19858,12 @@
         "listingLevel": "S/A",
         "owner": "吴蕴晴",
         "weeklyPlan": 3126.9979999999996,
-        "weeklyActual": 397.1099999999999,
-        "adSpend": 973.6600000000002,
+        "weeklyActual": -257.95000000000005,
+        "adSpend": 1178.92,
         "adSpendPlan": 1250.7992000000002,
-        "adSpendProgress": 0.7784303028016009,
-        "completion": 0.126994005112891,
-        "gap": -2729.888,
+        "adSpendProgress": 0.9425333818569759,
+        "completion": -0.08249125838903641,
+        "gap": -3384.9479999999994,
         "weekNo": 10
       },
       {
@@ -19874,12 +19874,12 @@
         "listingLevel": "S/A",
         "owner": "吴蕴晴",
         "weeklyPlan": 962.1593999999998,
-        "weeklyActual": 452.78,
-        "adSpend": 702.55,
+        "weeklyActual": 1091.5200000000002,
+        "adSpend": 2126.5599999999995,
         "adSpendPlan": 1924.3188,
-        "adSpendProgress": 0.36509023348937814,
-        "completion": 0.47058730601187293,
-        "gap": -509.3793999999998,
+        "adSpendProgress": 1.105097554521631,
+        "completion": 1.1344482005788235,
+        "gap": 129.36060000000043,
         "weekNo": 10
       },
       {
@@ -19922,12 +19922,12 @@
         "listingLevel": "B",
         "owner": "吴蕴晴",
         "weeklyPlan": 582.4444799999998,
-        "weeklyActual": 483.09,
-        "adSpend": 154.12,
+        "weeklyActual": 42.2,
+        "adSpend": 284.73,
         "adSpendPlan": 182.0139,
-        "adSpendProgress": 0.8467485175582744,
-        "completion": 0.8294181103750871,
-        "gap": -99.3544799999998,
+        "adSpendProgress": 1.5643310758134408,
+        "completion": 0.07245325769075882,
+        "gap": -540.2444799999997,
         "weekNo": 10
       },
       {
@@ -19938,12 +19938,12 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "weeklyPlan": 310.37399999999997,
-        "weeklyActual": 0,
+        "weeklyActual": -28.26,
         "adSpend": 0,
         "adSpendPlan": 0,
         "adSpendProgress": null,
-        "completion": 0,
-        "gap": -310.37399999999997,
+        "completion": -0.09105144116453055,
+        "gap": -338.63399999999996,
         "weekNo": 10
       },
       {
@@ -19954,12 +19954,12 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "weeklyPlan": 519.94224,
-        "weeklyActual": 196.33,
-        "adSpend": 171.11,
+        "weeklyActual": 330.20000000000005,
+        "adSpend": 294.59000000000003,
         "adSpendPlan": 519.94224,
-        "adSpendProgress": 0.32909424708406076,
-        "completion": 0.3775996349132935,
-        "gap": -323.61223999999993,
+        "adSpendProgress": 0.5665821649727864,
+        "completion": 0.635070541681707,
+        "gap": -189.74223999999992,
         "weekNo": 10
       },
       {
@@ -19970,12 +19970,12 @@
         "listingLevel": "A",
         "owner": "廖屹华",
         "weeklyPlan": 742.8542399999998,
-        "weeklyActual": 162.5,
-        "adSpend": 789.88,
+        "weeklyActual": 466.51,
+        "adSpend": 1373.9499999999998,
         "adSpendPlan": 1857.1355999999996,
-        "adSpendProgress": 0.4253216620261871,
-        "completion": 0.2187508548110327,
-        "gap": -580.3542399999998,
+        "adSpendProgress": 0.7398221217664451,
+        "completion": 0.6279966847870453,
+        "gap": -276.3442399999998,
         "weekNo": 10
       },
       {
@@ -19986,12 +19986,12 @@
         "listingLevel": "S",
         "owner": "刘冬冬",
         "weeklyPlan": 95.10155200000015,
-        "weeklyActual": 353.34,
-        "adSpend": 1807.2399999999998,
+        "weeklyActual": 1064.28,
+        "adSpend": 3123.88,
         "adSpendPlan": 1917.37,
-        "adSpendProgress": 0.9425619468334228,
-        "completion": 3.7153967792239544,
-        "gap": 258.23844799999983,
+        "adSpendProgress": 1.6292525699265141,
+        "completion": 11.190984559326626,
+        "gap": 969.1784479999998,
         "weekNo": 10
       },
       {
@@ -20002,12 +20002,12 @@
         "listingLevel": "S",
         "owner": "吴蕴晴",
         "weeklyPlan": 2205.6798399999993,
-        "weeklyActual": 2380.38,
-        "adSpend": 2490.56,
+        "weeklyActual": 2746.9500000000003,
+        "adSpend": 4119.9800000000005,
         "adSpendPlan": 5514.199599999999,
-        "adSpendProgress": 0.4516630119809229,
-        "completion": 1.0792046773207125,
-        "gap": 174.70016000000078,
+        "adSpendProgress": 0.7471583001819523,
+        "completion": 1.2453983348734787,
+        "gap": 541.2701600000009,
         "weekNo": 10
       },
       {
@@ -20018,12 +20018,12 @@
         "listingLevel": "S",
         "owner": "廖屹华",
         "weeklyPlan": 742.8542400000001,
-        "weeklyActual": 347.27,
-        "adSpend": 377.31,
+        "weeklyActual": 334.46,
+        "adSpend": 546.11,
         "adSpendPlan": 1238.0903999999998,
-        "adSpendProgress": 0.304751575490772,
-        "completion": 0.46748067292447565,
-        "gap": -395.58424000000014,
+        "adSpendProgress": 0.44109056980007283,
+        "completion": 0.45023637476983364,
+        "gap": -408.39424000000014,
         "weekNo": 10
       },
       {
@@ -20050,12 +20050,12 @@
         "listingLevel": "B",
         "owner": "廖屹华",
         "weeklyPlan": 64.14396,
-        "weeklyActual": -343.65000000000003,
-        "adSpend": 132.27,
+        "weeklyActual": -263.9100000000001,
+        "adSpend": 154.51,
         "adSpendPlan": 64.14396,
-        "adSpendProgress": 2.0620803579947355,
-        "completion": -5.357480267822567,
-        "gap": -407.79396,
+        "adSpendProgress": 2.4088004544777086,
+        "completion": -4.114339058580107,
+        "gap": -328.0539600000001,
         "weekNo": 10
       },
       {
@@ -20066,12 +20066,12 @@
         "listingLevel": "C",
         "owner": "廖屹华",
         "weeklyPlan": 80.17994999999999,
-        "weeklyActual": 742.2199999999998,
-        "adSpend": 115.57,
+        "weeklyActual": 781.83,
+        "adSpend": 201.94,
         "adSpendPlan": 32.07198000000001,
-        "adSpendProgress": 3.603456973969177,
-        "completion": 9.256927698258728,
-        "gap": 662.0400499999998,
+        "adSpendProgress": 6.296461896022632,
+        "completion": 9.750941476017385,
+        "gap": 701.6500500000001,
         "weekNo": 10
       },
       {
@@ -20130,12 +20130,12 @@
         "listingLevel": "S",
         "owner": "吴蕴晴",
         "weeklyPlan": 8943.577500000001,
-        "weeklyActual": 362.12999999999977,
-        "adSpend": 2672.64,
+        "weeklyActual": 520.13,
+        "adSpend": 4697.67,
         "adSpendPlan": 4292.9172,
-        "adSpendProgress": 0.6225696596244623,
-        "completion": 0.040490508412321546,
-        "gap": -8581.447500000002,
+        "adSpendProgress": 1.0942838590038495,
+        "completion": 0.05815681700080308,
+        "gap": -8423.447500000002,
         "weekNo": 10
       },
       {
@@ -20146,12 +20146,12 @@
         "listingLevel": "A",
         "owner": "刘冬冬",
         "weeklyPlan": 1360.7501335999998,
-        "weeklyActual": 381.4,
-        "adSpend": 3835.24,
+        "weeklyActual": -971.06,
+        "adSpend": 7369.759999999998,
         "adSpendPlan": 10104.5802,
-        "adSpendProgress": 0.3795546102944484,
-        "completion": 0.2802865791318854,
-        "gap": -979.3501335999998,
+        "adSpendProgress": 0.7293484592264405,
+        "completion": -0.7136210947346844,
+        "gap": -2331.8101336,
         "weekNo": 10
       },
       {
@@ -20162,12 +20162,12 @@
         "listingLevel": "A",
         "owner": "吴蕴晴",
         "weeklyPlan": 1099.2134999999998,
-        "weeklyActual": 95.69999999999996,
-        "adSpend": 24.67,
+        "weeklyActual": -183.24,
+        "adSpend": 37.76,
         "adSpendPlan": 439.6854,
-        "adSpendProgress": 0.0561082992521471,
-        "completion": 0.08706224950839848,
-        "gap": -1003.5134999999999,
+        "adSpendProgress": 0.08587958572197302,
+        "completion": -0.16670100940354174,
+        "gap": -1282.4534999999998,
         "weekNo": 10
       },
       {
@@ -20178,12 +20178,12 @@
         "listingLevel": "B",
         "owner": "刘冬冬",
         "weeklyPlan": 261.68271799999997,
-        "weeklyActual": -958.09,
-        "adSpend": 1123,
+        "weeklyActual": -743.44,
+        "adSpend": 1122.5800000000002,
         "adSpendPlan": 1943.1885000000004,
-        "adSpendProgress": 0.5779161414345545,
-        "completion": -3.6612658540179184,
-        "gap": -1219.772718,
+        "adSpendProgress": 0.5777000018268943,
+        "completion": -2.8409977001232467,
+        "gap": -1005.1227180000001,
         "weekNo": 10
       },
       {
@@ -20194,12 +20194,12 @@
         "listingLevel": "A",
         "owner": "刘冬冬",
         "weeklyPlan": 1413.6399868500002,
-        "weeklyActual": 799.73,
-        "adSpend": 957.8399999999998,
+        "weeklyActual": 597.0799999999999,
+        "adSpend": 1693,
         "adSpendPlan": 2389.9239000000002,
-        "adSpendProgress": 0.4007826357985707,
-        "completion": 0.5657239519533048,
-        "gap": -613.9099868500002,
+        "adSpendProgress": 0.7083907567098684,
+        "completion": 0.4223706216251475,
+        "gap": -816.5599868500003,
         "weekNo": 10
       },
       {
@@ -20210,12 +20210,12 @@
         "listingLevel": "B",
         "owner": "刘冬冬",
         "weeklyPlan": 882.1674030000003,
-        "weeklyActual": 156.06,
-        "adSpend": 629.2099999999999,
+        "weeklyActual": 230.89999999999995,
+        "adSpend": 1030.4499999999998,
         "adSpendPlan": 2306.9231250000003,
-        "adSpendProgress": 0.27274857717679685,
-        "completion": 0.176905199023773,
-        "gap": -726.1074030000002,
+        "adSpendProgress": 0.44667721643303554,
+        "completion": 0.2617417048224348,
+        "gap": -651.2674030000003,
         "weekNo": 10
       },
       {
@@ -20242,12 +20242,12 @@
         "listingLevel": "B",
         "owner": "廖屹华",
         "weeklyPlan": 108.24593999999999,
-        "weeklyActual": -289.49,
-        "adSpend": 8.55,
+        "weeklyActual": 137.18,
+        "adSpend": 54.47,
         "adSpendPlan": 72.16396,
-        "adSpendProgress": 0.11848019426871807,
-        "completion": -2.6743728217427836,
-        "gap": -397.73594,
+        "adSpendProgress": 0.7548089101540436,
+        "completion": 1.267299263140955,
+        "gap": 28.934060000000017,
         "weekNo": 10
       },
       {
@@ -20274,12 +20274,12 @@
         "listingLevel": "A",
         "owner": "刘冬冬",
         "weeklyPlan": 0,
-        "weeklyActual": 93.76,
-        "adSpend": 133.81,
+        "weeklyActual": -37.25999999999999,
+        "adSpend": 454.21,
         "adSpendPlan": 0,
         "adSpendProgress": null,
         "completion": null,
-        "gap": 93.76,
+        "gap": -37.25999999999999,
         "weekNo": 10
       },
       {
@@ -20290,12 +20290,12 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "weeklyPlan": 0,
-        "weeklyActual": 0,
+        "weeklyActual": 200.11,
         "adSpend": 0,
         "adSpendPlan": 0,
         "adSpendProgress": null,
         "completion": null,
-        "gap": 0,
+        "gap": 200.11,
         "weekNo": 10
       }
     ],
@@ -20309,12 +20309,12 @@
         "listingLevel": "A",
         "owner": "吴蕴晴",
         "monthlyPlan": 2703.65445,
-        "monthlyActual": 460.72,
-        "adSpend": 306.66999999999996,
+        "monthlyActual": 516.81,
+        "adSpend": 516.6,
         "adSpendPlan": 2703.65445,
-        "adSpendProgress": 0.11342795674203113,
-        "completion": 0.17040639198548468,
-        "gap": -2242.9344499999997
+        "adSpendProgress": 0.19107471370832912,
+        "completion": 0.191152386356178,
+        "gap": -2186.84445
       },
       {
         "month": "6月",
@@ -20325,12 +20325,12 @@
         "listingLevel": "S",
         "owner": "刘冬冬",
         "monthlyPlan": 5279.013293400001,
-        "monthlyActual": 610.47,
-        "adSpend": 665.61,
+        "monthlyActual": 569.9200000000001,
+        "adSpend": 1112.86,
         "adSpendPlan": 7118.969760000001,
-        "adSpendProgress": 0.09349807941872756,
-        "completion": 0.11564092872492479,
-        "gap": -4668.543293400001
+        "adSpendProgress": 0.15632318123514544,
+        "completion": 0.10795956901880378,
+        "gap": -4709.093293400001
       },
       {
         "month": "6月",
@@ -20341,12 +20341,12 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "monthlyPlan": 235.2303,
-        "monthlyActual": -82.32000000000001,
-        "adSpend": 66.65,
+        "monthlyActual": -154.96,
+        "adSpend": 108.61,
         "adSpendPlan": 94.09212,
-        "adSpendProgress": 0.708348371787138,
-        "completion": -0.34995491652223376,
-        "gap": -317.5503
+        "adSpendProgress": 1.1542943234778853,
+        "completion": -0.6587586718207646,
+        "gap": -390.1903
       },
       {
         "month": "6月",
@@ -20357,12 +20357,12 @@
         "listingLevel": "A",
         "owner": "吴蕴晴",
         "monthlyPlan": 2255.940000000001,
-        "monthlyActual": 915.54,
-        "adSpend": 534.19,
+        "monthlyActual": 986.52,
+        "adSpend": 959.7700000000002,
         "adSpendPlan": 3377.00274,
-        "adSpendProgress": 0.1581846510435464,
-        "completion": 0.40583526157610555,
-        "gap": -1340.400000000001
+        "adSpendProgress": 0.2842076462158868,
+        "completion": 0.437298864331498,
+        "gap": -1269.420000000001
       },
       {
         "month": "6月",
@@ -20373,12 +20373,12 @@
         "listingLevel": "B",
         "owner": "廖屹华",
         "monthlyPlan": 1195.6780800000001,
-        "monthlyActual": 9.59,
-        "adSpend": 71.32000000000001,
+        "monthlyActual": 142.04999999999995,
+        "adSpend": 134.47,
         "adSpendPlan": 1195.6780800000001,
-        "adSpendProgress": 0.05964816215414771,
-        "completion": 0.008020553492123899,
-        "gap": -1186.0880800000002
+        "adSpendProgress": 0.11246338144795628,
+        "completion": 0.11880288045424395,
+        "gap": -1053.6280800000002
       },
       {
         "month": "6月",
@@ -20389,12 +20389,12 @@
         "listingLevel": "S/A",
         "owner": "吴蕴晴",
         "monthlyPlan": 8659.394499999999,
-        "monthlyActual": 397.1099999999999,
-        "adSpend": 973.6600000000002,
+        "monthlyActual": -257.95000000000005,
+        "adSpend": 1178.92,
         "adSpendPlan": 4746.637000000001,
-        "adSpendProgress": 0.20512628203926275,
-        "completion": 0.04585886461230054,
-        "gap": -8262.284499999998
+        "adSpendProgress": 0.24836952983765134,
+        "completion": -0.029788456918090532,
+        "gap": -8917.3445
       },
       {
         "month": "6月",
@@ -20405,12 +20405,12 @@
         "listingLevel": "S/A",
         "owner": "吴蕴晴",
         "monthlyPlan": 4730.6371,
-        "monthlyActual": 452.78,
-        "adSpend": 702.55,
+        "monthlyActual": 1091.5200000000002,
+        "adSpend": 2126.5599999999995,
         "adSpendPlan": 4193.42141,
-        "adSpendProgress": 0.16753622670133694,
-        "completion": 0.09571226674732669,
-        "gap": -4277.8571
+        "adSpendProgress": 0.5071181243384741,
+        "completion": 0.2307342493043908,
+        "gap": -3639.1170999999995
       },
       {
         "month": "6月",
@@ -20423,7 +20423,7 @@
         "monthlyPlan": 1358.7484,
         "monthlyActual": 0,
         "adSpend": 0,
-        "adSpendPlan": 1019.0612999999998,
+        "adSpendPlan": 1019.0613,
         "adSpendProgress": 0,
         "completion": 0,
         "gap": -1358.7484
@@ -20453,12 +20453,12 @@
         "listingLevel": "B",
         "owner": "吴蕴晴",
         "monthlyPlan": 2023.9079519999996,
-        "monthlyActual": 483.09,
-        "adSpend": 154.12,
-        "adSpendPlan": 759.95916,
-        "adSpendProgress": 0.20280037153575464,
-        "completion": 0.2386916853222582,
-        "gap": -1540.8179519999997
+        "monthlyActual": 42.2,
+        "adSpend": 284.73,
+        "adSpendPlan": 759.9591600000001,
+        "adSpendProgress": 0.37466487014907485,
+        "completion": 0.02085075062741787,
+        "gap": -1981.7079519999995
       },
       {
         "month": "6月",
@@ -20469,12 +20469,12 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "monthlyPlan": 1241.4959999999999,
-        "monthlyActual": 0,
+        "monthlyActual": -28.26,
         "adSpend": 0,
         "adSpendPlan": 0,
         "adSpendProgress": null,
-        "completion": 0,
-        "gap": -1241.4959999999999
+        "completion": -0.022762860291132638,
+        "gap": -1269.7559999999999
       },
       {
         "month": "6月",
@@ -20485,12 +20485,12 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "monthlyPlan": 1502.0553599999996,
-        "monthlyActual": 196.33,
-        "adSpend": 171.11,
-        "adSpendPlan": 1290.2270399999998,
-        "adSpendProgress": 0.1326200697204424,
-        "completion": 0.1307075659315247,
-        "gap": -1305.7253599999997
+        "monthlyActual": 330.20000000000005,
+        "adSpend": 294.59000000000003,
+        "adSpendPlan": 1290.22704,
+        "adSpendProgress": 0.2283241560338094,
+        "completion": 0.21983211058212937,
+        "gap": -1171.8553599999996
       },
       {
         "month": "6月",
@@ -20501,12 +20501,12 @@
         "listingLevel": "A",
         "owner": "廖屹华",
         "monthlyPlan": 2151.579905999999,
-        "monthlyActual": 162.5,
-        "adSpend": 789.88,
-        "adSpendPlan": 5378.949764999999,
-        "adSpendProgress": 0.146846509915305,
-        "completion": 0.07552589589949446,
-        "gap": -1989.079905999999
+        "monthlyActual": 466.51,
+        "adSpend": 1373.9499999999998,
+        "adSpendPlan": 5378.9497649999985,
+        "adSpendProgress": 0.2554309038058102,
+        "completion": 0.21682206582198868,
+        "gap": -1685.069905999999
       },
       {
         "month": "6月",
@@ -20517,12 +20517,12 @@
         "listingLevel": "S",
         "owner": "刘冬冬",
         "monthlyPlan": 2815.9138669999998,
-        "monthlyActual": 353.34,
-        "adSpend": 1807.2399999999998,
+        "monthlyActual": 1064.28,
+        "adSpend": 3123.88,
         "adSpendPlan": 8253.0975,
-        "adSpendProgress": 0.21897717796257707,
-        "completion": 0.12547969032037157,
-        "gap": -2462.5738669999996
+        "adSpendProgress": 0.3785100079091517,
+        "completion": 0.3779519013249705,
+        "gap": -1751.6338669999998
       },
       {
         "month": "6月",
@@ -20533,12 +20533,12 @@
         "listingLevel": "S",
         "owner": "吴蕴晴",
         "monthlyPlan": 10074.176739999999,
-        "monthlyActual": 2380.38,
-        "adSpend": 2490.56,
-        "adSpendPlan": 20203.8467,
-        "adSpendProgress": 0.12327157481352302,
-        "completion": 0.23628531258029134,
-        "gap": -7693.796739999999
+        "monthlyActual": 2746.9500000000003,
+        "adSpend": 4119.9800000000005,
+        "adSpendPlan": 20203.846700000002,
+        "adSpendProgress": 0.20392057320450763,
+        "completion": 0.272672404990981,
+        "gap": -7327.226739999998
       },
       {
         "month": "6月",
@@ -20549,12 +20549,12 @@
         "listingLevel": "S",
         "owner": "廖屹华",
         "monthlyPlan": 2650.7845575,
-        "monthlyActual": 347.27,
-        "adSpend": 377.31,
+        "monthlyActual": 334.46,
+        "adSpend": 546.11,
         "adSpendPlan": 4417.9742625,
-        "adSpendProgress": 0.08540339476457057,
-        "completion": 0.1310064973094291,
-        "gap": -2303.5145575
+        "adSpendProgress": 0.12361095098163216,
+        "completion": 0.12617396576183273,
+        "gap": -2316.3245575
       },
       {
         "month": "6月",
@@ -20581,12 +20581,12 @@
         "listingLevel": "B",
         "owner": "廖屹华",
         "monthlyPlan": 875.98851,
-        "monthlyActual": -343.65000000000003,
-        "adSpend": 132.27,
+        "monthlyActual": -263.9100000000001,
+        "adSpend": 154.51,
         "adSpendPlan": 605.3736600000001,
-        "adSpendProgress": 0.21849315346822323,
-        "completion": -0.3922996661223331,
-        "gap": -1219.63851
+        "adSpendProgress": 0.25523079415116934,
+        "completion": -0.3012710748911536,
+        "gap": -1139.89851
       },
       {
         "month": "6月",
@@ -20597,12 +20597,12 @@
         "listingLevel": "C",
         "owner": "廖屹华",
         "monthlyPlan": 233.16546,
-        "monthlyActual": 742.2199999999998,
-        "adSpend": 115.57,
+        "monthlyActual": 781.83,
+        "adSpend": 201.94,
         "adSpendPlan": 100.06554,
-        "adSpendProgress": 1.154943050324817,
-        "completion": 3.183233056903024,
-        "gap": 509.0545399999998
+        "adSpendProgress": 2.018077352103431,
+        "completion": 3.353112420681863,
+        "gap": 548.66454
       },
       {
         "month": "6月",
@@ -20660,13 +20660,13 @@
         "marketLevel": "S",
         "listingLevel": "S",
         "owner": "吴蕴晴",
-        "monthlyPlan": 31035.774000000005,
-        "monthlyActual": 362.12999999999977,
-        "adSpend": 2672.64,
+        "monthlyPlan": 31035.774,
+        "monthlyActual": 520.13,
+        "adSpend": 4697.67,
         "adSpendPlan": 27857.9268,
-        "adSpendProgress": 0.09593822322772418,
-        "completion": 0.01166814786059467,
-        "gap": -30673.644000000004
+        "adSpendProgress": 0.16862956219699737,
+        "completion": 0.016759047156355757,
+        "gap": -30515.644
       },
       {
         "month": "6月",
@@ -20677,12 +20677,12 @@
         "listingLevel": "A",
         "owner": "刘冬冬",
         "monthlyPlan": 9298.746732000001,
-        "monthlyActual": 381.4,
-        "adSpend": 3835.24,
+        "monthlyActual": -971.06,
+        "adSpend": 7369.759999999998,
         "adSpendPlan": 41380.5546,
-        "adSpendProgress": 0.09268217975986237,
-        "completion": 0.0410162800420705,
-        "gap": -8917.346732000002
+        "adSpendProgress": 0.1780971780402382,
+        "completion": -0.10442912663254585,
+        "gap": -10269.806732000001
       },
       {
         "month": "6月",
@@ -20693,12 +20693,12 @@
         "listingLevel": "A",
         "owner": "吴蕴晴",
         "monthlyPlan": 4121.2578,
-        "monthlyActual": 95.69999999999996,
-        "adSpend": 24.67,
+        "monthlyActual": -183.24,
+        "adSpend": 37.76,
         "adSpendPlan": 1520.3144000000004,
-        "adSpendProgress": 0.016226906750340584,
-        "completion": 0.023221066151212368,
-        "gap": -4025.5578000000005
+        "adSpendProgress": 0.02483696793242239,
+        "completion": -0.04446215424815211,
+        "gap": -4304.4978
       },
       {
         "month": "6月",
@@ -20708,13 +20708,13 @@
         "marketLevel": "S",
         "listingLevel": "B",
         "owner": "刘冬冬",
-        "monthlyPlan": 1724.4278339200002,
-        "monthlyActual": -958.09,
-        "adSpend": 1123,
+        "monthlyPlan": 1724.42783392,
+        "monthlyActual": -743.44,
+        "adSpend": 1122.5800000000002,
         "adSpendPlan": 7752.457680000001,
-        "adSpendProgress": 0.14485728866307077,
-        "completion": -0.5555987795801537,
-        "gap": -2682.51783392
+        "adSpendProgress": 0.1448031122950935,
+        "completion": -0.4311227094438618,
+        "gap": -2467.86783392
       },
       {
         "month": "6月",
@@ -20725,12 +20725,12 @@
         "listingLevel": "A",
         "owner": "刘冬冬",
         "monthlyPlan": 5193.38248975,
-        "monthlyActual": 799.73,
-        "adSpend": 957.8399999999998,
+        "monthlyActual": 597.0799999999999,
+        "adSpend": 1693,
         "adSpendPlan": 11171.715100000001,
-        "adSpendProgress": 0.08573795441668573,
-        "completion": 0.15399019840699188,
-        "gap": -4393.65248975
+        "adSpendProgress": 0.15154342774100996,
+        "completion": 0.1149693867490862,
+        "gap": -4596.30248975
       },
       {
         "month": "6月",
@@ -20741,12 +20741,12 @@
         "listingLevel": "B",
         "owner": "刘冬冬",
         "monthlyPlan": 3498.689649000001,
-        "monthlyActual": 156.06,
-        "adSpend": 629.2099999999999,
-        "adSpendPlan": 9583.855125000002,
-        "adSpendProgress": 0.06565312098246057,
-        "completion": 0.0446052710175666,
-        "gap": -3342.629649000001
+        "monthlyActual": 230.89999999999995,
+        "adSpend": 1030.4499999999998,
+        "adSpendPlan": 9583.855125,
+        "adSpendProgress": 0.10751936319571606,
+        "completion": 0.06599613660102606,
+        "gap": -3267.7896490000007
       },
       {
         "month": "6月",
@@ -20773,12 +20773,12 @@
         "listingLevel": "B",
         "owner": "廖屹华",
         "monthlyPlan": 318.48222,
-        "monthlyActual": -289.49,
-        "adSpend": 8.55,
+        "monthlyActual": 137.18,
+        "adSpend": 54.47,
         "adSpendPlan": 212.32148,
-        "adSpendProgress": 0.04026912397181859,
-        "completion": -0.9089675398519893,
-        "gap": -607.97222
+        "adSpendProgress": 0.2565449336543811,
+        "completion": 0.43073048159485955,
+        "gap": -181.30221999999998
       },
       {
         "month": "6月",
@@ -20805,12 +20805,12 @@
         "listingLevel": "A",
         "owner": "刘冬冬",
         "monthlyPlan": 0,
-        "monthlyActual": 93.76,
-        "adSpend": 133.81,
+        "monthlyActual": -37.25999999999999,
+        "adSpend": 454.21,
         "adSpendPlan": 0,
         "adSpendProgress": null,
         "completion": null,
-        "gap": 93.76
+        "gap": -37.25999999999999
       },
       {
         "month": "6月",
@@ -20821,19 +20821,155 @@
         "listingLevel": "C",
         "owner": "吴蕴晴",
         "monthlyPlan": 0,
-        "monthlyActual": 0,
+        "monthlyActual": 200.11,
         "adSpend": 0,
         "adSpendPlan": 0,
         "adSpendProgress": null,
         "completion": null,
-        "gap": 0
+        "gap": 200.11
       }
     ],
-    "aiInsights": null,
+    "aiInsights": {
+      "provider": "openai",
+      "mode": "high-quality",
+      "model": "gpt-5.4",
+      "generatedAt": "2026-06-08T16:32:40+08:00",
+      "effectiveDate": "2026-06-07",
+      "compareDate": "2026-06-06",
+      "currentWeekRange": "2026-06-01~2026-06-07",
+      "currentMonthLabel": "6月",
+      "suggestions": [
+        {
+          "key": "美国__B0FM3PB367__烘鞋器-Ultra（美规）",
+          "summary": "当日由盈转亏且广告超计划，周度达成严重失速，先止损再恢复投放效率。",
+          "advice": "1) 立即下调或暂停高花费低产出广告组，先把广告支出压回计划附近，避免亏损继续放大 2) 在不扩大折扣面的前提下测试小额优惠券或限时折扣，优先验证转化是否能被价格刺激修复 3) 核查详情页转化承接要素是否完整一致，重点检查主图、价格展示与核心卖点表达，减少高流量低成交 4) 放量节奏改为分时小步恢复，待毛利和单量回正后再逐步加预算"
+        },
+        {
+          "key": "日本__B0FLY637KK__烘鞋器-朗（日规）",
+          "summary": "连续下滑且已转负毛利，广告基本按计划执行，问题更偏转化与售价承接。",
+          "advice": "1) 广告端先不盲目扩量，保留相对稳定投放，同时缩减近期无转化或高成本流量，控制亏损继续扩大 2) 优先测试更直接的价格刺激，如短周期优惠券或小力度折扣，观察能否修复当日成交 3) 检查Listing核心信息承接，尤其标题卖点、主图表达与日规场景描述是否足够清晰，提升点击后的购买意愿 4) 若折扣测试有效，再按日小幅增加预算；若仍不改善，则继续收紧投放并重看转化页面"
+        },
+        {
+          "key": "英国__B0FM3PB367__烘鞋器-Ultra-（英规）",
+          "summary": "当日大幅低于计划且广告明显超投，周完成偏低，需同步压投放与补转化。",
+          "advice": "1) 先收缩超计划广告花费，暂停高消耗但未带来有效成交的投放，优先保留低成本基础流量 2) 结合当前低达成状态，测试短期优惠券或价格微调，验证是否因价格门槛导致转化不足 3) 由于Listing等级为B，优先完善页面承接素材与卖点呈现，减少广告导入后的流量浪费 4) 后续放量按“转化恢复—预算回补”顺序推进，避免在当前效率下直接加大投入"
+        },
+        {
+          "key": "美国__B0GK17WJ7C__烘鞋器-Ultra（美规）-紫色",
+          "summary": "当日与周度双双转弱且广告投入偏低，先判断是否流量不足，再修复转化与节奏。",
+          "advice": "1) 现阶段不宜直接判定为投放问题，先小幅补充核心广告预算并观察流量与订单变化，确认是否存在明显断流 2) 若补量后成交仍弱，立即转向价格与转化测试，可尝试小额优惠券或限时折扣提升紫色款下单意愿 3) 检查颜色款页面承接是否清晰，重点确认变体展示、主图呈现与差异化卖点是否足以支撑点击转化 4) 放量采用低幅试探式增加，单日看效率、两日看毛利，避免在负毛利状态下快速拉量"
+        },
+        {
+          "key": "意大利__B0FLJSVZT9__烘鞋器-Ultra（欧规）",
+          "summary": "连续下滑且周达成极低，广告未超投但产出不足，应优先修复转化再谈放量。",
+          "advice": "1) 目前广告投入低于计划，不建议直接补量，先清理低效流量并保留基础曝光，避免无效花费累积 2) 尽快测试更有感知的短期折扣或优惠券，验证该站点当前是否主要受价格敏感影响 3) 由于Listing等级为B，优先补强详情页承接，包括主图、核心卖点和欧规使用场景表达，提升现有流量转化 4) 只有在折扣测试与页面修复带来订单改善后，再逐步恢复预算，避免周度低达成下盲目冲量"
+        },
+        {
+          "key": "加拿大__B0FLJ5Z4KG__烘鞋器-零Pro（美规）",
+          "summary": "今日由盈转亏且显著低于目标，广告已超计划投放需立即收缩止损。",
+          "advice": "1) 先下调高花费投放力度，按近两日表现暂停无转化或高花费词，避免负毛利继续扩大 2) 若有价格与券空间，优先做小幅折扣测试，观察能否修复转化后再恢复流量 3) 重点检查主图、标题卖点与A+是否承接零Pro定位，减少点击后流失 4) 本周先以控亏和恢复单量为主，不建议继续按原计划强行放量"
+        },
+        {
+          "key": "德国__B0FLJSVZT9__烘鞋器-Ultra（欧规）",
+          "summary": "单日虽回升但距目标缺口仍大，当前广告投入偏低且整体达成明显不足。",
+          "advice": "1) 先把广告预算和出价补到基础曝光水平，优先承接已出单词和高相关核心词，避免流量断层 2) 若当前无促销，建议增加轻折扣或优惠券测试，先提升点击后的下单效率 3) 复核详情页核心卖点表达，突出Ultra版本差异与使用场景，提升高客单转化承接 4) 放量节奏上先连续观察2到3天单量与花费匹配，再决定是否继续扩量"
+        },
+        {
+          "key": "美国__B0FLJSVZT9__烘鞋器-Ultra（美规）",
+          "summary": "市场体量大但本周达成极低，广告投入未跟上计划且放量承接明显不足。",
+          "advice": "1) 先补足核心广告投放，优先恢复高相关高意图流量，减少因预算不足导致的曝光缺口 2) 对现有价格做小力度优惠测试，先验证转化弹性，再决定是否加大广告放量 3) 检查Listing首屏卖点、评价展示和场景表达，确保大流量进入后能有效承接转化 4) 本周不要一次性猛加预算，建议按日分阶段放量，结合毛利与单量同步调整"
+        },
+        {
+          "key": "加拿大__B0FLJSSH3V__烘鞋器-零（美规）",
+          "summary": "连续下滑且周度亏损扩大，当前Listing等级偏弱，不宜继续低效投放。",
+          "advice": "1) 立即压缩低效广告，仅保留少量高相关词做基础引流，先控制无效花费和负毛利 2) 优先优化主图、标题和核心卖点表达，Listing承接未改善前不建议恢复放量 3) 若具备空间，可用短期小额优惠测试价格敏感度，验证是否能带动基础转化 4) 节奏上先完成转化修复，再逐步恢复广告，否则放量只会扩大亏损"
+        },
+        {
+          "key": "日本__B0GCJ64FFJ__烘鞋器-朗（日规）-白",
+          "summary": "单日下滑且广告明显超计划，但周度仅完成四成，投入产出需重新校准。",
+          "advice": "1) 先收紧高花费低产出投放，把预算集中到已验证有效的词和位置，提升广告效率 2) 结合日本站点节奏测试轻促销或优惠券，优先修复点击后的转化缺口 3) 检查日文文案、主图与卖点是否突出白色款差异和使用场景，提升页面承接 4) 放量上先以稳住日销为主，待转化改善后再逐步回补预算，不建议继续超计划硬推"
+        },
+        {
+          "key": "日本__B0FM3R4VK4__烘鞋器-Ultra（日规）",
+          "summary": "单日销售较前一日大幅回落，但周度完成远超计划，波动更像放量失衡。",
+          "advice": "1) 先下调当天广告投放强度，重点保留高转化流量，避免在单日回落时继续超投放 2) 检查当前价格与优惠是否具备稳定承接能力，如无明显促销可小幅加券测试转化修复 3) 以周目标为准重新校准日预算和放量节奏，避免前期冲量后后续日表现大起大落"
+        },
+        {
+          "key": "日本__B0G485DG39__烘鞋器-零Pro（日规）",
+          "summary": "单日销售环比下滑且低于日计划，同时广告支出高于计划，投放效率需收紧。",
+          "advice": "1) 立即收缩低产出广告流量，把预算优先集中到已验证有成交的投放上 2) 结合当前价格承接表现，小幅增加优惠力度测试，先修复单日转化再考虑加量 3) 周度已高于计划，短期不宜继续硬推，建议按日观察恢复情况后再逐步放量"
+        },
+        {
+          "key": "加拿大__B0FLJLK9RW__烘鞋器-朗（美规）",
+          "summary": "单日表现已超日计划且较前一日明显增长，但周度完成偏低，后续需稳步补量。",
+          "advice": "1) 维持当前有效投放并小幅追加预算，优先放大已带来销售增长的广告流量 2) 在不大幅牺牲价格的前提下配置轻促销，提升近期流量承接效率 3) 未来几天按日递增观察放量，不要一次性激进拉升，避免周补量过程中出现回落"
+        },
+        {
+          "key": "英国__B0FLJSVZT9__烘鞋器-Ultra-（英规）",
+          "summary": "单日销售明显回升并超日计划，但周度累计完成不足，当前更适合边验证边补量。",
+          "advice": "1) 延续当前投放方向，小步增加广告预算，优先承接已跑出增长的流量 2) 若当前转化承接一般，可配合短期优惠测试，帮助新增流量更快转单 3) 以未来3到5天为窗口观察单量稳定性，稳定后再继续放量补周目标"
+        },
+        {
+          "key": "加拿大__B0FLJSVZT9__烘鞋器-Ultra（美规）",
+          "summary": "单日销售较前一日明显下滑且未达日计划，广告高于计划，需先修复效率再放量。",
+          "advice": "1) 先压缩超计划但未带来足够销售的广告支出，把预算回收到高成交流量 2) 针对当前价格做小力度优惠测试，优先改善单日转化承接而非继续堆投放 3) 虽然周度已高于计划，但短期应以稳住日销为主，待回升后再恢复正常放量节奏"
+        },
+        {
+          "key": "加拿大__B0FM3PB367__烘鞋器-Ultra（美规）",
+          "summary": "日销较昨日近乎腰斩，但仍高于日计划，短期更像流量波动而非需求断层。",
+          "advice": "1) 先维持当前价格体系，避免因单日波动立即大幅调价或重折扣。 2) 复盘近3至7天广告是否长期为零，若该SKU仍需放量，可先恢复小额精准投放验证流量承接。 3) 同步检查主图、标题与核心卖点展示是否完整，优先强化烘干效率、适用鞋型等转化信息。 4) 未来2至3天按日观察销量是否继续低于周节奏，再决定是否逐步加广告而非一次性放量。"
+        },
+        {
+          "key": "日本__B0FLQ6KMLP__烘鞋器-零Pro（日规）",
+          "summary": "昨日有销量今日归零，且当前无计划无投放，建议先确认经营状态再决定是否重启。",
+          "advice": "1) 先核实该SKU当前是否处于正常经营节奏，再判断是否需要继续投入资源。 2) 若仍需运营，先用小额广告或轻折扣做低风险测试，确认是否还有基础转化响应。 3) 同步检查详情页关键信息是否完整，优先补足日规适配、使用场景与核心功能表达。 4) 若后续仍无明确计划目标，建议保持观察，避免在目标未定义前盲目放量。"
+        },
+        {
+          "key": "德国__B0GJSJ4RKN__烘鞋器-Ultra（欧规）-紫色",
+          "summary": "周计划明确但实际与当日销售均为零，且广告投入不足，当前核心问题是启动量明显不够。",
+          "advice": "1) 先补齐基础引流，围绕核心词恢复小额广告投放，优先验证是否能带来有效点击与转化。 2) 在不大幅破价前提下，测试短期优惠券或小折扣，提升新一轮流量进入后的转化承接。 3) 复核Listing主图、标题、A+与颜色卖点表达，确保紫色款差异化价值被清晰传达。 4) 放量节奏上先按低预算连续观察2至3天数据，再根据转化表现决定是否追加投入。"
+        },
+        {
+          "key": "西班牙__B0GK17WJ7C__烘鞋器-Ultra（欧规）-紫色",
+          "summary": "当日与本周销售均为零，且无广告支持，低预期主要来自流量获取与转化承接同时偏弱。",
+          "advice": "1) 若该SKU本周仍承担目标，建议先开启小额基础广告，优先验证是否存在自然需求承接。 2) 配合设置轻量优惠券或限时小折扣，先解决零销量阶段的首单转化问题。 3) 检查西语端页面信息是否完整易读，突出烘干效率、使用便利性和适用场景。 4) 先小步试投3天观察点击与出单，再决定是否加预算，避免无反馈时直接放量。"
+        },
+        {
+          "key": "意大利__B0GK17WJ7C__烘鞋器-Ultra（欧规）-紫色",
+          "summary": "本周实际为负且当日仍无销售，在无广告支撑下，当前应先止跌并确认转化承接是否有效。",
+          "advice": "1) 先暂停激进放量思路，优先恢复基础广告测试，确认页面在意大利站仍具备转化能力。 2) 结合小额优惠券或轻折扣做止跌测试，但避免一次性深折扣透支后续价格空间。 3) 重点复核意语Listing的卖点表达与图片说明，确保功能、适配场景和颜色信息清晰。 4) 未来2至3天按小预算、低节奏观察是否恢复正向销量，再决定是否逐步追加投入。"
+        },
+        {
+          "key": "法国__B0GK17WJ7C__烘鞋器-Ultra（欧规）-紫色",
+          "summary": "法国站该SKU连续无出单且无广告投入，周度明显低于计划目标。",
+          "advice": "1) 先核对该SKU当前链接是否可正常购买、变体展示与配送承接是否完整，避免流量入口缺失。 2) 如链接状态正常，可用小额自动广告或精准词低预算试投，先验证是否具备基础点击。 3) 若近期价格无优势，可配合设置轻促销或优惠券做首轮转化测试，再观察3至5天数据变化。"
+        },
+        {
+          "key": "瑞典__B0FLJSVZT9__烘鞋器-Ultra（欧规）",
+          "summary": "瑞典站本期零销售且未投广告，当前计划目标尚未被有效承接。",
+          "advice": "1) 先检查详情页核心转化要素是否完整，包括主图、标题、卖点和A+是否准确传达烘鞋器用途。 2) 在确认链接可售后，采用低预算广告试投获取基础曝光，优先观察是否能产生点击与首单。 3) 若测试期仍无转化，可小幅增加折扣力度，优先验证价格敏感度而非直接放大预算。"
+        },
+        {
+          "key": "波兰__B0FLJSVZT9__烘鞋器-Ultra（欧规）",
+          "summary": "波兰站该SKU持续零动销零广告，短期主要问题在于缺少启动信号。",
+          "advice": "1) 先确认当前链接页面、配送时效与购买按钮承接正常，排除非需求因素导致的零成交。 2) 以小预算启动广告测试，不宜一次性放量，先看曝光与点击能否建立基础流量。 3) 若流量起来后仍无订单，再结合小额优惠券或限时折扣测试转化，不建议先扩大投放。"
+        },
+        {
+          "key": "比利时__B0FLJSVZT9__烘鞋器-Ultra（欧规）",
+          "summary": "比利时站销量与广告均为零，当前更像未启动而非单纯需求下滑。",
+          "advice": "1) 优先检查listing是否存在可见性或转化承接不足，特别是图片、卖点表达和本地化文案是否清晰。 2) 链接正常后用低预算广告做冷启动测试，先验证市场是否能获取基础流量。 3) 配合轻量折扣承接首批点击，测试价格弹性后再决定是否逐步增加预算。"
+        },
+        {
+          "key": "美国__B0GK19MDQQ__烘鞋器-Ultra（美规）-紫色",
+          "summary": "美国站该SKU日销仍高于计划，但较前一日小幅回落，需控节奏观察转化。",
+          "advice": "1) 先保持当前投放克制，不因单日回落立刻放量，连续观察2至3天确认是否为正常波动。 2) 由于今日未见广告花费，可复核该SKU是否主要依赖自然成交，必要时用小预算精准广告稳住流量。 3) 若后续销量继续回落，可优先测试轻促销或优惠券承接转化，再决定是否加大投放。"
+        }
+      ]
+    },
     "sourceMeta": {
       "source": "feishu",
-      "updatedAt": "2026-06-05T16:53:35+08:00"
+      "updatedAt": "2026-06-08T16:14:23+08:00"
     }
   },
-  "publishedAt": "2026-06-05T08:54:25.462Z"
+  "publishedAt": "2026-06-08T08:35:46.436Z"
 }

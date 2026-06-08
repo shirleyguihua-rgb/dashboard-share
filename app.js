@@ -437,6 +437,7 @@ if (refs.publishShareBtn) {
     try {
       refs.shareStatus.textContent = "发布中";
       refs.shareStatus.className = "badge badge-info";
+      refs.publishShareBtn.disabled = true;
       const result = await fetchJsonOrThrow("/api/share/publish", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -454,6 +455,8 @@ if (refs.publishShareBtn) {
       refs.shareStatus.textContent = "发布失败";
       refs.shareStatus.className = "badge badge-danger";
       showToast(error.message);
+    } finally {
+      refs.publishShareBtn.disabled = false;
     }
   });
 }
